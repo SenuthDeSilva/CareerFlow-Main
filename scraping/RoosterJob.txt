@@ -1,0 +1,1 @@
+https://rooster.jobs/?query=&limit=20&page=1&filters.jobTypes=internship

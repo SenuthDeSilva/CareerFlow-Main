@@ -1,0 +1,1154 @@
+{
+  "resume_id": 53,
+  "candidate": "Thimira Kodithuwakku",
+  "pipeline": "TF-IDF+Word2Vec+Skill+RandomForest",
+  "recommendations": [
+    {
+      "job_id": 1197,
+      "title": "AI Training Specialist – Intern / Trainee",
+      "company": "eBirth Business Academy (PVT) Ltd",
+      "location": "Kegalle Town, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/515400",
+      "source": "rooster",
+      "tfidf_score": 0.2875,
+      "word2vec_score": 0.3999,
+      "skill_score": 0.6,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 28.7,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 60,
+      "job_skills_count": 10,
+      "job_skills": [
+        "attention to detail",
+        "data science",
+        "documentation",
+        "gemini",
+        "machine learning",
+        "motivated",
+        "passionate",
+        "prompt engineering",
+        "python",
+        "research"
+      ],
+      "matched_skills": [
+        "data science",
+        "gemini",
+        "machine learning",
+        "passionate",
+        "prompt engineering",
+        "python"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "documentation",
+        "motivated",
+        "research"
+      ],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "AI Training Specialist – Intern / Trainee eBirth Business Academy is seeking a motivated and enthusiastic AI Training Specialist (Intern/Trainee) to join our growing team. This is an exciting opportunity for individuals passionate about Artificial Intelligence, technology, and education to gain hands-on experience in the rapidly evolving AI landscape.\nAI trainers in Sri Lanka annotate datasets, review AI outputs, and refine prompts for language models, often in niches like South Asian linguistics and regional technology. With growing demand from BPO hubs and offshore AI firms, this role places you at the forefront of one of the most in-demand career paths in the country.\nPosition :AI Training Specialist – Intern / Trainee\nDepartment :AI & Productivity / Data & Technology\nLocation :eBirth Business Academy – Kegalle, Sri Lanka\nEmployment Type :Internship / Traineeship (Full-time)\nDuration :6 Months (with potential for extension)\nWorking Hours :8.30 AM to 5.30 PM\nKey Responsibilities\nData Annotation & AI Quality Assurance:\n• Annotate datasets and label training data for AI and machine learning models\n• Review and evaluate AI-generated outputs for accuracy, relevance, and quality\n• Perform quality checks on AI content with emphasis on cultural relevance for South Asian and Sri Lankan contexts\nPrompt Engineering & Optimization:\n• Refine and optimize prompts for large language models (LLMs) to improve output quality\n• Develop, test, and document effective prompting strategies and frameworks\n• Create localized prompts in English and Sinhala/Tamil for region-specific AI projects\nAI Research & Evaluation:\n• Test and evaluate AI tools and platforms for text generation, image creation, research, and productivity\n• Conduct comparative analysis across AI platforms for performance, accuracy, and bias\n• Stay up to date with emerging AI trends, tools, and industry developments\nContent & Documentation:\n• Assist in creating AI-related training materials, guides, and documentation\n• Support content development for educational and business applications of AI\n• Maintain organized records of workflows, best practices, and troubleshooting procedures\nRequirements\nEssential:\n• Currently pursuing or recently completed a degree/diploma in IT, Computer Science, Data Science, Education, Business, or a related field\n• Proficiency in English (written and spoken); Sinhala language skills are a strong advantage for localized projects\n• Basic computing skills and familiarity with tools like Google Sheets, Microsoft Office, or similar productivity software\n• Strong interest in Artificial Intelligence and emerging technologies\n• Reliable internet connection and ability to work flexible hours (including for US/EU client time zones if required)\n• Attention to detail and a willingness to learn\nDesirable (Not Mandatory):\n• Prior experience with any AI tools (ChatGPT, Claude, Gemini, Perplexity, etc.)\n• Basic understanding of prompt engineering or content creation workflows\n• Familiarity with basic Python or any programming language\n• Experience in data entry, QA, call centers, or BPO environments\n• Background in social media content creation, graphic design, or video editing eBirth Business Academy (PVT) Ltd Kegalle Town, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 1,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1221,
+      "title": "Internship - Software Engineer Full Stack",
+      "company": "Axceera (Pvt) Ltd",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/509006",
+      "source": "rooster",
+      "tfidf_score": 0.198,
+      "word2vec_score": 0.3998,
+      "skill_score": 0.4667,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 19.8,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 47,
+      "job_skills_count": 15,
+      "job_skills": [
+        "aws",
+        "collaboration",
+        "communication",
+        "dynamodb",
+        "express",
+        "javascript",
+        "mongodb",
+        "motivated",
+        "mysql",
+        "node.js",
+        "passionate",
+        "postgresql",
+        "react",
+        "sql",
+        "team player"
+      ],
+      "matched_skills": [
+        "communication",
+        "express",
+        "javascript",
+        "mongodb",
+        "node.js",
+        "passionate",
+        "react"
+      ],
+      "missing_skills": [
+        "aws",
+        "collaboration",
+        "dynamodb",
+        "motivated",
+        "mysql",
+        "postgresql",
+        "sql",
+        "team player"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Internship - Software Engineer Full Stack Internship Opportunity at Axceera – Full-Stack JavaScript Developer (Intern)\nAxceera is on the lookout for motivated and results-driven undergraduates or fresh graduates to join our growing team as Full-Stack Software Engineer - Interns. If you’re passionate about building modern web applications using the latest technologies, we want to hear from you!\nJoin us and gain hands-on experience working on real-world projects while building your career in full-stack development.\n- Location:Work from home (Must have a reliable internet connection and personal computer)\n- Contract Duration:12 Months\n- Hands-on experience with JavaScript (ES6+)\n- Familiarity with React.js for frontend development\n- Knowledge of Node.js and Express.js for backend services\n- Exposure to AWS services (e.g., Lambda, S3, EC2, DynamoDB) is a strong plus\n- Understanding of RESTful API integration\n- Experience or understanding of databases – SQL (MySQL, PostgreSQL) and/or NoSQL (MongoDB)\n- Currently pursuing or completed a Diploma/Degree in IT, Computer Science, or related field\n- Strong communication skills in English\n- Eagerness to learn, adapt, and grow in a fast-paced environment\n- A team player with strong collaboration skills Axceera (Pvt) Ltd Remote",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 2,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1189,
+      "title": "Intern Business Analyst",
+      "company": "Twist Digital",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 15,000 - 20,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/516208",
+      "source": "rooster",
+      "tfidf_score": 0.144,
+      "word2vec_score": 0.3987,
+      "skill_score": 0.2941,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 14.4,
+      "word2vec_score_pct": 39.9,
+      "skill_score_pct": 29,
+      "job_skills_count": 17,
+      "job_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "business analysis",
+        "collaboration",
+        "communication",
+        "documentation",
+        "excel",
+        "jira",
+        "motivated",
+        "passionate",
+        "planning",
+        "proactive",
+        "problem-solving",
+        "project management",
+        "research",
+        "stakeholder",
+        "verbal communication"
+      ],
+      "matched_skills": [
+        "analytical thinking",
+        "business analysis",
+        "communication",
+        "passionate",
+        "stakeholder"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "collaboration",
+        "documentation",
+        "excel",
+        "jira",
+        "motivated",
+        "planning",
+        "proactive",
+        "problem-solving",
+        "project management",
+        "research",
+        "verbal communication"
+      ],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Intern Business Analyst We are seeking a motivated, analytical, and detail-orientedIntern Business Analystto join our growing team. This role is ideal for someone who is passionate about understanding business needs, improving processes, supporting digital projects, and helping bridge the gap between business goals and execution.\nThe ideal candidate should be eager to learn, comfortable working with cross-functional teams, and capable of supporting requirement gathering, process documentation, research, coordination, and project tracking. While this is an internship position, the role is designed for someone who wants real exposure to the responsibilities and mindset of a Business Analyst in a fast-paced digital environment.\nJoin us in our mission to revolutionize the way businesses approach their digital journey. Whether you are an innovator, a creative thinker, or someone passionate about transformative results, Twist Digital is the place for you. Embrace the power of change, unlock your potential, and shape the future with us.\nAre you ready to become a Twister? Apply now and be a part of the transformation!\n- Assist in gathering, analyzing, and documenting business requirements from internal stakeholders and clients.\n- Support the translation of business needs into clear functional requirements, user stories, workflows, and process documentation.\n- Work closely with internal teams including design, development, marketing, and operations to ensure clear communication of project goals and requirements.\n- Help identify business challenges, inefficiencies, and improvement opportunities, and contribute to practical solution recommendations.\n- Assist in preparing BRDs, requirement documents, meeting notes, reports, presentations, and project summaries.\n- Use collaboration and project management tools such asClickUp, Slack, Google Workspace, and other task management platformsto coordinate work, track progress, and maintain project visibility.\n- Monitor project tasks, timelines, and deliverables to help ensure alignment between stakeholder expectations and team execution.\n- Participate in team discussions, sprint planning sessions, internal reviews, and requirement clarification meetings.\n- Conduct market research, competitor analysis, and business research to support project planning and strategic decision-making.\n- Support UAT, validation, and quality checks to ensure delivered solutions align with business requirements.\n- Maintain organized documentation of processes, updates, action items, and stakeholder feedback.\n- Assist in improving internal workflows and reporting structures for better efficiency and collaboration.\n- Currently pursuing or recently completed a degree/diploma inBusiness Administration, Management, Information Systems, Marketing, Finance, or a related field.\n- Strong analytical thinking and problem-solving skills with high attention to detail.\n- Basic understanding ofbusiness analysis, requirement gathering, process mapping, documentation, and reporting.\n- Familiarity with workplace and project management tools such asClickUp, Slack, Trello, Asana, Notion, Jira, Google Sheets, Excel, and PowerPointis an advantage.\n- Strong written and verbal communication skills.\n- Ability to work independently while also collaborating effectively within a team.\n- Good organizational, coordination, and time-management skills.\n- Comfortable handling multiple tasks and adapting in a fast-paced work environment.\n- A proactive mindset with a strong willingness to learn and grow in business analysis and digital project delivery.\n- Interest in digital products, business processes, operations, and strategic problem-solving.\n- Hands-on exposure to real-worldbusiness analysis and project coordinationpractices.\n- Experience working with cross-functional teams on digital products and client projects.\n- Practical knowledge of requirement documentation, stakeholder communication, workflow analysis, and project tracking.\n- Exposure to tools and systems commonly used in modern digital businesses and project environments.\n- A strong foundation for building a career inBusiness Analysis, Product, Operations, or Project Management. Twist Digital Colombo, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 3,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1231,
+      "title": "Web development (Internship)",
+      "company": "falconet ltd",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/449735",
+      "source": "rooster",
+      "tfidf_score": 0.1402,
+      "word2vec_score": 0.3977,
+      "skill_score": 0.5333,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 14.0,
+      "word2vec_score_pct": 39.8,
+      "skill_score_pct": 53,
+      "job_skills_count": 15,
+      "job_skills": [
+        "communication",
+        "css",
+        "express",
+        "github",
+        "html",
+        "innovative",
+        "javascript",
+        "laravel",
+        "next.js",
+        "node.js",
+        "passionate",
+        "problem-solving",
+        "quick learner",
+        "react",
+        "team player"
+      ],
+      "matched_skills": [
+        "communication",
+        "express",
+        "github",
+        "innovative",
+        "javascript",
+        "node.js",
+        "passionate",
+        "react"
+      ],
+      "missing_skills": [
+        "css",
+        "html",
+        "laravel",
+        "next.js",
+        "problem-solving",
+        "quick learner",
+        "team player"
+      ],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Web development (Internship) Are you passionate about web development? We're excited to offer an internship where you can work on real projects, enhance your skills, and grow in a professional and creative environment!\n✅ Hands-on Experience – Work on real-world projects to refine your skills. ✅ Premium Learning Resources – Access multiple learning platforms and premium courses for free. ✅ Personalized Feedback – Receive individual guidance and constructive reviews. ✅ Professional Mentorship – Collaborate with experienced developers. ✅ Creative & Supportive Work Environment – Be part of an innovative and growth-oriented team. ✅ Portfolio Building – Gain practical experience and build a strong portfolio with real projects.\nIf you're ready to take your web development skills to the next level, we’d love to hear from you! 🌐💻🚀\n- Proficiency in React, Laravel, Node.js, Express, Next.js.\n- Strong understanding of HTML, CSS, and JavaScript.\n- Familiarity with GitHub and version control workflows.\n- Adherence to coding best practices and clean code principles.\n- Effective communication skills and ability to collaborate in a team.\n- Problem-solving mindset and willingness to learn.\n- Be a quick learner and adapt to new technologies.\n- Manage time efficiently to complete assigned tasks.\n- Be a team player with a positive attitude. falconet ltd Remote",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 4,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1208,
+      "title": "Software Engineer - Intern (Web Scraping & Automation)",
+      "company": "Zyner.io",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/508859",
+      "source": "rooster",
+      "tfidf_score": 0.1233,
+      "word2vec_score": 0.3989,
+      "skill_score": 0.2,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 12.3,
+      "word2vec_score_pct": 39.9,
+      "skill_score_pct": 20,
+      "job_skills_count": 15,
+      "job_skills": [
+        "collaboration",
+        "communication",
+        "css",
+        "data analysis",
+        "documentation",
+        "excel",
+        "github",
+        "mongodb",
+        "pandas",
+        "playwright",
+        "problem-solving",
+        "research",
+        "selenium",
+        "sql",
+        "verbal communication"
+      ],
+      "matched_skills": [
+        "communication",
+        "github",
+        "mongodb"
+      ],
+      "missing_skills": [
+        "collaboration",
+        "css",
+        "data analysis",
+        "documentation",
+        "excel",
+        "pandas",
+        "playwright",
+        "problem-solving",
+        "research",
+        "selenium",
+        "sql",
+        "verbal communication"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Software Engineer - Intern (Web Scraping & Automation) About the Role:\nWe’re on the hunt for a curious and skilled Software Engineering Intern who canscrape structured and unstructured datafrom any website we provide. This role is ideal for someone who enjoys solving technical puzzles, digging into the web, and automating repetitive tasks.\nAs an intern, you’ll be an essential part of our tech team—building and maintaining scraping tools, cleaning and structuring datasets, and helping us extract insights that drive real business decisions. You’ll work closely with our team to support internal research, lead generation, and more.\nKey Responsibilities:\nRequirements:\nGood to Have (Not Required):\nThink you’ve got what it takes to outsmart the web?Apply now and help us turn the internet into structured data gold.\n- Web Scraping:Build and maintain custom scrapers to collect data from various websites—public directories, e-commerce listings, social platforms, and more.\n- Automation:Set up tools/scripts to clean and structure scraped data for easy use and analysis.\n- Monitoring & Maintenance:Ensure scrapers remain functional despite site layout or structure changes.\n- Collaboration:Work with product, research, and business teams to understand data needs and deliver clean outputs.\n- Documentation:Clearly document scraping processes, scripts, and any workarounds used.\n- Proficient inPythonand libraries likeBeautifulSoup, Selenium, Scrapy, or Playwright.\n- Understanding ofHTML, CSS, and JavaScriptto navigate dynamic websites.\n- Experience working withAPIs,JSON, anddata storage(CSV, MongoDB, or SQL).\n- Familiarity withanti-bot mechanismsand how to bypass CAPTCHAs, rate limits, or blocked IPs (bonus).\n- Fluent in English with clear written and verbal communication.\n- Self-starter mindset with strong problem-solving skills.\n- GitHub experience and comfortable with collaborative coding workflows.\n- Experience with headless browsers (e.g., Puppeteer or Playwright).\n- Knowledge of proxy management and rotating user agents.\n- Basic data analysis or visualization skills (e.g., Pandas, Jupyter, or Excel). Zyner.io Remote",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 5,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1190,
+      "title": "QA Intern",
+      "company": "TSA Media Group(PVT) Ltd",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 25,000 - 25,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/438432",
+      "source": "rooster",
+      "tfidf_score": 0.1207,
+      "word2vec_score": 0.3994,
+      "skill_score": 0.4286,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 12.1,
+      "word2vec_score_pct": 39.9,
+      "skill_score_pct": 43,
+      "job_skills_count": 7,
+      "job_skills": [
+        "analytical skills",
+        "communication",
+        "documentation",
+        "innovative",
+        "javascript",
+        "php",
+        "planning"
+      ],
+      "matched_skills": [
+        "communication",
+        "innovative",
+        "javascript"
+      ],
+      "missing_skills": [
+        "analytical skills",
+        "documentation",
+        "php",
+        "planning"
+      ],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "QA Intern QA Internship - Responsibilities and Qualifications Overview\nPosition Overview:As a QA Intern at our company, you will engage in a comprehensive examination and validation process for our web-based applications and systems. Your role is pivotal in ensuring the functionality, reliability, and performance of our digital products by meticulously evaluating project specifications, testing website features, and identifying areas for enhancement.\nKey Responsibilities:\nQualifications:\nThis internship provides a dynamic environment to develop your professional skills while contributing to the quality assurance of our web applications. You will gain practical experience, work with seasoned professionals, and develop a critical understanding of the technological and user-centric aspects of website development.\n- Specification Analysis and Feedback:Carefully review project documentation to fully understand the website functionalities. Provide insightful and constructive feedback to enhance clarity and efficiency.\n- Test Case Development:Design detailed, clear, and comprehensive test cases that cover all necessary aspects of website testing to ensure thorough validation of functionality and performance.\n- Test Planning:Develop robust test plans that define the scope, approach, and resources required for effective quality assurance of web applications.\n- Resource and Time Estimation:Collaborate with the QA team to accurately estimate the time and resources needed to execute test plans efficiently.\n- Testing and Prioritization:Execute a variety of tests, including but not limited to functionality, usability, and performance tests. Prioritize testing activities based on project requirements and criticality.\n- Issue Documentation:Identify, document, and report any issues or bugs discovered during testing phases. Provide clear and actionable reports to facilitate quick resolutions by the development team.\n- User Experience Evaluation:Assess and critique the user interface and user experience to identify potential areas for improvement, aiming to enhance overall user satisfaction.\n- Cross-platform Testing:Evaluate the website’s performance, speed, responsiveness, and stability across various platforms, devices, and browsers to ensure consistent user experience.\n- Quality Culture Contribution:Actively contribute to the maintenance and enhancement of QA discipline within the team. Promote a culture of quality and continuous improvement throughout the organization.\n- Educational Background:Bachelor’s degree in Computer Science, Information Technology, or a related technical field is preferred.\n- Technical Proficiency:Basic knowledge of web programming languages such as PHP and JavaScript is highly beneficial.\n- Experience in Test Automation:Previous experience with test automation tools and performance testing methodologies will be considered an asset.\n- Analytical Skills:Demonstrated ability to analyze technical information, identify problems, and propose logical solutions.\n- Innovative Thinking:Ability to think creatively and outside the traditional frameworks to develop innovative testing strategies.\n- Practical Experience:Prior hands-on experience in website QA, including the development and execution of test cases, planning, and effective reporting.\n- Communication Skills:Excellent communication skills, both written and oral, are essential to effectively collaborate with development teams and other stakeholders. TSA Media Group(PVT) Ltd Colombo, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 6,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1201,
+      "title": "Marketing Intern",
+      "company": "INFINITE BUSINESS VENTURES (Pvt) Ltd",
+      "location": "Dehiwala, Dehiwala-Mount Lavinia, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514859",
+      "source": "rooster",
+      "tfidf_score": 0.0792,
+      "word2vec_score": 0.3969,
+      "skill_score": 0.5,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 7.9,
+      "word2vec_score_pct": 39.7,
+      "skill_score_pct": 50,
+      "job_skills_count": 4,
+      "job_skills": [
+        "communication",
+        "passionate",
+        "planning",
+        "proactive"
+      ],
+      "matched_skills": [
+        "communication",
+        "passionate"
+      ],
+      "missing_skills": [
+        "planning",
+        "proactive"
+      ],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Marketing Intern The Marketing Intern – Content & Creative will support the marketing team in creating engaging digital content, managing social media platforms, and contributing to creative marketing campaigns across multiple brands within the Infinite Group. This role is designed as a hands-on learning opportunity, allowing the intern to gain real-world marketing experience while working closely with an experienced marketing lead.\nAssist in creating marketing content including videos, visuals, captions, and basic copy using modern tools (including AI-assisted tools where appropriate).\nEdit and optimize content for social media platforms such as Instagram, TikTok, Facebook, LinkedIn, and YouTube.\nAdapt content styles to match different brand identities within the group.\nSupport daily social media activities including content scheduling and posting.\nMonitor engagement metrics and help identify content trends and performance insights.\nAssist in maintaining consistent brand presence across platforms.\nContribute ideas for creative marketing campaigns and promotional concepts.\nAssist in planning and executing digital campaigns for product launches and brand initiatives.\nCollaborate with the marketing team on storytelling and creative direction.\nParticipate in product photoshoots and video shoots (planning, on-site support, and post-production assistance).\nHelp develop brand stories and campaign narratives for different products and industries.\nLearn directly from an experienced marketing lead through mentorship and practical exposure.\nGain experience working on real product campaigns across 5 different brands and industries within the Infinite Group.\nDevelop skills in content creation, digital marketing, branding, and campaign execution.\nExposure to modern marketing tools, workflows, and AI-powered content creation methods.\nCurrently enrolled in or recently completed a degree/diploma in Marketing, Media, Business, Communication, or a related field.\nStrong interest in content creation, social media, and creative marketing.\nBasic knowledge of social media platforms and digital trends.\nWillingness to learn, experiment creatively, and take feedback positively.\nBasic familiarity with content creation or editing tools (experience with AI tools is an advantage).\nThe internship will include regular performance feedback and evaluations.\nOpportunity for permanent employment within the Infinite Group based on performance, commitment, and business requirements.\nCreative, proactive, and detail-oriented.\nComfortable working in a fast-paced, multi-brand environment.\nPassionate about storytelling, branding, and digital marketing.\nAPPLY NOW! INFINITE BUSINESS VENTURES (Pvt) Ltd Dehiwala, Dehiwala-Mount Lavinia, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 7,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1207,
+      "title": "Marketing, Analytics Internships (2026 Program)",
+      "company": "BCONIC",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514010",
+      "source": "rooster",
+      "tfidf_score": 0.0743,
+      "word2vec_score": 0.3991,
+      "skill_score": 0.2857,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 7.4,
+      "word2vec_score_pct": 39.9,
+      "skill_score_pct": 29,
+      "job_skills_count": 7,
+      "job_skills": [
+        "attention to detail",
+        "business analysis",
+        "communication",
+        "motivated",
+        "proactive",
+        "time management",
+        "verbal communication"
+      ],
+      "matched_skills": [
+        "business analysis",
+        "communication"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "motivated",
+        "proactive",
+        "time management",
+        "verbal communication"
+      ],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Marketing, Analytics Internships (2026 Program) Are you highly detail-oriented, analytical, and interested in how marketing performance is measured, reported, and optimized?\nOur internship program may be the right fit for you. This is an exciting opportunity to work with experienced and ambitious professionals (from both North America & Sri Lanka), supporting both agencies and brands with international marketing campaigns.\nYou will work closely with very experienced and accomplished senior marketers, giving you the chance to rapidly improve your skills and learn across many marketing disciplines and industries.\nSuccessful interns may be invited to extend their internship and progress into junior roles within our company or partner teams.\nRead on to find out if this is your next dream role!\nAs an intern on our team, you may be responsible for:\nYou may also have opportunities to:\nThis role offers exposure to working with large agencies, direct clients, and internal product teams: providing a 360º view of modern marketing.\nOur internships provide a lot of opportunities to craft a career.If you have an interest in a specific area, please indicate that in your cover letter.\nWorking with a startup is a unique experience: there are no heavy layers of management, rigid structures or “that’s just the way it’s always been done”. We are often venturing into new areas, unfamiliar industries and developing new skillsets.\nThat also means:it's very important that work is done on time and to a high standard.\nThat also means:You will be responsible for your own outcomes. You will need to actively manage your time, and actively solicit feedback on your work to ensure that what you deliver is on schedule and provides value.\nThat also means:you'll be expected to actively contribute ideas and participate in feedback for other's work outside of your chosen project.\nAs part of your onboarding, you'll work with a senior member of the team to build a 90-day plan. This will help you to succeed in your initial contract period!\nFor a candidate to succeed in this role, you will need the following:\nPlease highlight any experience you have in the following areas:\nNote that it is not required to have this experience to be considered for the role! Not sure if you meet all the requirements?Apply anyway, and tell us in the note why you'd be an asset to the team.\nThis is a full-time internship (40 hours per week, M-F), offering flexible working hours and a mostly remote setup. Occasional travel to Colombo will be required.\nWhile working hours are flexible, there is an all-hands team meeting every morning (M-F) in the morning (Some time between 8:30 - 10:00 AM IST). Other meetings are generally scheduled (M-F) between 6 and 10 pm IST to accommodate international team coordination.\nPlease note any restrictions on your schedule in your application.We aim to accommodate where possible!\nApply through the Rooster platform. Please include a short note (no more than 100 words) with your application. Let us know:Why are you interested in working for us specifically?\nIf you are someone who enjoys precise work, clear thinking, and are looking to join a team with high standards who constantly pushes to improve and grow, we look forward to your application!\nCome embark on an exciting journey in digital marketing with us!\n**_Applications without an attached note or letter will not be considered.\nApplications have now closed! Thank you to everyone who applied. _**\n- Supporting the setup of marketing campaigns and data sources within our platform\n- Updating and monitoring pacing and budget data\n- Checking and validating marketing statistics against platforms such as Google Ads, LinkedIn Ads, and others\n- Performing detailed QA to ensure data accuracy and a strong end-user experience\n- Assisting with preparation of data for advanced statistical marketing models\n- Helping develop and improve marketing reporting for clients\n- Analyzing marketing results and identifying meaningful insights\n- Supporting the creation of decks and materials that clearly communicate performance and results\n- Assisting with advisory work to help clients improve their reporting and measurement setups\n- Support hands-on campaign management for select marketing clients\n- Learn how to map customer journeys and define reporting structures and systems\n- Contribute to content and data storytelling for our website, social channels, and product marketing\n- Impactful Work:All of our team members take on important projects, interns included. You'll have a chance to have a real impact for our company and partners.\n- Flexibility:There are no overbearing managers or micromanagement. You will have guidance and support but no micromanagement.\n- Full Participation:Good ideas come from anyone, including you. We care about the quality of the idea, work and always improving outcomes for us and our partners.\n- Strong attention to detail, and a deep care for the quality of work you produce.\n- A keen interest in digital marketing, data and tech, business analytics and decision-making and an eagerness to learn and grow in these fields.\n- Strong organizational and time management skills to effectively manage multiple tasks and deadlines.\n- Excellent written and verbal communication skills in English (we work entirely in English).\n- (Very) proactive, results-oriented, and motivated to contribute to the success of marketing initiatives.\n- Ability to work independently and collaboratively in a remote team environment.\n- Any familiarity with marketing, advertising, data or analytics\n- This may include: digital marketing, marketing technologies, campaign management, data projects, business analysis, operations or other related work.\n- This can include volunteer experience, involvement with marketing for school clubs, social media accounts you have run, or otherwise. BCONIC Remote",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 8,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1204,
+      "title": "Intern - Client Services and Retention",
+      "company": "We Are Team Rocket",
+      "location": "Colombo, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/515023",
+      "source": "rooster",
+      "tfidf_score": 0.0683,
+      "word2vec_score": 0.3994,
+      "skill_score": 0.1,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 6.8,
+      "word2vec_score_pct": 39.9,
+      "skill_score_pct": 10,
+      "job_skills_count": 10,
+      "job_skills": [
+        "analytical skills",
+        "communication",
+        "critical thinking",
+        "data analysis",
+        "documentation",
+        "organizational skills",
+        "presentation",
+        "proactive",
+        "problem-solving",
+        "time management"
+      ],
+      "matched_skills": [
+        "communication"
+      ],
+      "missing_skills": [
+        "analytical skills",
+        "critical thinking",
+        "data analysis",
+        "documentation",
+        "organizational skills",
+        "presentation",
+        "proactive",
+        "problem-solving",
+        "time management"
+      ],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Intern - Client Services and Retention Intern – Client Services and Retention role at We Are Team Rocket (Pvt) Ltd offers an exciting opportunity to support client relationships, ensure account performance, and contribute to long-term client retention through data-driven insights and effective coordination. As a key member of the client services team, you will work closely with internal stakeholders and clients to deliver value, maintain strong relationships, and support business growth.\nResponsibilities\nQualifications\n- Client Account Support: Assist in managing client accounts by ensuring timely communication, follow-ups, and ongoing relationship support.\n- Report Creation and Data Analysis: Prepare regular client reports, analyze performance metrics, and extract insights to support decision-making.\n- Database and Information Management: Maintain accurate, well-organized client databases and documentation to ensure data integrity and accessibility.\n- Project Coordination: Coordinate tasks across teams, track timelines, and support smooth execution of client deliverables.\n- Client Retention and Communication: Support client retention initiatives through proactive communication, presentations, and performance reviews.\n- Interest or experience in client services and business operations\n- Strong analytical skills with the ability to interpret data and prepare reports\n- Excellent presentation and communication skills\n- Knowledge on databases, spreadsheets, or CRM systems is an advantage\n- Strong time management and organizational skills with the ability to manage multiple priorities\n- Detail-oriented with strong problem-solving and critical thinking abilities We Are Team Rocket Colombo, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 9,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1225,
+      "title": "Intern/Junior Quality Assurance Engineer",
+      "company": "Twist Digital",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/507857",
+      "source": "rooster",
+      "tfidf_score": 0.0636,
+      "word2vec_score": 0.3993,
+      "skill_score": 0.3636,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 6.4,
+      "word2vec_score_pct": 39.9,
+      "skill_score_pct": 36,
+      "job_skills_count": 11,
+      "job_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "communication",
+        "css",
+        "html",
+        "javascript",
+        "jira",
+        "passionate",
+        "postman",
+        "project management",
+        "selenium"
+      ],
+      "matched_skills": [
+        "analytical thinking",
+        "communication",
+        "javascript",
+        "passionate"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "css",
+        "html",
+        "jira",
+        "postman",
+        "project management",
+        "selenium"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Intern/Junior Quality Assurance Engineer Position: Intern/Junior Quality Assurance Engineer\nResponsibilities:\nRequirements:\nSoft Skills:\nSalary: 20,000 LKR - 40000 LKR\nJoin us in our mission to revolutionize the way businesses approach their digital journey. Whether you are an innovator, a creative mind, or someone passionate about transformative results, Twist Digital is the place for you. Embrace the power of change, unlock your potential, and shape the future with us.\nAre you ready to become a Twister? Apply now and be a part of the transformation!\n- Assist in creating and executingtest plans, test cases, and test scriptsfor web and mobile applications.\n- Perform manual testing to identify bugs, usability issues, and performance bottlenecks.\n- Collaborate with developers and designers to ensure consistent quality across features and releases.\n- Document and track defects using project management or bug tracking tools like ClickUp or Jira.\n- Support in regression testing, cross-browser testing, and user acceptance testing (UAT).\n- Contribute to process improvements and QA best practices.\n- Stay updated on QA methodologies, tools, and industry trends.\n- Help ensure product quality by proactively identifying edge cases and inconsistencies.\n- Basic understanding ofsoftware development life cycle (SDLC) and QA methodologies.\n- Familiarity with web technologies likePython, HTML, CSS, JavaScript, and browser dev tools.\n- Experience with bug tracking and project management tools (e.g.,ClickUp, Jira, Trello).\n- Exposure to testing on various devices, browsers, and operating systems. Knowledge of basic database concepts andAPI testingis a plus.\n- Understanding of automation tools or scripting (e.g.,Selenium, Postman) is a bonus.\n- Analytical Thinking:Ability to spot patterns, bugs, and anomalies in complex systems.\n- Clear Communication:Report bugs and feedback concisely and collaborate effectively.\n- Curiosity & Learning:Eagerness to learn new tools, systems, and testing techniques.\n- Attention to Detail:Ensure thorough testing to minimize missed bugs.\n- Accountability:Take ownership of assigned tasks and deliver quality output. Twist Digital Remote",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 10,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1080,
+      "title": "Software Engineering Vacancies",
+      "company": "Manpower Sri Lanka",
+      "location": "Colombo 4",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001479329",
+      "source": "topjobs",
+      "tfidf_score": 0.1436,
+      "word2vec_score": 0.3644,
+      "skill_score": 0.0,
+      "hybrid_score": 0.8759,
+      "tfidf_score_pct": 14.4,
+      "word2vec_score_pct": 36.4,
+      "skill_score_pct": 0,
+      "job_skills_count": 0,
+      "job_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Software Engineering Vacancies Software Engineering Project. Manpower Sri Lanka Colombo 4",
+      "ml_score": 0.8759,
+      "ml_score_pct": 87.6,
+      "hybrid_score_pct": 87.6,
+      "rank": 11,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1017,
+      "title": "Senior Front end Developer (1)",
+      "company": "DirectFN",
+      "location": "Rajagiriya",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001480722",
+      "source": "topjobs",
+      "tfidf_score": 0.1825,
+      "word2vec_score": 0.3983,
+      "skill_score": 0.0,
+      "hybrid_score": 0.8544,
+      "tfidf_score_pct": 18.2,
+      "word2vec_score_pct": 39.8,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "javascript"
+      ],
+      "matched_skills": [
+        "javascript"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Senior Front end Developer (1) ?\tBachelor?s degree in Software Engineering, Computer Science, or related field.\n?\t2+ years of experience in web development using modern JavaScript frame .... DirectFN Rajagiriya",
+      "ml_score": 0.8544,
+      "ml_score_pct": 85.4,
+      "hybrid_score_pct": 85.4,
+      "rank": 12,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1016,
+      "title": "QA Lead - Automation (1)",
+      "company": "DirectFN",
+      "location": "Rajagiriya",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001480723",
+      "source": "topjobs",
+      "tfidf_score": 0.1023,
+      "word2vec_score": 0.3967,
+      "skill_score": 0.0,
+      "hybrid_score": 0.808,
+      "tfidf_score_pct": 10.2,
+      "word2vec_score_pct": 39.7,
+      "skill_score_pct": 0,
+      "job_skills_count": 0,
+      "job_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "QA Lead - Automation (1) Required Qualifications\n\nBachelor's degree in Computer Science, Engineering, or related field.\nMinimum 6+ years of experience in QA with at least 3+ yea .... DirectFN Rajagiriya",
+      "ml_score": 0.808,
+      "ml_score_pct": 80.8,
+      "hybrid_score_pct": 80.8,
+      "rank": 13,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1175,
+      "title": "Intern ? Information Technology (1)",
+      "company": "John Keells IT",
+      "location": "Colombo 2",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001472494",
+      "source": "topjobs",
+      "tfidf_score": 0.0672,
+      "word2vec_score": 0.2743,
+      "skill_score": 0.0,
+      "hybrid_score": 0.8037,
+      "tfidf_score_pct": 6.7,
+      "word2vec_score_pct": 27.4,
+      "skill_score_pct": 0,
+      "job_skills_count": 0,
+      "job_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Intern ? Information Technology (1) Please refer the Advert. John Keells IT Colombo 2",
+      "ml_score": 0.8037,
+      "ml_score_pct": 80.4,
+      "hybrid_score_pct": 80.4,
+      "rank": 14,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1180,
+      "title": "Intern ? Information Technology (1)",
+      "company": "John Keells IT",
+      "location": "Colombo 2",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001368949",
+      "source": "topjobs",
+      "tfidf_score": 0.0672,
+      "word2vec_score": 0.2743,
+      "skill_score": 0.0,
+      "hybrid_score": 0.8037,
+      "tfidf_score_pct": 6.7,
+      "word2vec_score_pct": 27.4,
+      "skill_score_pct": 0,
+      "job_skills_count": 0,
+      "job_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Intern ? Information Technology (1) Please refer the Advert. John Keells IT Colombo 2",
+      "ml_score": 0.8037,
+      "ml_score_pct": 80.4,
+      "hybrid_score_pct": 80.4,
+      "rank": 15,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 974,
+      "title": "Junior Full-Stack Developer (Bubble.io, Python, AWS, AI)",
+      "company": "Efficient Frontiers International",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001481534",
+      "source": "topjobs",
+      "tfidf_score": 0.0756,
+      "word2vec_score": 0.2544,
+      "skill_score": 0.0,
+      "hybrid_score": 0.7962,
+      "tfidf_score_pct": 7.6,
+      "word2vec_score_pct": 25.4,
+      "skill_score_pct": 50,
+      "job_skills_count": 2,
+      "job_skills": [
+        "aws",
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [
+        "aws"
+      ],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Junior Full-Stack Developer (Bubble.io, Python, AWS, AI) Please refer the vacancy Efficient Frontiers International Colombo",
+      "ml_score": 0.7962,
+      "ml_score_pct": 79.6,
+      "hybrid_score_pct": 79.6,
+      "rank": 16,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 986,
+      "title": "Intern - Data Science & Analytics (1)",
+      "company": "MAS Holdings",
+      "location": "Biyagama",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001481333",
+      "source": "topjobs",
+      "tfidf_score": 0.078,
+      "word2vec_score": 0.3885,
+      "skill_score": 0.0,
+      "hybrid_score": 0.7946,
+      "tfidf_score_pct": 7.8,
+      "word2vec_score_pct": 38.9,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "data science"
+      ],
+      "matched_skills": [
+        "data science"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Intern - Data Science & Analytics (1) Click on the advert to apply. MAS Holdings Biyagama",
+      "ml_score": 0.7946,
+      "ml_score_pct": 79.5,
+      "hybrid_score_pct": 79.5,
+      "rank": 17,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1166,
+      "title": "Procurement Officer - Information Technology",
+      "company": "Prime Management Service (Pvt) Ltd",
+      "location": "Rajagiriya",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001476626",
+      "source": "topjobs",
+      "tfidf_score": 0.0533,
+      "word2vec_score": 0.3892,
+      "skill_score": 0.0,
+      "hybrid_score": 0.7913,
+      "tfidf_score_pct": 5.3,
+      "word2vec_score_pct": 38.9,
+      "skill_score_pct": 0,
+      "job_skills_count": 0,
+      "job_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Procurement Officer - Information Technology Join our dynamic team as a Procurement Officer - IT and play a key role in sourcing and purchasing IT equipment, software, and services. Prime Management Service (Pvt) Ltd Rajagiriya",
+      "ml_score": 0.7913,
+      "ml_score_pct": 79.1,
+      "hybrid_score_pct": 79.1,
+      "rank": 18,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1113,
+      "title": "Software Engineer / Senior Software Engineer ? Data Migration &  Integration (1)",
+      "company": "Jobfactory",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001478604",
+      "source": "topjobs",
+      "tfidf_score": 0.0615,
+      "word2vec_score": 0.3641,
+      "skill_score": 0.0,
+      "hybrid_score": 0.7903,
+      "tfidf_score_pct": 6.2,
+      "word2vec_score_pct": 36.4,
+      "skill_score_pct": 0,
+      "job_skills_count": 0,
+      "job_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "Software Engineer / Senior Software Engineer ? Data Migration &  Integration (1) Remote Working Jobfactory Colombo",
+      "ml_score": 0.7903,
+      "ml_score_pct": 79.0,
+      "hybrid_score_pct": 79.0,
+      "rank": 19,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    },
+    {
+      "job_id": 1084,
+      "title": "AI Assistant Intern (1)",
+      "company": "Nawaloka Hospitals PLC",
+      "location": "",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001479072",
+      "source": "topjobs",
+      "tfidf_score": 0.0531,
+      "word2vec_score": 0.2516,
+      "skill_score": 0.0,
+      "hybrid_score": 0.7604,
+      "tfidf_score_pct": 5.3,
+      "word2vec_score_pct": 25.2,
+      "skill_score_pct": 0,
+      "job_skills_count": 0,
+      "job_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "Thimira Kodithuwakku AI/ML Software Engineer thimirakodithuwakku14@gmail.com 0760113698 Colombo, Sri Lanka Linkedin GitHub PROFILE I am a Computer Science undergraduate specializing in Artificial Intelligence with a strong passion for software engineering, specifically in Web Development, Data Science, AI and Machine Learning. I am passionate about building innovative, data-driven solutions that blend creativity with technical precision, leveraging analytical thinking to bridge business needs and technical implementation. As an aspiring AI/ ML Engineer, I am dedicated to enhancing my skills in alignment with the goals of forward-thinking organizations. PROJECTS Cleverly 12/2024 11/2025 Social Media Platform for Consumer Reviews Developed a full-stack web-based platform with a MERN and FastAPI architecture, allowing users to post and analyze product reviews. Architected and deployed a multi-service fraud detection system combining rule- based heuristics with machine learning models (TF-IDF + Logistic Regression) to identify fake reviews and coordinated attacks. Engineered real-time sentiment analysis microservices using HuggingFace RoBERTa Transformers and FastAPI for instant text classification. Developed GenAI-based stance detection using Google Gemini and prompt engineering to classify user agreement via structured JSON. Processed text classification at scale using scikit-learn pipelines and joblib model persistence. Python, FastAPI, React, Node.js, Express, MongoDB, Scikit-learn, Transformers, Google Gemini ClaimSense 08/2025 Present Intelligent Insurance Claim Management System (Ongoing) Built a multi-agent AI system using Ollama (Llama 3.2-Vision Llama 3) to detect insurance fraud through image and text analysis. Developed a FastAPI backend with a dynamic state machine for automated routing of suspicious claims. Created a Streamlit explainability dashboard with agent decision timelines and visual evidence panels. Implemented AI agents specialized as Insurance Adjuster (vision) and Forensic Linguist (text). Python, FastAPI, Ollama, Streamlit, Llama 3 LedgerFlow 12/2025 Present High-Concurrency Transaction Processing Engine (Ongoing) Built a thread-safe financial backend ensuring strict ACID compliance.+3 Developed a modular architecture using SOLID principles and the Strategy Design Pattern to decouple calculation logic. Implemented an Optimistic Locking mechanism using JPA/ Hibernate to prevent race conditions. Created an Audit Logging Aspect using Spring AOP to record sensitive state changes. Java, Spring Boot, JPA, Hibernate, Spring AOP EDUCATION BSc (Hons) in Computer Science with Artificial Intelligence 2026 Present Coventry University, UK (delivered via NIBM) National Diploma in Technology (Information Technology) 2023 Present Institute of Technology, University of Moratuwa (ITUM) Physical Science 2007 2020 St. Anthonys College, Kandy Kandy, Sri Lanka SKILLS Technologies Tools Python, Java, JavaScript, FastAPI, Node.js, Express, React, Spring Boot, Scikit-learn, NLP, Transformers (HuggingFace), Generative AI (LLMs), Prompt Engineering, TF-IDF, Model Deployment, Feature Engineering, RAG, Docker, Git, Computer Vision, OpenCV, Ollama,Llama 3.2-Vision. SoftSkills Requirements Gathering, Stakeholder Interviews, Use Case User Story Development, UML Diagramming, Strategic Thinking, Business Analysis. Communication. LANGUAGES English Sinhala REFERENCES Mrs. D.A.S. Ruwanmini, Senior Lecturer at ITUM, Institute of Technology University of Moratuwa 077 855 8303 Mrs. Uthpala Athukorala, Head of IT Division at ITUM 077 266 6602",
+      "job_description_raw": "AI Assistant Intern (1) Please refer the advertisement. Nawaloka Hospitals PLC",
+      "ml_score": 0.7604,
+      "ml_score_pct": 76.0,
+      "hybrid_score_pct": 76.0,
+      "rank": 20,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 50.3,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 50.3
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 45.6
+        },
+        {
+          "role": "Full Stack Developer",
+          "confidence": 1.6
+        }
+      ]
+    }
+  ]
+}

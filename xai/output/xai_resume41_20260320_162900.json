@@ -1,0 +1,2942 @@
+{
+  "resume_id": 41,
+  "candidate": "Pasindu Sandeepa",
+  "generated_at": "2026-03-20T16:29:00.626388",
+  "explanations": [
+    {
+      "rank": 1,
+      "job_id": 1221,
+      "job_title": "Internship - Software Engineer Full Stack",
+      "company": "Axceera (Pvt) Ltd",
+      "source": "rooster",
+      "hybrid_score_pct": 37.8,
+      "shap": {
+        "summary": "Excellent match (37.8%) — strongly recommended",
+        "why_recommended": [
+          "Strong skill match — 8 skills aligned: aws, javascript, mongodb, mysql, node.js...",
+          "High text similarity (26.3%) — resume content closely matches job description",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 7 skills to develop: collaboration, communication, dynamodb, express, motivated..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1883
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.067
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0377
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0469
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.5333,
+          "tfidf_score": 0.2627,
+          "matched_skills_count": 8,
+          "missing_skills_count": 7,
+          "resume_skill_count": 45,
+          "job_skill_count": 15,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1883,
+          "matched_skills_count": 0.067,
+          "missing_skills_count": -0.0469,
+          "job_skill_count": 0.0377,
+          "skill_match_ratio": 0.0156,
+          "tfidf_score": 0.0066,
+          "location_match": 0.0059,
+          "experience_fit": 0.0059,
+          "is_intern_level": 0.0042
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: stack, js, computer, engineer, development. The job is primarily looking for: stack, experience, js, strong, axceera.",
+        "top_keywords": [
+          [
+            "stack",
+            0.017237
+          ],
+          [
+            "js",
+            0.008618
+          ],
+          [
+            "computer",
+            0.007182
+          ],
+          [
+            "engineer",
+            0.005746
+          ],
+          [
+            "development",
+            0.004309
+          ],
+          [
+            "experience",
+            0.004309
+          ],
+          [
+            "real",
+            0.004309
+          ],
+          [
+            "using",
+            0.003591
+          ]
+        ],
+        "job_keywords": [
+          [
+            "stack",
+            0.179399
+          ],
+          [
+            "experience",
+            0.134549
+          ],
+          [
+            "js",
+            0.134549
+          ],
+          [
+            "strong",
+            0.134549
+          ],
+          [
+            "axceera",
+            0.12607
+          ],
+          [
+            "internship",
+            0.12607
+          ],
+          [
+            "join",
+            0.12607
+          ],
+          [
+            "services",
+            0.12607
+          ]
+        ],
+        "shared_keywords": [
+          "api",
+          "applications",
+          "aws",
+          "backend",
+          "building",
+          "computer",
+          "databases",
+          "developer",
+          "development",
+          "diploma",
+          "driven",
+          "engineer",
+          "english",
+          "experience",
+          "full"
+        ],
+        "keyword_matches": 45
+      },
+      "skill_gap": {
+        "matched": [
+          "aws",
+          "javascript",
+          "mongodb",
+          "mysql",
+          "node.js",
+          "postgresql",
+          "react",
+          "sql"
+        ],
+        "missing": [
+          "collaboration",
+          "communication",
+          "dynamodb",
+          "express",
+          "motivated",
+          "passionate",
+          "team player"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "job_id": 1223,
+      "job_title": "Intern - Software Engineer",
+      "company": "Twist Digital",
+      "source": "rooster",
+      "hybrid_score_pct": 29.2,
+      "shap": {
+        "summary": "Good match (29.2%) — worth applying",
+        "why_recommended": [
+          "Strong skill match — 5 skills aligned: git, github, javascript, mongodb, node.js",
+          "High text similarity (19.1%) — resume content closely matches job description",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 9 skills to develop: attention to detail, communication, dedicated, express, motivated..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1542
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0343
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0288
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0493
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.3571,
+          "tfidf_score": 0.1911,
+          "matched_skills_count": 5,
+          "missing_skills_count": 9,
+          "resume_skill_count": 45,
+          "job_skill_count": 14,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1542,
+          "missing_skills_count": -0.0493,
+          "matched_skills_count": 0.0343,
+          "job_skill_count": 0.0288,
+          "skill_match_ratio": 0.0086,
+          "location_match": 0.0048,
+          "experience_fit": 0.0048,
+          "tfidf_score": 0.0039,
+          "is_intern_level": 0.0034
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: development, js, mongodb, web, github. The job is primarily looking for: digital, businesses, nextjs, reactjs, reactjs nextjs.",
+        "top_keywords": [
+          [
+            "development",
+            0.006033
+          ],
+          [
+            "js",
+            0.006033
+          ],
+          [
+            "mongodb",
+            0.004525
+          ],
+          [
+            "web",
+            0.004525
+          ],
+          [
+            "github",
+            0.003016
+          ],
+          [
+            "node",
+            0.003016
+          ],
+          [
+            "node js",
+            0.003016
+          ],
+          [
+            "stack",
+            0.003016
+          ]
+        ],
+        "job_keywords": [
+          [
+            "digital",
+            0.220785
+          ],
+          [
+            "businesses",
+            0.132471
+          ],
+          [
+            "nextjs",
+            0.132471
+          ],
+          [
+            "reactjs",
+            0.132471
+          ],
+          [
+            "reactjs nextjs",
+            0.132471
+          ],
+          [
+            "team",
+            0.132471
+          ],
+          [
+            "development",
+            0.125672
+          ],
+          [
+            "js",
+            0.094254
+          ]
+        ],
+        "shared_keywords": [
+          "apis",
+          "application",
+          "applications",
+          "backend",
+          "building",
+          "change",
+          "comprehensive",
+          "control",
+          "data",
+          "developing",
+          "development",
+          "dynamic",
+          "engineer",
+          "experience",
+          "foundation"
+        ],
+        "keyword_matches": 48
+      },
+      "skill_gap": {
+        "matched": [
+          "git",
+          "github",
+          "javascript",
+          "mongodb",
+          "node.js"
+        ],
+        "missing": [
+          "attention to detail",
+          "communication",
+          "dedicated",
+          "express",
+          "motivated",
+          "passionate",
+          "planning",
+          "problem-solving",
+          "reactjs"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "job_id": 1197,
+      "job_title": "AI Training Specialist – Intern / Trainee",
+      "company": "eBirth Business Academy (PVT) Ltd",
+      "source": "rooster",
+      "hybrid_score_pct": 27.7,
+      "shap": {
+        "summary": "Good match (27.7%) — worth applying",
+        "why_recommended": [
+          "Partial skill match — 3 skills aligned: data science, machine learning, python",
+          "High text similarity (19.9%) — resume content closely matches job description",
+          "Job level matches your experience (internship/entry-level)"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 7 skills to develop: attention to detail, documentation, gemini, motivated, passionate..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1668
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0222
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0222
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0415
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.3,
+          "tfidf_score": 0.1994,
+          "matched_skills_count": 3,
+          "missing_skills_count": 7,
+          "resume_skill_count": 45,
+          "job_skill_count": 10,
+          "location_match": 0.5,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1668,
+          "missing_skills_count": -0.0415,
+          "matched_skills_count": 0.0222,
+          "job_skill_count": 0.0222,
+          "skill_match_ratio": 0.0078,
+          "experience_fit": 0.0052,
+          "tfidf_score": 0.0044,
+          "is_intern_level": 0.0037,
+          "location_match": 0.0026
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: ai, data, technology, time, content. The job is primarily looking for: ai, training, language, quality, content.",
+        "top_keywords": [
+          [
+            "ai",
+            0.035734
+          ],
+          [
+            "data",
+            0.007147
+          ],
+          [
+            "technology",
+            0.00536
+          ],
+          [
+            "time",
+            0.005003
+          ],
+          [
+            "content",
+            0.003573
+          ],
+          [
+            "sri",
+            0.003216
+          ],
+          [
+            "tools",
+            0.002859
+          ],
+          [
+            "python",
+            0.002501
+          ]
+        ],
+        "job_keywords": [
+          [
+            "ai",
+            0.444745
+          ],
+          [
+            "training",
+            0.156268
+          ],
+          [
+            "language",
+            0.125015
+          ],
+          [
+            "quality",
+            0.125015
+          ],
+          [
+            "content",
+            0.111186
+          ],
+          [
+            "data",
+            0.111186
+          ],
+          [
+            "ai training",
+            0.093761
+          ],
+          [
+            "basic",
+            0.093761
+          ]
+        ],
+        "shared_keywords": [
+          "accuracy",
+          "across",
+          "ai",
+          "analysis",
+          "applications",
+          "business",
+          "computer",
+          "computing",
+          "content",
+          "data",
+          "development",
+          "diploma",
+          "education",
+          "english",
+          "experience"
+        ],
+        "keyword_matches": 49
+      },
+      "skill_gap": {
+        "matched": [
+          "data science",
+          "machine learning",
+          "python"
+        ],
+        "missing": [
+          "attention to detail",
+          "documentation",
+          "gemini",
+          "motivated",
+          "passionate",
+          "prompt engineering",
+          "research"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "job_id": 1216,
+      "job_title": "Student Success Instructor - Intern",
+      "company": "Metana",
+      "source": "rooster",
+      "hybrid_score_pct": 27.1,
+      "shap": {
+        "summary": "Good match (27.1%) — worth applying",
+        "why_recommended": [
+          "Partial skill match — 4 skills aligned: java, postgresql, spring, spring boot",
+          "Moderate text relevance (12.9%) — resume keywords partially match job",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 7 skills to develop: collaboration, communication, leadership, mentoring, oop..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1564
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0278
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0229
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0389
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.3636,
+          "tfidf_score": 0.1289,
+          "matched_skills_count": 4,
+          "missing_skills_count": 7,
+          "resume_skill_count": 45,
+          "job_skill_count": 11,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1564,
+          "missing_skills_count": -0.0389,
+          "matched_skills_count": 0.0278,
+          "job_skill_count": 0.0229,
+          "skill_match_ratio": 0.0088,
+          "location_match": 0.0049,
+          "experience_fit": 0.0049,
+          "is_intern_level": 0.0035,
+          "tfidf_score": 0.0027
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: real, learning, experience, development, java. The job is primarily looking for: engineering, student, teaching, experience, design.",
+        "top_keywords": [
+          [
+            "real",
+            0.008069
+          ],
+          [
+            "learning",
+            0.007172
+          ],
+          [
+            "experience",
+            0.004483
+          ],
+          [
+            "development",
+            0.004034
+          ],
+          [
+            "java",
+            0.004034
+          ],
+          [
+            "production",
+            0.00269
+          ],
+          [
+            "data",
+            0.001793
+          ],
+          [
+            "backend",
+            0.001345
+          ]
+        ],
+        "job_keywords": [
+          [
+            "engineering",
+            0.159118
+          ],
+          [
+            "student",
+            0.159118
+          ],
+          [
+            "teaching",
+            0.159118
+          ],
+          [
+            "experience",
+            0.141517
+          ],
+          [
+            "design",
+            0.119338
+          ],
+          [
+            "learners",
+            0.119338
+          ],
+          [
+            "mentorship",
+            0.119338
+          ],
+          [
+            "metana",
+            0.119338
+          ]
+        ],
+        "shared_keywords": [
+          "acceleration",
+          "apis",
+          "architecture",
+          "automation",
+          "backend",
+          "boot",
+          "building",
+          "content",
+          "data",
+          "developer",
+          "development",
+          "driven",
+          "dual",
+          "education",
+          "experience"
+        ],
+        "keyword_matches": 45
+      },
+      "skill_gap": {
+        "matched": [
+          "java",
+          "postgresql",
+          "spring",
+          "spring boot"
+        ],
+        "missing": [
+          "collaboration",
+          "communication",
+          "leadership",
+          "mentoring",
+          "oop",
+          "passionate",
+          "problem solving"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "job_id": 1231,
+      "job_title": "Web development (Internship)",
+      "company": "falconet ltd",
+      "source": "rooster",
+      "hybrid_score_pct": 26.8,
+      "shap": {
+        "summary": "Good match (26.8%) — worth applying",
+        "why_recommended": [
+          "Strong skill match — 5 skills aligned: github, javascript, next.js, node.js, react",
+          "High text similarity (15.1%) — resume content closely matches job description",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 10 skills to develop: communication, css, express, html, innovative..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1386
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0308
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0277
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0493
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.3333,
+          "tfidf_score": 0.1506,
+          "matched_skills_count": 5,
+          "missing_skills_count": 10,
+          "resume_skill_count": 45,
+          "job_skill_count": 15,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1386,
+          "missing_skills_count": -0.0493,
+          "matched_skills_count": 0.0308,
+          "job_skill_count": 0.0277,
+          "skill_match_ratio": 0.0072,
+          "location_match": 0.0043,
+          "experience_fit": 0.0043,
+          "is_intern_level": 0.0031,
+          "tfidf_score": 0.0028
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: real, development, web, js, learning. The job is primarily looking for: team, work, skills, development, projects.",
+        "top_keywords": [
+          [
+            "real",
+            0.012186
+          ],
+          [
+            "development",
+            0.006093
+          ],
+          [
+            "web",
+            0.006093
+          ],
+          [
+            "js",
+            0.005416
+          ],
+          [
+            "learning",
+            0.005416
+          ],
+          [
+            "time",
+            0.004739
+          ],
+          [
+            "github",
+            0.004062
+          ],
+          [
+            "experience",
+            0.002708
+          ]
+        ],
+        "job_keywords": [
+          [
+            "team",
+            0.179898
+          ],
+          [
+            "work",
+            0.179898
+          ],
+          [
+            "skills",
+            0.170665
+          ],
+          [
+            "development",
+            0.127999
+          ],
+          [
+            "projects",
+            0.127999
+          ],
+          [
+            "real",
+            0.127999
+          ],
+          [
+            "web",
+            0.127999
+          ],
+          [
+            "web development",
+            0.127999
+          ]
+        ],
+        "shared_keywords": [
+          "access",
+          "building",
+          "control",
+          "development",
+          "experience",
+          "github",
+          "hands",
+          "javascript",
+          "js",
+          "learn",
+          "learning",
+          "new",
+          "next",
+          "node",
+          "platforms"
+        ],
+        "keyword_matches": 25
+      },
+      "skill_gap": {
+        "matched": [
+          "github",
+          "javascript",
+          "next.js",
+          "node.js",
+          "react"
+        ],
+        "missing": [
+          "communication",
+          "css",
+          "express",
+          "html",
+          "innovative",
+          "laravel",
+          "passionate",
+          "problem-solving",
+          "quick learner",
+          "team player"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "job_id": 1198,
+      "job_title": "Intern - Software Engineering",
+      "company": "Zegates International Private Limited",
+      "source": "rooster",
+      "hybrid_score_pct": 25.9,
+      "shap": {
+        "summary": "Good match (25.9%) — worth applying",
+        "why_recommended": [
+          "Partial skill match — 4 skills aligned: flutter, node.js, python, react",
+          "High text similarity (16.6%) — resume content closely matches job description",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 10 skills to develop: communication, creativity, golang, leadership, logical thinking..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1382
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0258
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0246
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0491
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.2857,
+          "tfidf_score": 0.1657,
+          "matched_skills_count": 4,
+          "missing_skills_count": 10,
+          "resume_skill_count": 45,
+          "job_skill_count": 14,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1382,
+          "missing_skills_count": -0.0491,
+          "job_skill_count": 0.0258,
+          "matched_skills_count": 0.0246,
+          "skill_match_ratio": 0.0061,
+          "location_match": 0.0043,
+          "experience_fit": 0.0043,
+          "tfidf_score": 0.0031,
+          "is_intern_level": 0.0031
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: js, python, development, stack, web. The job is primarily looking for: team, skills, career, communication, growth.",
+        "top_keywords": [
+          [
+            "js",
+            0.005892
+          ],
+          [
+            "python",
+            0.005156
+          ],
+          [
+            "development",
+            0.004419
+          ],
+          [
+            "stack",
+            0.004419
+          ],
+          [
+            "web",
+            0.004419
+          ],
+          [
+            "technology",
+            0.003683
+          ],
+          [
+            "data",
+            0.002946
+          ],
+          [
+            "experience",
+            0.002946
+          ]
+        ],
+        "job_keywords": [
+          [
+            "team",
+            0.195338
+          ],
+          [
+            "skills",
+            0.185313
+          ],
+          [
+            "career",
+            0.130225
+          ],
+          [
+            "communication",
+            0.130225
+          ],
+          [
+            "growth",
+            0.130225
+          ],
+          [
+            "innovation",
+            0.130225
+          ],
+          [
+            "open",
+            0.130225
+          ],
+          [
+            "open source",
+            0.130225
+          ]
+        ],
+        "shared_keywords": [
+          "accelerated",
+          "algorithms",
+          "application",
+          "architecture",
+          "based",
+          "data",
+          "development",
+          "edge",
+          "experience",
+          "expertise",
+          "flutter",
+          "future",
+          "hands",
+          "js",
+          "node"
+        ],
+        "keyword_matches": 29
+      },
+      "skill_gap": {
+        "matched": [
+          "flutter",
+          "node.js",
+          "python",
+          "react"
+        ],
+        "missing": [
+          "communication",
+          "creativity",
+          "golang",
+          "leadership",
+          "logical thinking",
+          "motivated",
+          "passionate",
+          "problem-solving",
+          "react native",
+          "solid"
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "job_id": 1208,
+      "job_title": "Software Engineer - Intern (Web Scraping & Automation)",
+      "company": "Zyner.io",
+      "source": "rooster",
+      "hybrid_score_pct": 24.7,
+      "shap": {
+        "summary": "Moderate match (24.7%) — consider if interested",
+        "why_recommended": [
+          "Partial skill match — 4 skills aligned: github, mongodb, pandas, sql",
+          "High text similarity (15.1%) — resume content closely matches job description",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 11 skills to develop: collaboration, communication, css, data analysis, documentation..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1289
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0258
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0229
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0504
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.2667,
+          "tfidf_score": 0.151,
+          "matched_skills_count": 4,
+          "missing_skills_count": 11,
+          "resume_skill_count": 45,
+          "job_skill_count": 15,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1289,
+          "missing_skills_count": -0.0504,
+          "job_skill_count": 0.0258,
+          "matched_skills_count": 0.0229,
+          "skill_match_ratio": 0.0053,
+          "location_match": 0.004,
+          "experience_fit": 0.004,
+          "is_intern_level": 0.0029,
+          "tfidf_score": 0.0026
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: data, web, experience, github, real. The job is primarily looking for: data, intern, scraping, web, experience.",
+        "top_keywords": [
+          [
+            "data",
+            0.010683
+          ],
+          [
+            "web",
+            0.00641
+          ],
+          [
+            "experience",
+            0.003205
+          ],
+          [
+            "github",
+            0.003205
+          ],
+          [
+            "real",
+            0.003205
+          ],
+          [
+            "management",
+            0.002671
+          ],
+          [
+            "engineer",
+            0.002137
+          ],
+          [
+            "scraping",
+            0.002137
+          ]
+        ],
+        "job_keywords": [
+          [
+            "data",
+            0.168591
+          ],
+          [
+            "intern",
+            0.142169
+          ],
+          [
+            "scraping",
+            0.134872
+          ],
+          [
+            "web",
+            0.134872
+          ],
+          [
+            "experience",
+            0.101154
+          ],
+          [
+            "clean",
+            0.094779
+          ],
+          [
+            "ll",
+            0.094779
+          ],
+          [
+            "playwright",
+            0.094779
+          ]
+        ],
+        "shared_keywords": [
+          "analysis",
+          "automation",
+          "building",
+          "business",
+          "csv",
+          "custom",
+          "data",
+          "dynamic",
+          "engineer",
+          "english",
+          "experience",
+          "extract",
+          "github",
+          "headless",
+          "json"
+        ],
+        "keyword_matches": 36
+      },
+      "skill_gap": {
+        "matched": [
+          "github",
+          "mongodb",
+          "pandas",
+          "sql"
+        ],
+        "missing": [
+          "collaboration",
+          "communication",
+          "css",
+          "data analysis",
+          "documentation",
+          "excel",
+          "playwright",
+          "problem-solving",
+          "research",
+          "selenium",
+          "verbal communication"
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "job_id": 1196,
+      "job_title": "Intern - Offensive Security",
+      "company": "NodeRisk",
+      "source": "rooster",
+      "hybrid_score_pct": 24.4,
+      "shap": {
+        "summary": "Moderate match (24.4%) — consider if interested",
+        "why_recommended": [
+          "Partial skill match — 4 skills aligned: aws, javascript, linux, python",
+          "Moderate text relevance (12.8%) — resume keywords partially match job",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 10 skills to develop: azure, bash, cybersecurity, ethical hacking, jwt..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.131
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0245
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0233
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0466
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.2857,
+          "tfidf_score": 0.1284,
+          "matched_skills_count": 4,
+          "missing_skills_count": 10,
+          "resume_skill_count": 45,
+          "job_skill_count": 14,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.131,
+          "missing_skills_count": -0.0466,
+          "job_skill_count": 0.0245,
+          "matched_skills_count": 0.0233,
+          "skill_match_ratio": 0.0058,
+          "location_match": 0.0041,
+          "experience_fit": 0.0041,
+          "is_intern_level": 0.0029,
+          "tfidf_score": 0.0022
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: real, ai, python, time, based. The job is primarily looking for: security, pentesting, testing, internal, noderisk.",
+        "top_keywords": [
+          [
+            "real",
+            0.005839
+          ],
+          [
+            "ai",
+            0.004865
+          ],
+          [
+            "python",
+            0.003406
+          ],
+          [
+            "time",
+            0.003406
+          ],
+          [
+            "based",
+            0.002919
+          ],
+          [
+            "cloud",
+            0.002919
+          ],
+          [
+            "management",
+            0.002433
+          ],
+          [
+            "api",
+            0.001946
+          ]
+        ],
+        "job_keywords": [
+          [
+            "security",
+            0.340688
+          ],
+          [
+            "pentesting",
+            0.21293
+          ],
+          [
+            "testing",
+            0.21293
+          ],
+          [
+            "internal",
+            0.127758
+          ],
+          [
+            "noderisk",
+            0.127758
+          ],
+          [
+            "10",
+            0.085172
+          ],
+          [
+            "basics",
+            0.085172
+          ],
+          [
+            "continuous",
+            0.085172
+          ]
+        ],
+        "shared_keywords": [
+          "3",
+          "access",
+          "across",
+          "ai",
+          "api",
+          "application",
+          "authentication",
+          "automation",
+          "aws",
+          "based",
+          "business",
+          "cloud",
+          "control",
+          "development",
+          "driven"
+        ],
+        "keyword_matches": 37
+      },
+      "skill_gap": {
+        "matched": [
+          "aws",
+          "javascript",
+          "linux",
+          "python"
+        ],
+        "missing": [
+          "azure",
+          "bash",
+          "cybersecurity",
+          "ethical hacking",
+          "jwt",
+          "networking",
+          "passionate",
+          "penetration testing",
+          "r",
+          "research"
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "job_id": 1224,
+      "job_title": "Machine Learning Engineer (Intern)",
+      "company": "Metana",
+      "source": "rooster",
+      "hybrid_score_pct": 22.9,
+      "shap": {
+        "summary": "Moderate match (22.9%) — consider if interested",
+        "why_recommended": [
+          "Key skill matched: machine learning",
+          "High text similarity (19.4%) — resume content closely matches job description",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 5 skills to develop: huggingface, llm, openai, playwright, prompt engineering"
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1595
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0128
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0071
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0284
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.1667,
+          "tfidf_score": 0.1943,
+          "matched_skills_count": 1,
+          "missing_skills_count": 5,
+          "resume_skill_count": 45,
+          "job_skill_count": 6,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1595,
+          "missing_skills_count": -0.0284,
+          "job_skill_count": 0.0128,
+          "matched_skills_count": 0.0071,
+          "location_match": 0.005,
+          "experience_fit": 0.005,
+          "skill_match_ratio": 0.0041,
+          "tfidf_score": 0.0041,
+          "is_intern_level": 0.0035
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: ai, learning, real, backend, apis. The job is primarily looking for: engineering, ai, learning, engineers, evaluation.",
+        "top_keywords": [
+          [
+            "ai",
+            0.010553
+          ],
+          [
+            "learning",
+            0.008443
+          ],
+          [
+            "real",
+            0.008443
+          ],
+          [
+            "backend",
+            0.004221
+          ],
+          [
+            "apis",
+            0.002814
+          ],
+          [
+            "engineer",
+            0.002814
+          ],
+          [
+            "experience",
+            0.002814
+          ],
+          [
+            "machine",
+            0.002814
+          ]
+        ],
+        "job_keywords": [
+          [
+            "engineering",
+            0.18753
+          ],
+          [
+            "ai",
+            0.133429
+          ],
+          [
+            "learning",
+            0.133429
+          ],
+          [
+            "engineers",
+            0.12502
+          ],
+          [
+            "evaluation",
+            0.12502
+          ],
+          [
+            "product",
+            0.12502
+          ],
+          [
+            "scripting",
+            0.12502
+          ],
+          [
+            "support",
+            0.12502
+          ]
+        ],
+        "shared_keywords": [
+          "across",
+          "ai",
+          "apis",
+          "automation",
+          "backend",
+          "browser",
+          "building",
+          "deep",
+          "development",
+          "engine",
+          "engineer",
+          "execution",
+          "experience",
+          "intelligent",
+          "learn"
+        ],
+        "keyword_matches": 27
+      },
+      "skill_gap": {
+        "matched": [
+          "machine learning"
+        ],
+        "missing": [
+          "huggingface",
+          "llm",
+          "openai",
+          "playwright",
+          "prompt engineering"
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "job_id": 1225,
+      "job_title": "Intern/Junior Quality Assurance Engineer",
+      "company": "Twist Digital",
+      "source": "rooster",
+      "hybrid_score_pct": 20.0,
+      "shap": {
+        "summary": "Moderate match (20.0%) — consider if interested",
+        "why_recommended": [
+          "Partial skill match — 2 skills aligned: javascript, postman",
+          "Moderate text relevance (10.3%) — resume keywords partially match job",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 9 skills to develop: analytical thinking, attention to detail, communication, css, html..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1191
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0175
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0106
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0381
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.1818,
+          "tfidf_score": 0.1031,
+          "matched_skills_count": 2,
+          "missing_skills_count": 9,
+          "resume_skill_count": 45,
+          "job_skill_count": 11,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1191,
+          "missing_skills_count": -0.0381,
+          "job_skill_count": 0.0175,
+          "matched_skills_count": 0.0106,
+          "location_match": 0.0037,
+          "experience_fit": 0.0037,
+          "skill_match_ratio": 0.0034,
+          "is_intern_level": 0.0026,
+          "tfidf_score": 0.0016
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: tools, management, engineer, web, using. The job is primarily looking for: testing, quality, tools, bugs, ensure.",
+        "top_keywords": [
+          [
+            "tools",
+            0.005733
+          ],
+          [
+            "management",
+            0.004778
+          ],
+          [
+            "engineer",
+            0.003822
+          ],
+          [
+            "web",
+            0.002867
+          ],
+          [
+            "using",
+            0.002389
+          ],
+          [
+            "browser",
+            0.001911
+          ],
+          [
+            "learning",
+            0.001911
+          ],
+          [
+            "tracking",
+            0.001911
+          ]
+        ],
+        "job_keywords": [
+          [
+            "testing",
+            0.298055
+          ],
+          [
+            "quality",
+            0.212896
+          ],
+          [
+            "tools",
+            0.181773
+          ],
+          [
+            "bugs",
+            0.170317
+          ],
+          [
+            "ensure",
+            0.127738
+          ],
+          [
+            "qa",
+            0.127738
+          ],
+          [
+            "systems",
+            0.090886
+          ],
+          [
+            "assurance",
+            0.085158
+          ]
+        ],
+        "shared_keywords": [
+          "000",
+          "across",
+          "applications",
+          "automation",
+          "browser",
+          "change",
+          "cross",
+          "database",
+          "development",
+          "devices",
+          "edge",
+          "engineer",
+          "experience",
+          "future",
+          "identify"
+        ],
+        "keyword_matches": 34
+      },
+      "skill_gap": {
+        "matched": [
+          "javascript",
+          "postman"
+        ],
+        "missing": [
+          "analytical thinking",
+          "attention to detail",
+          "communication",
+          "css",
+          "html",
+          "jira",
+          "passionate",
+          "project management",
+          "selenium"
+        ]
+      }
+    },
+    {
+      "rank": 11,
+      "job_id": 1017,
+      "job_title": "Senior Front end Developer (1)",
+      "company": "DirectFN",
+      "source": "topjobs",
+      "hybrid_score_pct": 19.3,
+      "shap": {
+        "summary": "Moderate match (19.3%) — consider if interested",
+        "why_recommended": [
+          "Key skill matched: javascript",
+          "Moderate text relevance (12.9%) — resume keywords partially match job"
+        ],
+        "improvement_tips": [
+          "This role may require more experience than you currently have"
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1527
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0238
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0068
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.1288,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 45,
+          "job_skill_count": 1,
+          "location_match": 0.5,
+          "is_intern_level": 0.5,
+          "experience_fit": 0.3
+        },
+        "contributions": {
+          "resume_skill_count": 0.1527,
+          "skill_match_ratio": 0.0238,
+          "matched_skills_count": 0.0068,
+          "tfidf_score": 0.0026,
+          "location_match": 0.0024,
+          "job_skill_count": 0.002,
+          "is_intern_level": 0.0017,
+          "experience_fit": 0.0014,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: computer, using, development, web, end. The job is primarily looking for: bachelor, bachelor degree, computer science, degree, degree software.",
+        "top_keywords": [
+          [
+            "computer",
+            0.010146
+          ],
+          [
+            "using",
+            0.010146
+          ],
+          [
+            "development",
+            0.006088
+          ],
+          [
+            "web",
+            0.006088
+          ],
+          [
+            "end",
+            0.004058
+          ],
+          [
+            "experience",
+            0.004058
+          ],
+          [
+            "frame",
+            0.004058
+          ],
+          [
+            "javascript",
+            0.004058
+          ]
+        ],
+        "job_keywords": [
+          [
+            "bachelor",
+            0.182309
+          ],
+          [
+            "bachelor degree",
+            0.182309
+          ],
+          [
+            "computer science",
+            0.182309
+          ],
+          [
+            "degree",
+            0.182309
+          ],
+          [
+            "degree software",
+            0.182309
+          ],
+          [
+            "developer bachelor",
+            0.182309
+          ],
+          [
+            "end developer",
+            0.182309
+          ],
+          [
+            "engineering",
+            0.182309
+          ]
+        ],
+        "shared_keywords": [
+          "2",
+          "computer",
+          "developer",
+          "development",
+          "end",
+          "experience",
+          "frame",
+          "javascript",
+          "modern",
+          "science",
+          "using",
+          "web"
+        ],
+        "keyword_matches": 14
+      },
+      "skill_gap": {
+        "matched": [
+          "javascript"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 12,
+      "job_id": 973,
+      "job_title": "Full-Stack Tech Lead (Bubble.io, Python, AWS, AI/ML Experience a Plus)",
+      "company": "Efficient Frontiers International",
+      "source": "topjobs",
+      "hybrid_score_pct": 18.8,
+      "shap": {
+        "summary": "Moderate match (18.8%) — consider if interested",
+        "why_recommended": [
+          "Partial skill match — 2 skills aligned: aws, python",
+          "Moderate text relevance (13.5%) — resume keywords partially match job",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "This role may require more experience than you currently have"
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1402
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0218
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0125
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.135,
+          "matched_skills_count": 2,
+          "missing_skills_count": 0,
+          "resume_skill_count": 45,
+          "job_skill_count": 2,
+          "location_match": 1.0,
+          "is_intern_level": 0.5,
+          "experience_fit": 0.3
+        },
+        "contributions": {
+          "resume_skill_count": 0.1402,
+          "skill_match_ratio": 0.0218,
+          "matched_skills_count": 0.0125,
+          "location_match": 0.0044,
+          "job_skill_count": 0.0037,
+          "tfidf_score": 0.0025,
+          "is_intern_level": 0.0016,
+          "experience_fit": 0.0013,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: python, stack, ai, aws, experience. The job is primarily looking for: aws ai, bubble, bubble io, experience plus, io.",
+        "top_keywords": [
+          [
+            "python",
+            0.016847
+          ],
+          [
+            "stack",
+            0.01444
+          ],
+          [
+            "ai",
+            0.012034
+          ],
+          [
+            "aws",
+            0.004813
+          ],
+          [
+            "experience",
+            0.004813
+          ],
+          [
+            "ai ml",
+            0.002407
+          ],
+          [
+            "ml",
+            0.002407
+          ]
+        ],
+        "job_keywords": [
+          [
+            "aws ai",
+            0.215447
+          ],
+          [
+            "bubble",
+            0.215447
+          ],
+          [
+            "bubble io",
+            0.215447
+          ],
+          [
+            "experience plus",
+            0.215447
+          ],
+          [
+            "io",
+            0.215447
+          ],
+          [
+            "io python",
+            0.215447
+          ],
+          [
+            "lead",
+            0.215447
+          ],
+          [
+            "lead bubble",
+            0.215447
+          ]
+        ],
+        "shared_keywords": [
+          "ai",
+          "aws",
+          "experience",
+          "full",
+          "ml",
+          "python",
+          "stack"
+        ],
+        "keyword_matches": 7
+      },
+      "skill_gap": {
+        "matched": [
+          "aws",
+          "python"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 13,
+      "job_id": 974,
+      "job_title": "Junior Full-Stack Developer (Bubble.io, Python, AWS, AI)",
+      "company": "Efficient Frontiers International",
+      "source": "topjobs",
+      "hybrid_score_pct": 17.8,
+      "shap": {
+        "summary": "Moderate match (17.8%) — consider if interested",
+        "why_recommended": [
+          "Partial skill match — 2 skills aligned: aws, python",
+          "Moderate text relevance (13.4%) — resume keywords partially match job",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1295
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0201
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0115
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.1342,
+          "matched_skills_count": 2,
+          "missing_skills_count": 0,
+          "resume_skill_count": 45,
+          "job_skill_count": 2,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1295,
+          "skill_match_ratio": 0.0201,
+          "matched_skills_count": 0.0115,
+          "location_match": 0.004,
+          "experience_fit": 0.004,
+          "job_skill_count": 0.0035,
+          "is_intern_level": 0.0029,
+          "tfidf_score": 0.0023,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: python, stack, ai, aws, developer. The job is primarily looking for: ai refer, aws ai, bubble, bubble io, developer bubble.",
+        "top_keywords": [
+          [
+            "python",
+            0.019221
+          ],
+          [
+            "stack",
+            0.016475
+          ],
+          [
+            "ai",
+            0.013729
+          ],
+          [
+            "aws",
+            0.005492
+          ],
+          [
+            "developer",
+            0.002746
+          ]
+        ],
+        "job_keywords": [
+          [
+            "ai refer",
+            0.24595
+          ],
+          [
+            "aws ai",
+            0.24595
+          ],
+          [
+            "bubble",
+            0.24595
+          ],
+          [
+            "bubble io",
+            0.24595
+          ],
+          [
+            "developer bubble",
+            0.24595
+          ],
+          [
+            "io",
+            0.24595
+          ],
+          [
+            "io python",
+            0.24595
+          ],
+          [
+            "junior",
+            0.24595
+          ]
+        ],
+        "shared_keywords": [
+          "ai",
+          "aws",
+          "developer",
+          "full",
+          "python",
+          "stack"
+        ],
+        "keyword_matches": 5
+      },
+      "skill_gap": {
+        "matched": [
+          "aws",
+          "python"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 14,
+      "job_id": 1120,
+      "job_title": "Trainee Application Support Engineer",
+      "company": "Flexible Information Technology (Pvt) Ltd",
+      "source": "topjobs",
+      "hybrid_score_pct": 16.5,
+      "shap": {
+        "summary": "Moderate match (16.5%) — consider if interested",
+        "why_recommended": [
+          "Moderate text relevance (11.6%) — resume keywords partially match job",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1504
+          },
+          {
+            "feature": "location_match",
+            "contribution": 0.0047
+          },
+          {
+            "feature": "experience_fit",
+            "contribution": 0.0047
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 0.0,
+          "tfidf_score": 0.1163,
+          "matched_skills_count": 0,
+          "missing_skills_count": 0,
+          "resume_skill_count": 45,
+          "job_skill_count": 0,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1504,
+          "location_match": 0.0047,
+          "experience_fit": 0.0047,
+          "is_intern_level": 0.0033,
+          "tfidf_score": 0.0023,
+          "skill_match_ratio": 0.0,
+          "matched_skills_count": 0.0,
+          "missing_skills_count": -0.0,
+          "job_skill_count": 0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: engineer, application. The job is primarily looking for: application support, engineer refer, refer, refer vacancy, support.",
+        "top_keywords": [
+          [
+            "engineer",
+            0.013963
+          ],
+          [
+            "application",
+            0.010472
+          ]
+        ],
+        "job_keywords": [
+          [
+            "application support",
+            0.31603
+          ],
+          [
+            "engineer refer",
+            0.31603
+          ],
+          [
+            "refer",
+            0.31603
+          ],
+          [
+            "refer vacancy",
+            0.31603
+          ],
+          [
+            "support",
+            0.31603
+          ],
+          [
+            "support engineer",
+            0.31603
+          ],
+          [
+            "trainee",
+            0.31603
+          ],
+          [
+            "trainee application",
+            0.31603
+          ]
+        ],
+        "shared_keywords": [
+          "application",
+          "engineer"
+        ],
+        "keyword_matches": 2
+      },
+      "skill_gap": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    {
+      "rank": 15,
+      "job_id": 1038,
+      "job_title": "Senior Java Backend Developer (Remote - Sri Lanka)",
+      "company": "Cloofd Solutions Inc",
+      "source": "topjobs",
+      "hybrid_score_pct": 16.5,
+      "shap": {
+        "summary": "Moderate match (16.5%) — consider if interested",
+        "why_recommended": [
+          "Key skill matched: java",
+          "Moderate text relevance (11.1%) — resume keywords partially match job"
+        ],
+        "improvement_tips": [
+          "This role may require more experience than you currently have"
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1308
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0204
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0058
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.1108,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 45,
+          "job_skill_count": 1,
+          "location_match": 0.5,
+          "is_intern_level": 0.5,
+          "experience_fit": 0.3
+        },
+        "contributions": {
+          "resume_skill_count": 0.1308,
+          "skill_match_ratio": 0.0204,
+          "matched_skills_count": 0.0058,
+          "location_match": 0.002,
+          "tfidf_score": 0.0019,
+          "job_skill_count": 0.0017,
+          "is_intern_level": 0.0015,
+          "experience_fit": 0.0012,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: backend, java, lanka, sri, sri lanka. The job is primarily looking for: backend developer, developer remote, java backend, lanka refer, refer.",
+        "top_keywords": [
+          [
+            "backend",
+            0.008861
+          ],
+          [
+            "java",
+            0.008861
+          ],
+          [
+            "lanka",
+            0.008861
+          ],
+          [
+            "sri",
+            0.008861
+          ],
+          [
+            "sri lanka",
+            0.005907
+          ],
+          [
+            "developer",
+            0.002954
+          ]
+        ],
+        "job_keywords": [
+          [
+            "backend developer",
+            0.266904
+          ],
+          [
+            "developer remote",
+            0.266904
+          ],
+          [
+            "java backend",
+            0.266904
+          ],
+          [
+            "lanka refer",
+            0.266904
+          ],
+          [
+            "refer",
+            0.266904
+          ],
+          [
+            "refer vacancy",
+            0.266904
+          ],
+          [
+            "remote",
+            0.266904
+          ],
+          [
+            "remote sri",
+            0.266904
+          ]
+        ],
+        "shared_keywords": [
+          "backend",
+          "developer",
+          "java",
+          "lanka",
+          "sri"
+        ],
+        "keyword_matches": 6
+      },
+      "skill_gap": {
+        "matched": [
+          "java"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 16,
+      "job_id": 1174,
+      "job_title": "Data Engineer - Python",
+      "company": "Asiawise Lanka (Pvt) Ltd",
+      "source": "topjobs",
+      "hybrid_score_pct": 16.0,
+      "shap": {
+        "summary": "Moderate match (16.0%) — consider if interested",
+        "why_recommended": [
+          "Key skill matched: python",
+          "Moderate text relevance (11.6%) — resume keywords partially match job"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1245
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0194
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0055
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.1164,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 45,
+          "job_skill_count": 1,
+          "location_match": 0.5,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1245,
+          "skill_match_ratio": 0.0194,
+          "matched_skills_count": 0.0055,
+          "experience_fit": 0.0039,
+          "tfidf_score": 0.0019,
+          "location_match": 0.0019,
+          "job_skill_count": 0.0017,
+          "is_intern_level": 0.0014,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: python, data, engineer. The job is primarily looking for: data engineer, engineer python, python refer, refer, refer vacancy.",
+        "top_keywords": [
+          [
+            "python",
+            0.028385
+          ],
+          [
+            "data",
+            0.01622
+          ],
+          [
+            "engineer",
+            0.01622
+          ]
+        ],
+        "job_keywords": [
+          [
+            "data engineer",
+            0.364693
+          ],
+          [
+            "engineer python",
+            0.364693
+          ],
+          [
+            "python refer",
+            0.364693
+          ],
+          [
+            "refer",
+            0.364693
+          ],
+          [
+            "refer vacancy",
+            0.364693
+          ],
+          [
+            "vacancy",
+            0.364693
+          ],
+          [
+            "data",
+            0.259482
+          ],
+          [
+            "engineer",
+            0.259482
+          ]
+        ],
+        "shared_keywords": [
+          "data",
+          "engineer",
+          "python"
+        ],
+        "keyword_matches": 3
+      },
+      "skill_gap": {
+        "matched": [
+          "python"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 17,
+      "job_id": 1113,
+      "job_title": "Software Engineer / Senior Software Engineer ? Data Migration &  Integration (1)",
+      "company": "Jobfactory",
+      "source": "topjobs",
+      "hybrid_score_pct": 15.7,
+      "shap": {
+        "summary": "Moderate match (15.7%) — consider if interested",
+        "why_recommended": [
+          "Moderate text relevance (8.0%) — resume keywords partially match job",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "This role may require more experience than you currently have"
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1478
+          },
+          {
+            "feature": "location_match",
+            "contribution": 0.0046
+          },
+          {
+            "feature": "tfidf_score",
+            "contribution": 0.0016
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 0.0,
+          "tfidf_score": 0.0797,
+          "matched_skills_count": 0,
+          "missing_skills_count": 0,
+          "resume_skill_count": 45,
+          "job_skill_count": 0,
+          "location_match": 1.0,
+          "is_intern_level": 0.5,
+          "experience_fit": 0.3
+        },
+        "contributions": {
+          "resume_skill_count": 0.1478,
+          "location_match": 0.0046,
+          "tfidf_score": 0.0016,
+          "is_intern_level": 0.0016,
+          "experience_fit": 0.0014,
+          "skill_match_ratio": 0.0,
+          "matched_skills_count": 0.0,
+          "missing_skills_count": -0.0,
+          "job_skill_count": 0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: engineer, data, integration. The job is primarily looking for: software, software engineer, engineer, data migration, engineer data.",
+        "top_keywords": [
+          [
+            "engineer",
+            0.018874
+          ],
+          [
+            "data",
+            0.009437
+          ],
+          [
+            "integration",
+            0.009437
+          ]
+        ],
+        "job_keywords": [
+          [
+            "software",
+            0.426039
+          ],
+          [
+            "software engineer",
+            0.426039
+          ],
+          [
+            "engineer",
+            0.30313
+          ],
+          [
+            "data migration",
+            0.213019
+          ],
+          [
+            "engineer data",
+            0.213019
+          ],
+          [
+            "engineer senior",
+            0.213019
+          ],
+          [
+            "integration remote",
+            0.213019
+          ],
+          [
+            "migration",
+            0.213019
+          ]
+        ],
+        "shared_keywords": [
+          "data",
+          "engineer",
+          "integration"
+        ],
+        "keyword_matches": 3
+      },
+      "skill_gap": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    {
+      "rank": 18,
+      "job_id": 1166,
+      "job_title": "Procurement Officer - Information Technology",
+      "company": "Prime Management Service (Pvt) Ltd",
+      "source": "topjobs",
+      "hybrid_score_pct": 15.5,
+      "shap": {
+        "summary": "Moderate match (15.5%) — consider if interested",
+        "why_recommended": [
+          "Moderate text relevance (6.5%) — resume keywords partially match job"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1456
+          },
+          {
+            "feature": "experience_fit",
+            "contribution": 0.0045
+          },
+          {
+            "feature": "location_match",
+            "contribution": 0.0023
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 0.0,
+          "tfidf_score": 0.0652,
+          "matched_skills_count": 0,
+          "missing_skills_count": 0,
+          "resume_skill_count": 45,
+          "job_skill_count": 0,
+          "location_match": 0.5,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1456,
+          "experience_fit": 0.0045,
+          "location_match": 0.0023,
+          "is_intern_level": 0.0016,
+          "tfidf_score": 0.0013,
+          "skill_match_ratio": 0.0,
+          "matched_skills_count": 0.0,
+          "missing_skills_count": -0.0,
+          "job_skill_count": 0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: technology, dynamic, information, information technology, key. The job is primarily looking for: officer, procurement, procurement officer, dynamic team, equipment.",
+        "top_keywords": [
+          [
+            "technology",
+            0.009215
+          ],
+          [
+            "dynamic",
+            0.003686
+          ],
+          [
+            "information",
+            0.003686
+          ],
+          [
+            "information technology",
+            0.003686
+          ],
+          [
+            "key",
+            0.001843
+          ],
+          [
+            "role",
+            0.001843
+          ]
+        ],
+        "job_keywords": [
+          [
+            "officer",
+            0.33316
+          ],
+          [
+            "procurement",
+            0.33316
+          ],
+          [
+            "procurement officer",
+            0.33316
+          ],
+          [
+            "dynamic team",
+            0.16658
+          ],
+          [
+            "equipment",
+            0.16658
+          ],
+          [
+            "equipment software",
+            0.16658
+          ],
+          [
+            "join",
+            0.16658
+          ],
+          [
+            "join dynamic",
+            0.16658
+          ]
+        ],
+        "shared_keywords": [
+          "dynamic",
+          "information",
+          "key",
+          "role",
+          "technology"
+        ],
+        "keyword_matches": 6
+      },
+      "skill_gap": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    {
+      "rank": 19,
+      "job_id": 1016,
+      "job_title": "QA Lead - Automation (1)",
+      "company": "DirectFN",
+      "source": "topjobs",
+      "hybrid_score_pct": 14.4,
+      "shap": {
+        "summary": "Low match (14.4%) — skill gap is significant",
+        "why_recommended": [],
+        "improvement_tips": [
+          "This role may require more experience than you currently have"
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1381
+          },
+          {
+            "feature": "location_match",
+            "contribution": 0.0021
+          },
+          {
+            "feature": "is_intern_level",
+            "contribution": 0.0015
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 0.0,
+          "tfidf_score": 0.0451,
+          "matched_skills_count": 0,
+          "missing_skills_count": 0,
+          "resume_skill_count": 45,
+          "job_skill_count": 0,
+          "location_match": 0.5,
+          "is_intern_level": 0.5,
+          "experience_fit": 0.3
+        },
+        "contributions": {
+          "resume_skill_count": 0.1381,
+          "location_match": 0.0021,
+          "is_intern_level": 0.0015,
+          "experience_fit": 0.0013,
+          "tfidf_score": 0.0008,
+          "skill_match_ratio": 0.0,
+          "matched_skills_count": 0.0,
+          "missing_skills_count": -0.0,
+          "job_skill_count": 0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: computer, experience, automation, science. The job is primarily looking for: qa, automation required, bachelor, bachelor degree, computer science.",
+        "top_keywords": [
+          [
+            "computer",
+            0.009617
+          ],
+          [
+            "experience",
+            0.003847
+          ],
+          [
+            "automation",
+            0.001923
+          ],
+          [
+            "science",
+            0.001923
+          ]
+        ],
+        "job_keywords": [
+          [
+            "qa",
+            0.348024
+          ],
+          [
+            "automation required",
+            0.174012
+          ],
+          [
+            "bachelor",
+            0.174012
+          ],
+          [
+            "bachelor degree",
+            0.174012
+          ],
+          [
+            "computer science",
+            0.174012
+          ],
+          [
+            "degree",
+            0.174012
+          ],
+          [
+            "degree computer",
+            0.174012
+          ],
+          [
+            "engineering",
+            0.174012
+          ]
+        ],
+        "shared_keywords": [
+          "3",
+          "automation",
+          "computer",
+          "experience",
+          "science"
+        ],
+        "keyword_matches": 4
+      },
+      "skill_gap": {
+        "matched": [],
+        "missing": []
+      }
+    },
+    {
+      "rank": 20,
+      "job_id": 1078,
+      "job_title": "Software Engineer (Male)",
+      "company": "Data Management Systems (Pvt) Ltd",
+      "source": "topjobs",
+      "hybrid_score_pct": 14.4,
+      "shap": {
+        "summary": "Low match (14.4%) — skill gap is significant",
+        "why_recommended": [
+          "Moderate text relevance (7.0%) — resume keywords partially match job",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1326
+          },
+          {
+            "feature": "location_match",
+            "contribution": 0.0041
+          },
+          {
+            "feature": "experience_fit",
+            "contribution": 0.0041
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 0.0,
+          "tfidf_score": 0.0699,
+          "matched_skills_count": 0,
+          "missing_skills_count": 0,
+          "resume_skill_count": 45,
+          "job_skill_count": 0,
+          "location_match": 1.0,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1326,
+          "location_match": 0.0041,
+          "experience_fit": 0.0041,
+          "is_intern_level": 0.0015,
+          "tfidf_score": 0.0012,
+          "skill_match_ratio": 0.0,
+          "matched_skills_count": 0.0,
+          "missing_skills_count": -0.0,
+          "job_skill_count": 0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: engineer. The job is primarily looking for: advertisement, engineer male, male, male refer, refer.",
+        "top_keywords": [
+          [
+            "engineer",
+            0.015133
+          ]
+        ],
+        "job_keywords": [
+          [
+            "advertisement",
+            0.342871
+          ],
+          [
+            "engineer male",
+            0.342871
+          ],
+          [
+            "male",
+            0.342871
+          ],
+          [
+            "male refer",
+            0.342871
+          ],
+          [
+            "refer",
+            0.342871
+          ],
+          [
+            "refer advertisement",
+            0.342871
+          ],
+          [
+            "software",
+            0.342871
+          ],
+          [
+            "software engineer",
+            0.342871
+          ]
+        ],
+        "shared_keywords": [
+          "engineer"
+        ],
+        "keyword_matches": 1
+      },
+      "skill_gap": {
+        "matched": [],
+        "missing": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "best_model": "Linear SVM Tuned (C=0.5)",
+  "best_f1": 81.28,
+  "best_macro_f1": 79.54,
+  "best_accuracy": 81.49,
+  "n_roles": 12,
+  "total_samples": 5915,
+  "roles": [
+    "AI/ML Engineer",
+    "Backend Developer",
+    "Business Analyst",
+    "Cloud Engineer",
+    "Data Analyst",
+    "Data Engineer",
+    "DevOps Engineer",
+    "Frontend Developer",
+    "Full Stack Developer",
+    "Mobile Developer",
+    "Software Engineer",
+    "System Administrator"
+  ],
+  "smote_enabled": true,
+  "se_cap": 800,
+  "evaluation": {
+    "Logistic Regression": {
+      "accuracy": 79.75,
+      "precision": 79.7,
+      "recall": 79.75,
+      "f1_score": 79.55,
+      "macro_f1": 77.52,
+      "macro_precision": 76.03,
+      "macro_recall": 79.46
+    },
+    "Decision Tree": {
+      "accuracy": 64.72,
+      "precision": 66.92,
+      "recall": 64.72,
+      "f1_score": 64.96,
+      "macro_f1": 62.72,
+      "macro_precision": 64.26,
+      "macro_recall": 62.96
+    },
+    "Linear SVM (Calibrated)": {
+      "accuracy": 79.7,
+      "precision": 79.29,
+      "recall": 79.7,
+      "f1_score": 79.3,
+      "macro_f1": 77.25,
+      "macro_precision": 78.29,
+      "macro_recall": 76.7
+    },
+    "k-NN (cosine)": {
+      "accuracy": 69.18,
+      "precision": 71.58,
+      "recall": 69.18,
+      "f1_score": 69.43,
+      "macro_f1": 66.11,
+      "macro_precision": 63.78,
+      "macro_recall": 71.46
+    },
+    "Multinomial NB": {
+      "accuracy": 73.78,
+      "precision": 73.97,
+      "recall": 73.78,
+      "f1_score": 73.22,
+      "macro_f1": 70.84,
+      "macro_precision": 68.6,
+      "macro_recall": 74.55
+    },
+    "Random Forest": {
+      "accuracy": 79.36,
+      "precision": 79.16,
+      "recall": 79.36,
+      "f1_score": 78.59,
+      "macro_f1": 76.83,
+      "macro_precision": 78.48,
+      "macro_recall": 76.98
+    },
+    "Gradient Boosting": {
+      "accuracy": 79.07,
+      "precision": 78.88,
+      "recall": 79.07,
+      "f1_score": 78.91,
+      "macro_f1": 77.21,
+      "macro_precision": 77.94,
+      "macro_recall": 76.64
+    },
+    "Linear SVM Tuned (C=0.5)": {
+      "accuracy": 81.49,
+      "precision": 81.4,
+      "recall": 81.49,
+      "f1_score": 81.28,
+      "macro_f1": 79.54,
+      "macro_precision": 80.67,
+      "macro_recall": 78.94
+    }
+  },
+  "tuned": {
+    "best_C": 0.5,
+    "f1": 81.28,
+    "accuracy": 81.49,
+    "precision": 81.4,
+    "recall": 81.49,
+    "macro_f1": 79.54,
+    "macro_precision": 80.67,
+    "macro_recall": 78.94
+  },
+  "per_class": {
+    "AI/ML Engineer": {
+      "precision": 85.0,
+      "recall": 91.89,
+      "f1_score": 88.31,
+      "support": 37
+    },
+    "Backend Developer": {
+      "precision": 85.77,
+      "recall": 86.1,
+      "f1_score": 85.93,
+      "support": 259
+    },
+    "Business Analyst": {
+      "precision": 92.42,
+      "recall": 92.42,
+      "f1_score": 92.42,
+      "support": 66
+    },
+    "Cloud Engineer": {
+      "precision": 90.2,
+      "recall": 71.88,
+      "f1_score": 80.0,
+      "support": 64
+    },
+    "Data Analyst": {
+      "precision": 68.97,
+      "recall": 68.97,
+      "f1_score": 68.97,
+      "support": 29
+    },
+    "Data Engineer": {
+      "precision": 82.14,
+      "recall": 71.88,
+      "f1_score": 76.67,
+      "support": 32
+    },
+    "DevOps Engineer": {
+      "precision": 87.69,
+      "recall": 93.44,
+      "f1_score": 90.48,
+      "support": 61
+    },
+    "Frontend Developer": {
+      "precision": 72.26,
+      "recall": 81.16,
+      "f1_score": 76.45,
+      "support": 138
+    },
+    "Full Stack Developer": {
+      "precision": 65.0,
+      "recall": 50.0,
+      "f1_score": 56.52,
+      "support": 26
+    },
+    "Mobile Developer": {
+      "precision": 84.43,
+      "recall": 88.18,
+      "f1_score": 86.27,
+      "support": 203
+    },
+    "Software Engineer": {
+      "precision": 69.93,
+      "recall": 62.5,
+      "f1_score": 66.01,
+      "support": 160
+    },
+    "System Administrator": {
+      "precision": 84.21,
+      "recall": 88.89,
+      "f1_score": 86.49,
+      "support": 108
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "AI/ML Engineer",
+      "Backend Developer",
+      "Business Analyst",
+      "Cloud Engineer",
+      "Data Analyst",
+      "Data Engineer",
+      "DevOps Engineer",
+      "Frontend Developer",
+      "Full Stack Developer",
+      "Mobile Developer",
+      "Software Engineer",
+      "System Administrator"
+    ],
+    "matrix": [
+      [
+        34,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        223,
+        0,
+        1,
+        0,
+        1,
+        2,
+        22,
+        2,
+        1,
+        6,
+        1
+      ],
+      [
+        2,
+        0,
+        61,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        6,
+        1,
+        46,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        4,
+        4
+      ],
+      [
+        1,
+        0,
+        0,
+        1,
+        20,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ],
+      [
+        1,
+        3,
+        0,
+        0,
+        0,
+        23,
+        1,
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        57,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        9,
+        0,
+        0,
+        0,
+        1,
+        0,
+        112,
+        4,
+        4,
+        7,
+        1
+      ],
+      [
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        13,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        179,
+        18,
+        1
+      ],
+      [
+        1,
+        9,
+        0,
+        2,
+        2,
+        0,
+        2,
+        13,
+        1,
+        28,
+        100,
+        2
+      ],
+      [
+        0,
+        1,
+        3,
+        0,
+        5,
+        0,
+        2,
+        0,
+        0,
+        0,
+        1,
+        96
+      ]
+    ]
+  }
+}

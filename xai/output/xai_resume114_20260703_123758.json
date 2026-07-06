@@ -1,0 +1,2730 @@
+{
+  "resume_id": 114,
+  "candidate": "Senuth De Silva",
+  "generated_at": "2026-07-03T12:37:58.862246",
+  "explanations": [
+    {
+      "rank": 1,
+      "job_id": 1005,
+      "job_title": "Delivery Manager (1)",
+      "company": "DirectFN",
+      "source": "topjobs",
+      "hybrid_score_pct": 53.7,
+      "shap": {
+        "summary": "Excellent match (53.7%) — strongly recommended",
+        "why_recommended": [
+          "Key skill matched: project management",
+          "High text similarity (18.8%) — resume content closely matches job description",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.3282
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.1044
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0298
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.1875,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 1,
+          "location_match": 1.0,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.3282,
+          "skill_match_ratio": 0.1044,
+          "matched_skills_count": 0.0298,
+          "location_match": 0.0209,
+          "experience_fit": 0.0209,
+          "tfidf_score": 0.0168,
+          "job_skill_count": 0.009,
+          "is_intern_level": 0.0075,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: management, project, computer, administration, business. The job is primarily looking for: 10, 10 years, administration related, bachelor, bachelor degree.",
+        "top_keywords": [
+          [
+            "management",
+            0.018019
+          ],
+          [
+            "project",
+            0.018019
+          ],
+          [
+            "computer",
+            0.010296
+          ],
+          [
+            "administration",
+            0.007722
+          ],
+          [
+            "business",
+            0.007722
+          ],
+          [
+            "computer science",
+            0.007722
+          ],
+          [
+            "science",
+            0.007722
+          ],
+          [
+            "project management",
+            0.005148
+          ]
+        ],
+        "job_keywords": [
+          [
+            "10",
+            0.187133
+          ],
+          [
+            "10 years",
+            0.187133
+          ],
+          [
+            "administration related",
+            0.187133
+          ],
+          [
+            "bachelor",
+            0.187133
+          ],
+          [
+            "bachelor degree",
+            0.187133
+          ],
+          [
+            "business administration",
+            0.187133
+          ],
+          [
+            "certification",
+            0.187133
+          ],
+          [
+            "certification 10",
+            0.187133
+          ]
+        ],
+        "shared_keywords": [
+          "administration",
+          "business",
+          "computer",
+          "delivery",
+          "management",
+          "o",
+          "project",
+          "science"
+        ],
+        "keyword_matches": 9
+      },
+      "skill_gap": {
+        "matched": [
+          "project management"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 2,
+      "job_id": 1557,
+      "job_title": "Planning Engineer",
+      "company": "SwiftCore",
+      "source": "topjobs",
+      "hybrid_score_pct": 51.8,
+      "shap": {
+        "summary": "Excellent match (51.8%) — strongly recommended",
+        "why_recommended": [
+          "Key skill matched: planning",
+          "Moderate text relevance (7.4%) — resume keywords partially match job",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.3226
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.1026
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0293
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.0737,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 1,
+          "location_match": 1.0,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.3226,
+          "skill_match_ratio": 0.1026,
+          "matched_skills_count": 0.0293,
+          "location_match": 0.0205,
+          "experience_fit": 0.0205,
+          "job_skill_count": 0.0088,
+          "is_intern_level": 0.0073,
+          "tfidf_score": 0.0065,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: planning. The job is primarily looking for: engineer, engineer refer, planning engineer, refer, refer vacancy.",
+        "top_keywords": [
+          [
+            "planning",
+            0.015764
+          ]
+        ],
+        "job_keywords": [
+          [
+            "engineer",
+            0.392044
+          ],
+          [
+            "engineer refer",
+            0.392044
+          ],
+          [
+            "planning engineer",
+            0.392044
+          ],
+          [
+            "refer",
+            0.392044
+          ],
+          [
+            "refer vacancy",
+            0.392044
+          ],
+          [
+            "vacancy",
+            0.392044
+          ],
+          [
+            "planning",
+            0.278943
+          ]
+        ],
+        "shared_keywords": [
+          "planning"
+        ],
+        "keyword_matches": 1
+      },
+      "skill_gap": {
+        "matched": [
+          "planning"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 3,
+      "job_id": 1606,
+      "job_title": "Senior Cloud & Infrastructure Engineer (Microsoft & Azure)",
+      "company": "Gardner Smith Information Technology (Pvt) Ltd",
+      "source": "topjobs",
+      "hybrid_score_pct": 51.7,
+      "shap": {
+        "summary": "Excellent match (51.7%) — strongly recommended",
+        "why_recommended": [
+          "Key skill matched: azure",
+          "Moderate text relevance (7.2%) — resume keywords partially match job"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.3287
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.1046
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0299
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.0721,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 1,
+          "location_match": 0.5,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.3287,
+          "skill_match_ratio": 0.1046,
+          "matched_skills_count": 0.0299,
+          "experience_fit": 0.0209,
+          "location_match": 0.0105,
+          "job_skill_count": 0.009,
+          "is_intern_level": 0.0075,
+          "tfidf_score": 0.0065,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: infrastructure, cloud, azure, microsoft, microsoft azure. The job is primarily looking for: azure refer, cloud infrastructure, engineer, engineer microsoft, infrastructure engineer.",
+        "top_keywords": [
+          [
+            "infrastructure",
+            0.011373
+          ],
+          [
+            "cloud",
+            0.007582
+          ],
+          [
+            "azure",
+            0.003791
+          ],
+          [
+            "microsoft",
+            0.003791
+          ],
+          [
+            "microsoft azure",
+            0.003791
+          ]
+        ],
+        "job_keywords": [
+          [
+            "azure refer",
+            0.28249
+          ],
+          [
+            "cloud infrastructure",
+            0.28249
+          ],
+          [
+            "engineer",
+            0.28249
+          ],
+          [
+            "engineer microsoft",
+            0.28249
+          ],
+          [
+            "infrastructure engineer",
+            0.28249
+          ],
+          [
+            "refer",
+            0.28249
+          ],
+          [
+            "refer vacancy",
+            0.28249
+          ],
+          [
+            "senior",
+            0.28249
+          ]
+        ],
+        "shared_keywords": [
+          "azure",
+          "cloud",
+          "infrastructure",
+          "microsoft"
+        ],
+        "keyword_matches": 5
+      },
+      "skill_gap": {
+        "matched": [
+          "azure"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 4,
+      "job_id": 1903,
+      "job_title": "Business Analyst - Project Management Experience (1)",
+      "company": "Jobfactory",
+      "source": "topjobs",
+      "hybrid_score_pct": 50.7,
+      "shap": {
+        "summary": "Excellent match (50.7%) — strongly recommended",
+        "why_recommended": [
+          "Key skill matched: project management",
+          "Moderate text relevance (12.8%) — resume keywords partially match job",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.3125
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0994
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0284
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.128,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 1,
+          "location_match": 1.0,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.3125,
+          "skill_match_ratio": 0.0994,
+          "matched_skills_count": 0.0284,
+          "location_match": 0.0199,
+          "experience_fit": 0.0199,
+          "tfidf_score": 0.0109,
+          "job_skill_count": 0.0085,
+          "is_intern_level": 0.0071,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: management, project, business, project management. The job is primarily looking for: advertisement, analyst, analyst project, business analyst, experience.",
+        "top_keywords": [
+          [
+            "management",
+            0.028769
+          ],
+          [
+            "project",
+            0.028769
+          ],
+          [
+            "business",
+            0.01233
+          ],
+          [
+            "project management",
+            0.00822
+          ]
+        ],
+        "job_keywords": [
+          [
+            "advertisement",
+            0.30117
+          ],
+          [
+            "analyst",
+            0.30117
+          ],
+          [
+            "analyst project",
+            0.30117
+          ],
+          [
+            "business analyst",
+            0.30117
+          ],
+          [
+            "experience",
+            0.30117
+          ],
+          [
+            "experience refer",
+            0.30117
+          ],
+          [
+            "management experience",
+            0.30117
+          ],
+          [
+            "refer",
+            0.30117
+          ]
+        ],
+        "shared_keywords": [
+          "business",
+          "management",
+          "project"
+        ],
+        "keyword_matches": 4
+      },
+      "skill_gap": {
+        "matched": [
+          "project management"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 5,
+      "job_id": 1977,
+      "job_title": "Technical Lead (Python | AI Engineering)",
+      "company": "Allion Technologies (Pvt) Ltd",
+      "source": "topjobs",
+      "hybrid_score_pct": 50.2,
+      "shap": {
+        "summary": "Excellent match (50.2%) — strongly recommended",
+        "why_recommended": [
+          "Key skill matched: python",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.314
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0999
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0285
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.0423,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 1,
+          "location_match": 1.0,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.314,
+          "skill_match_ratio": 0.0999,
+          "matched_skills_count": 0.0285,
+          "location_match": 0.02,
+          "experience_fit": 0.02,
+          "job_skill_count": 0.0086,
+          "is_intern_level": 0.0071,
+          "tfidf_score": 0.0036,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: technical, python. The job is primarily looking for: ai, ai engineering, engineering, engineering refer, lead.",
+        "top_keywords": [
+          [
+            "technical",
+            0.019393
+          ],
+          [
+            "python",
+            0.003879
+          ]
+        ],
+        "job_keywords": [
+          [
+            "ai",
+            0.288525
+          ],
+          [
+            "ai engineering",
+            0.288525
+          ],
+          [
+            "engineering",
+            0.288525
+          ],
+          [
+            "engineering refer",
+            0.288525
+          ],
+          [
+            "lead",
+            0.288525
+          ],
+          [
+            "lead python",
+            0.288525
+          ],
+          [
+            "python ai",
+            0.288525
+          ],
+          [
+            "refer",
+            0.288525
+          ]
+        ],
+        "shared_keywords": [
+          "python",
+          "technical"
+        ],
+        "keyword_matches": 2
+      },
+      "skill_gap": {
+        "matched": [
+          "python"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 6,
+      "job_id": 1703,
+      "job_title": "DevOps Engineer (Embedded Software) | Senior DevOps Engineer (Embedded Software) | DevOps Tech Lead (Embedded Software)",
+      "company": "Invenza Digital Technologies (Pvt) Ltd",
+      "source": "topjobs",
+      "hybrid_score_pct": 49.7,
+      "shap": {
+        "summary": "Excellent match (49.7%) — strongly recommended",
+        "why_recommended": [
+          "Key skill matched: devops",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.3117
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0992
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0283
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.034,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 1,
+          "location_match": 1.0,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.3117,
+          "skill_match_ratio": 0.0992,
+          "matched_skills_count": 0.0283,
+          "location_match": 0.0198,
+          "experience_fit": 0.0198,
+          "job_skill_count": 0.0085,
+          "is_intern_level": 0.0071,
+          "tfidf_score": 0.0029,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: devops, software. The job is primarily looking for: embedded, embedded software, devops, software, devops engineer.",
+        "top_keywords": [
+          [
+            "devops",
+            0.011138
+          ],
+          [
+            "software",
+            0.011138
+          ]
+        ],
+        "job_keywords": [
+          [
+            "embedded",
+            0.415576
+          ],
+          [
+            "embedded software",
+            0.415576
+          ],
+          [
+            "devops",
+            0.295686
+          ],
+          [
+            "software",
+            0.295686
+          ],
+          [
+            "devops engineer",
+            0.277051
+          ],
+          [
+            "engineer",
+            0.277051
+          ],
+          [
+            "engineer embedded",
+            0.277051
+          ],
+          [
+            "devops tech",
+            0.138525
+          ]
+        ],
+        "shared_keywords": [
+          "devops",
+          "software"
+        ],
+        "keyword_matches": 2
+      },
+      "skill_gap": {
+        "matched": [
+          "devops"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 7,
+      "job_id": 1652,
+      "job_title": "DevOps Engineer (1)",
+      "company": "DirectFN",
+      "source": "topjobs",
+      "hybrid_score_pct": 49.2,
+      "shap": {
+        "summary": "Excellent match (49.2%) — strongly recommended",
+        "why_recommended": [
+          "Key skill matched: devops",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.3084
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0981
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.028
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.0281,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 1,
+          "location_match": 1.0,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.3084,
+          "skill_match_ratio": 0.0981,
+          "matched_skills_count": 0.028,
+          "location_match": 0.0196,
+          "experience_fit": 0.0196,
+          "job_skill_count": 0.0084,
+          "is_intern_level": 0.007,
+          "tfidf_score": 0.0024,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: devops. The job is primarily looking for: advert, devops engineer, engineer, engineer refer, refer.",
+        "top_keywords": [
+          [
+            "devops",
+            0.0105
+          ]
+        ],
+        "job_keywords": [
+          [
+            "advert",
+            0.392044
+          ],
+          [
+            "devops engineer",
+            0.392044
+          ],
+          [
+            "engineer",
+            0.392044
+          ],
+          [
+            "engineer refer",
+            0.392044
+          ],
+          [
+            "refer",
+            0.392044
+          ],
+          [
+            "refer advert",
+            0.392044
+          ],
+          [
+            "devops",
+            0.278943
+          ]
+        ],
+        "shared_keywords": [
+          "devops"
+        ],
+        "keyword_matches": 1
+      },
+      "skill_gap": {
+        "matched": [
+          "devops"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 8,
+      "job_id": 1044,
+      "job_title": "DevOps Engineer",
+      "company": "S A S Creative (Pvt) Ltd",
+      "source": "topjobs",
+      "hybrid_score_pct": 49.0,
+      "shap": {
+        "summary": "Excellent match (49.0%) — strongly recommended",
+        "why_recommended": [
+          "Key skill matched: devops"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.3143
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.1
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0286
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.021,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 1,
+          "location_match": 0.5,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.3143,
+          "skill_match_ratio": 0.1,
+          "matched_skills_count": 0.0286,
+          "experience_fit": 0.02,
+          "location_match": 0.01,
+          "job_skill_count": 0.0086,
+          "is_intern_level": 0.0071,
+          "tfidf_score": 0.0018,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: devops. The job is primarily looking for: devops engineer, engineer, engineer refer, refer, refer vacancy.",
+        "top_keywords": [
+          [
+            "devops",
+            0.0105
+          ]
+        ],
+        "job_keywords": [
+          [
+            "devops engineer",
+            0.392044
+          ],
+          [
+            "engineer",
+            0.392044
+          ],
+          [
+            "engineer refer",
+            0.392044
+          ],
+          [
+            "refer",
+            0.392044
+          ],
+          [
+            "refer vacancy",
+            0.392044
+          ],
+          [
+            "vacancy",
+            0.392044
+          ],
+          [
+            "devops",
+            0.278943
+          ]
+        ],
+        "shared_keywords": [
+          "devops"
+        ],
+        "keyword_matches": 1
+      },
+      "skill_gap": {
+        "matched": [
+          "devops"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 9,
+      "job_id": 1120,
+      "job_title": "DevOps Engineer",
+      "company": "eBEYONDS",
+      "source": "topjobs",
+      "hybrid_score_pct": 49.0,
+      "shap": {
+        "summary": "Excellent match (49.0%) — strongly recommended",
+        "why_recommended": [
+          "Key skill matched: devops"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.3141
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.1
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0286
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.0229,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 1,
+          "location_match": 0.5,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.3141,
+          "skill_match_ratio": 0.1,
+          "matched_skills_count": 0.0286,
+          "experience_fit": 0.02,
+          "location_match": 0.01,
+          "job_skill_count": 0.0086,
+          "is_intern_level": 0.0071,
+          "tfidf_score": 0.002,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: devops. The job is primarily looking for: devops engineer, engineer, engineer refer, refer, refer vacancy.",
+        "top_keywords": [
+          [
+            "devops",
+            0.0105
+          ]
+        ],
+        "job_keywords": [
+          [
+            "devops engineer",
+            0.392044
+          ],
+          [
+            "engineer",
+            0.392044
+          ],
+          [
+            "engineer refer",
+            0.392044
+          ],
+          [
+            "refer",
+            0.392044
+          ],
+          [
+            "refer vacancy",
+            0.392044
+          ],
+          [
+            "vacancy",
+            0.392044
+          ],
+          [
+            "devops",
+            0.278943
+          ]
+        ],
+        "shared_keywords": [
+          "devops"
+        ],
+        "keyword_matches": 1
+      },
+      "skill_gap": {
+        "matched": [
+          "devops"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 10,
+      "job_id": 1704,
+      "job_title": "DevOps Engineers",
+      "company": "eBEYONDS (Pvt) Ltd",
+      "source": "topjobs",
+      "hybrid_score_pct": 49.0,
+      "shap": {
+        "summary": "Excellent match (49.0%) — strongly recommended",
+        "why_recommended": [
+          "Key skill matched: devops"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.3143
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.1
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0286
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.0205,
+          "matched_skills_count": 1,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 1,
+          "location_match": 0.5,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.3143,
+          "skill_match_ratio": 0.1,
+          "matched_skills_count": 0.0286,
+          "experience_fit": 0.02,
+          "location_match": 0.01,
+          "job_skill_count": 0.0086,
+          "is_intern_level": 0.0071,
+          "tfidf_score": 0.0018,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: devops. The job is primarily looking for: devops engineers, engineers, engineers refer, refer, refer vacancy.",
+        "top_keywords": [
+          [
+            "devops",
+            0.0105
+          ]
+        ],
+        "job_keywords": [
+          [
+            "devops engineers",
+            0.392044
+          ],
+          [
+            "engineers",
+            0.392044
+          ],
+          [
+            "engineers refer",
+            0.392044
+          ],
+          [
+            "refer",
+            0.392044
+          ],
+          [
+            "refer vacancy",
+            0.392044
+          ],
+          [
+            "vacancy",
+            0.392044
+          ],
+          [
+            "devops",
+            0.278943
+          ]
+        ],
+        "shared_keywords": [
+          "devops"
+        ],
+        "keyword_matches": 1
+      },
+      "skill_gap": {
+        "matched": [
+          "devops"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 11,
+      "job_id": 2056,
+      "job_title": "Student Success Associate",
+      "company": "Snapdrum",
+      "source": "rooster",
+      "hybrid_score_pct": 48.0,
+      "shap": {
+        "summary": "Excellent match (48.0%) — strongly recommended",
+        "why_recommended": [
+          "Partial skill match — 2 skills aligned: communication, motivated",
+          "Moderate text relevance (7.7%) — resume keywords partially match job",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.2745
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0873
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0499
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.0768,
+          "matched_skills_count": 2,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 2,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.2745,
+          "skill_match_ratio": 0.0873,
+          "matched_skills_count": 0.0499,
+          "location_match": 0.0175,
+          "experience_fit": 0.0175,
+          "job_skill_count": 0.015,
+          "is_intern_level": 0.0125,
+          "tfidf_score": 0.0057,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: support, skills, time, issues, learning. The job is primarily looking for: student, experience, role, success, support.",
+        "top_keywords": [
+          [
+            "support",
+            0.015426
+          ],
+          [
+            "skills",
+            0.004407
+          ],
+          [
+            "time",
+            0.004407
+          ],
+          [
+            "issues",
+            0.002938
+          ],
+          [
+            "learning",
+            0.002938
+          ],
+          [
+            "education",
+            0.002204
+          ],
+          [
+            "team",
+            0.002204
+          ],
+          [
+            "technology",
+            0.002204
+          ]
+        ],
+        "job_keywords": [
+          [
+            "student",
+            0.426288
+          ],
+          [
+            "experience",
+            0.213144
+          ],
+          [
+            "role",
+            0.213144
+          ],
+          [
+            "success",
+            0.213144
+          ],
+          [
+            "support",
+            0.11374
+          ],
+          [
+            "ai",
+            0.106572
+          ],
+          [
+            "help",
+            0.106572
+          ],
+          [
+            "ll",
+            0.106572
+          ]
+        ],
+        "shared_keywords": [
+          "about",
+          "across",
+          "communication",
+          "education",
+          "environment",
+          "full",
+          "issues",
+          "learning",
+          "motivated",
+          "paced",
+          "professional",
+          "progress",
+          "self",
+          "skills",
+          "smooth"
+        ],
+        "keyword_matches": 19
+      },
+      "skill_gap": {
+        "matched": [
+          "communication",
+          "motivated"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 12,
+      "job_id": 2043,
+      "job_title": "QA Analyst",
+      "company": "falconet ltd",
+      "source": "rooster",
+      "hybrid_score_pct": 42.1,
+      "shap": {
+        "summary": "Excellent match (42.1%) — strongly recommended",
+        "why_recommended": [
+          "Strong skill match — 5 skills aligned: communication, github, jira, problem-solving, project management",
+          "High text similarity (17.2%) — resume content closely matches job description",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 6 skills to develop: agile, cypress, postman, proactive, selenium..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1663
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0756
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0499
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0726
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.4545,
+          "tfidf_score": 0.1722,
+          "matched_skills_count": 5,
+          "missing_skills_count": 6,
+          "resume_skill_count": 22,
+          "job_skill_count": 11,
+          "location_match": 1.0,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1663,
+          "matched_skills_count": 0.0756,
+          "missing_skills_count": -0.0726,
+          "job_skill_count": 0.0499,
+          "skill_match_ratio": 0.0241,
+          "location_match": 0.0106,
+          "experience_fit": 0.0106,
+          "tfidf_score": 0.0078,
+          "is_intern_level": 0.0038
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: project, user, management, development, skills. The job is primarily looking for: applications, bugs, exposure, mobile, mobile applications.",
+        "top_keywords": [
+          [
+            "project",
+            0.009381
+          ],
+          [
+            "user",
+            0.006701
+          ],
+          [
+            "management",
+            0.004691
+          ],
+          [
+            "development",
+            0.004021
+          ],
+          [
+            "skills",
+            0.004021
+          ],
+          [
+            "software",
+            0.004021
+          ],
+          [
+            "team",
+            0.004021
+          ],
+          [
+            "technical",
+            0.00335
+          ]
+        ],
+        "job_keywords": [
+          [
+            "applications",
+            0.188723
+          ],
+          [
+            "bugs",
+            0.141542
+          ],
+          [
+            "exposure",
+            0.141542
+          ],
+          [
+            "mobile",
+            0.141542
+          ],
+          [
+            "mobile applications",
+            0.141542
+          ],
+          [
+            "quality",
+            0.141542
+          ],
+          [
+            "test",
+            0.141542
+          ],
+          [
+            "tools",
+            0.141542
+          ]
+        ],
+        "shared_keywords": [
+          "about",
+          "across",
+          "basic",
+          "communication",
+          "computer",
+          "concepts",
+          "cross",
+          "development",
+          "end",
+          "ensure",
+          "environment",
+          "fixed",
+          "fundamentals",
+          "github",
+          "issues"
+        ],
+        "keyword_matches": 43
+      },
+      "skill_gap": {
+        "matched": [
+          "communication",
+          "github",
+          "jira",
+          "problem-solving",
+          "project management"
+        ],
+        "missing": [
+          "agile",
+          "cypress",
+          "postman",
+          "proactive",
+          "selenium",
+          "verbal communication"
+        ]
+      }
+    },
+    {
+      "rank": 13,
+      "job_id": 1229,
+      "job_title": "IT Intern",
+      "company": "Dilmah Ceylon Tea Company",
+      "source": "rooster",
+      "hybrid_score_pct": 41.4,
+      "shap": {
+        "summary": "Excellent match (41.4%) — strongly recommended",
+        "why_recommended": [
+          "Partial skill match — 2 skills aligned: communication, problem-solving",
+          "High text similarity (28.8%) — resume content closely matches job description",
+          "Job level matches your experience (internship/entry-level)"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.2336
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0743
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0425
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.2877,
+          "matched_skills_count": 2,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 2,
+          "location_match": 0.5,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.2336,
+          "skill_match_ratio": 0.0743,
+          "matched_skills_count": 0.0425,
+          "tfidf_score": 0.0183,
+          "experience_fit": 0.0149,
+          "job_skill_count": 0.0127,
+          "is_intern_level": 0.0106,
+          "location_match": 0.0074,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: support, skills, troubleshooting, hardware, technical. The job is primarily looking for: assist, assist troubleshooting, intern, internship, updates.",
+        "top_keywords": [
+          [
+            "support",
+            0.016804
+          ],
+          [
+            "skills",
+            0.014403
+          ],
+          [
+            "troubleshooting",
+            0.014403
+          ],
+          [
+            "hardware",
+            0.012003
+          ],
+          [
+            "technical",
+            0.012003
+          ],
+          [
+            "issues",
+            0.009602
+          ],
+          [
+            "team",
+            0.007202
+          ],
+          [
+            "technology",
+            0.007202
+          ]
+        ],
+        "job_keywords": [
+          [
+            "assist",
+            0.170946
+          ],
+          [
+            "assist troubleshooting",
+            0.170946
+          ],
+          [
+            "intern",
+            0.170946
+          ],
+          [
+            "internship",
+            0.170946
+          ],
+          [
+            "updates",
+            0.170946
+          ],
+          [
+            "hardware",
+            0.121629
+          ],
+          [
+            "hardware software",
+            0.121629
+          ],
+          [
+            "issues",
+            0.121629
+          ]
+        ],
+        "shared_keywords": [
+          "basic",
+          "communication",
+          "computer",
+          "daily",
+          "hardware",
+          "infrastructure",
+          "issues",
+          "maintenance",
+          "operations",
+          "problem",
+          "procedures",
+          "projects",
+          "skills",
+          "software",
+          "solving"
+        ],
+        "keyword_matches": 28
+      },
+      "skill_gap": {
+        "matched": [
+          "communication",
+          "problem-solving"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 14,
+      "job_id": 2041,
+      "job_title": "Intern - Software Engineer AI",
+      "company": "Swivel Group",
+      "source": "rooster",
+      "hybrid_score_pct": 38.2,
+      "shap": {
+        "summary": "Excellent match (38.2%) — strongly recommended",
+        "why_recommended": [
+          "Strong skill match — 10 skills aligned: aws, azure, collaboration, communication, documentation...",
+          "High text similarity (16.0%) — resume content closely matches job description",
+          "Job level matches your experience (internship/entry-level)"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 7 skills to develop: flutter, google cloud, initiative, integration testing, react..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1175
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.1068
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0545
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0598
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.5882,
+          "tfidf_score": 0.1603,
+          "matched_skills_count": 10,
+          "missing_skills_count": 7,
+          "resume_skill_count": 22,
+          "job_skill_count": 17,
+          "location_match": 0.5,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1175,
+          "matched_skills_count": 0.1068,
+          "missing_skills_count": -0.0598,
+          "job_skill_count": 0.0545,
+          "skill_match_ratio": 0.022,
+          "experience_fit": 0.0075,
+          "is_intern_level": 0.0053,
+          "tfidf_score": 0.0051,
+          "location_match": 0.0037
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: skills, team, learning, software, knowledge. The job is primarily looking for: swivel, team, ai, https, work.",
+        "top_keywords": [
+          [
+            "skills",
+            0.014471
+          ],
+          [
+            "team",
+            0.011577
+          ],
+          [
+            "learning",
+            0.005788
+          ],
+          [
+            "software",
+            0.004824
+          ],
+          [
+            "knowledge",
+            0.004341
+          ],
+          [
+            "development",
+            0.002894
+          ],
+          [
+            "end",
+            0.002894
+          ],
+          [
+            "technical",
+            0.002412
+          ]
+        ],
+        "job_keywords": [
+          [
+            "swivel",
+            0.276939
+          ],
+          [
+            "team",
+            0.197044
+          ],
+          [
+            "ai",
+            0.173087
+          ],
+          [
+            "https",
+            0.138469
+          ],
+          [
+            "work",
+            0.138469
+          ],
+          [
+            "skills",
+            0.123153
+          ],
+          [
+            "software",
+            0.123153
+          ],
+          [
+            "design",
+            0.103852
+          ]
+        ],
+        "shared_keywords": [
+          "about",
+          "across",
+          "actively",
+          "aws",
+          "azure",
+          "business",
+          "cloud",
+          "collaboration",
+          "com",
+          "communication",
+          "concepts",
+          "data",
+          "development",
+          "documentation",
+          "end"
+        ],
+        "keyword_matches": 52
+      },
+      "skill_gap": {
+        "matched": [
+          "aws",
+          "azure",
+          "collaboration",
+          "communication",
+          "documentation",
+          "machine learning",
+          "motivated",
+          "passionate",
+          "planning",
+          "problem-solving"
+        ],
+        "missing": [
+          "flutter",
+          "google cloud",
+          "initiative",
+          "integration testing",
+          "react",
+          "react native",
+          "unit testing"
+        ]
+      }
+    },
+    {
+      "rank": 15,
+      "job_id": 2044,
+      "job_title": "Student Success Instructor (Cybersecurity)",
+      "company": "Edmore Private Limited",
+      "source": "rooster",
+      "hybrid_score_pct": 37.4,
+      "shap": {
+        "summary": "Excellent match (37.4%) — strongly recommended",
+        "why_recommended": [
+          "Partial skill match — 2 skills aligned: communication, documentation",
+          "High text similarity (15.2%) — resume content closely matches job description",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Consider learning: agile, agile methodologies, cybersecurity, organizational skills"
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1932
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0351
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0316
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0562
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.3333,
+          "tfidf_score": 0.1521,
+          "matched_skills_count": 2,
+          "missing_skills_count": 4,
+          "resume_skill_count": 22,
+          "job_skill_count": 6,
+          "location_match": 1.0,
+          "is_intern_level": 0.5,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1932,
+          "missing_skills_count": -0.0562,
+          "matched_skills_count": 0.0351,
+          "job_skill_count": 0.0316,
+          "skill_match_ratio": 0.0205,
+          "location_match": 0.0123,
+          "experience_fit": 0.0123,
+          "tfidf_score": 0.008,
+          "is_intern_level": 0.0044
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: support, management, learning, skills, security. The job is primarily looking for: cybersecurity, experience, secure, student, curriculum.",
+        "top_keywords": [
+          [
+            "support",
+            0.01628
+          ],
+          [
+            "management",
+            0.009768
+          ],
+          [
+            "learning",
+            0.009303
+          ],
+          [
+            "skills",
+            0.008373
+          ],
+          [
+            "security",
+            0.005582
+          ],
+          [
+            "technical",
+            0.004652
+          ],
+          [
+            "network",
+            0.003721
+          ],
+          [
+            "education",
+            0.002791
+          ]
+        ],
+        "job_keywords": [
+          [
+            "cybersecurity",
+            0.456732
+          ],
+          [
+            "experience",
+            0.163118
+          ],
+          [
+            "secure",
+            0.163118
+          ],
+          [
+            "student",
+            0.163118
+          ],
+          [
+            "curriculum",
+            0.130495
+          ],
+          [
+            "lms",
+            0.130495
+          ],
+          [
+            "success",
+            0.130495
+          ],
+          [
+            "learning",
+            0.11606
+          ]
+        ],
+        "shared_keywords": [
+          "basic",
+          "bootcamp",
+          "cloud",
+          "communication",
+          "compliance",
+          "concepts",
+          "control",
+          "course",
+          "data",
+          "delivery",
+          "development",
+          "documentation",
+          "education",
+          "ensure",
+          "ensuring"
+        ],
+        "keyword_matches": 43
+      },
+      "skill_gap": {
+        "matched": [
+          "communication",
+          "documentation"
+        ],
+        "missing": [
+          "agile",
+          "agile methodologies",
+          "cybersecurity",
+          "organizational skills"
+        ]
+      }
+    },
+    {
+      "rank": 16,
+      "job_id": 2029,
+      "job_title": "Interns – ICT",
+      "company": "Toyota Lanka (Pvt) Ltd.",
+      "source": "rooster",
+      "hybrid_score_pct": 35.7,
+      "shap": {
+        "summary": "Excellent match (35.7%) — strongly recommended",
+        "why_recommended": [
+          "Strong skill match — 5 skills aligned: communication, documentation, networking, problem-solving, team player",
+          "High text similarity (19.3%) — resume content closely matches job description",
+          "Job level matches your experience (internship/entry-level)"
+        ],
+        "improvement_tips": [
+          "Consider learning: attention to detail, interpersonal skills, work under pressure"
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1562
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.071
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0341
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0341
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.625,
+          "tfidf_score": 0.193,
+          "matched_skills_count": 5,
+          "missing_skills_count": 3,
+          "resume_skill_count": 22,
+          "job_skill_count": 8,
+          "location_match": 0.5,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1562,
+          "matched_skills_count": 0.071,
+          "missing_skills_count": -0.0341,
+          "job_skill_count": 0.0341,
+          "skill_match_ratio": 0.0311,
+          "experience_fit": 0.0099,
+          "tfidf_score": 0.0082,
+          "is_intern_level": 0.0071,
+          "location_match": 0.005
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: support, skills, network, team, hardware. The job is primarily looking for: work, skills, support, ability, ability work.",
+        "top_keywords": [
+          [
+            "support",
+            0.021499
+          ],
+          [
+            "skills",
+            0.018428
+          ],
+          [
+            "network",
+            0.00819
+          ],
+          [
+            "team",
+            0.006143
+          ],
+          [
+            "hardware",
+            0.005119
+          ],
+          [
+            "computer",
+            0.004095
+          ],
+          [
+            "tasks",
+            0.004095
+          ],
+          [
+            "configuration",
+            0.003071
+          ]
+        ],
+        "job_keywords": [
+          [
+            "work",
+            0.218587
+          ],
+          [
+            "skills",
+            0.155526
+          ],
+          [
+            "support",
+            0.155526
+          ],
+          [
+            "ability",
+            0.145725
+          ],
+          [
+            "ability work",
+            0.145725
+          ],
+          [
+            "branches",
+            0.145725
+          ],
+          [
+            "devices",
+            0.145725
+          ],
+          [
+            "multiple",
+            0.145725
+          ]
+        ],
+        "shared_keywords": [
+          "across",
+          "basic",
+          "communication",
+          "computer",
+          "configuration",
+          "daily",
+          "documentation",
+          "ensure",
+          "hardware",
+          "infrastructure",
+          "maintaining",
+          "network",
+          "networking",
+          "operations",
+          "player"
+        ],
+        "keyword_matches": 30
+      },
+      "skill_gap": {
+        "matched": [
+          "communication",
+          "documentation",
+          "networking",
+          "problem-solving",
+          "team player"
+        ],
+        "missing": [
+          "attention to detail",
+          "interpersonal skills",
+          "work under pressure"
+        ]
+      }
+    },
+    {
+      "rank": 17,
+      "job_id": 1227,
+      "job_title": "Intern Business Analyst",
+      "company": "Twist Digital",
+      "source": "rooster",
+      "hybrid_score_pct": 35.2,
+      "shap": {
+        "summary": "Excellent match (35.2%) — strongly recommended",
+        "why_recommended": [
+          "Strong skill match — 9 skills aligned: collaboration, communication, documentation, jira, motivated...",
+          "High text similarity (24.2%) — resume content closely matches job description",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Skill gap detected — 8 skills to develop: analytical thinking, attention to detail, business analysis, excel, proactive..."
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1075
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.088
+          },
+          {
+            "feature": "job_skill_count",
+            "contribution": 0.0498
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0625
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.5294,
+          "tfidf_score": 0.2416,
+          "matched_skills_count": 9,
+          "missing_skills_count": 8,
+          "resume_skill_count": 22,
+          "job_skill_count": 17,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1075,
+          "matched_skills_count": 0.088,
+          "missing_skills_count": -0.0625,
+          "job_skill_count": 0.0498,
+          "skill_match_ratio": 0.0181,
+          "tfidf_score": 0.0071,
+          "location_match": 0.0068,
+          "experience_fit": 0.0068,
+          "is_intern_level": 0.0049
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: project, management, business, support, skills. The job is primarily looking for: project, business, digital, analysis, management.",
+        "top_keywords": [
+          [
+            "project",
+            0.038027
+          ],
+          [
+            "management",
+            0.017551
+          ],
+          [
+            "business",
+            0.015044
+          ],
+          [
+            "support",
+            0.008775
+          ],
+          [
+            "skills",
+            0.007522
+          ],
+          [
+            "team",
+            0.005015
+          ],
+          [
+            "tasks",
+            0.003343
+          ],
+          [
+            "communication",
+            0.002507
+          ]
+        ],
+        "job_keywords": [
+          [
+            "project",
+            0.270557
+          ],
+          [
+            "business",
+            0.249745
+          ],
+          [
+            "digital",
+            0.234005
+          ],
+          [
+            "analysis",
+            0.175504
+          ],
+          [
+            "management",
+            0.124872
+          ],
+          [
+            "internal",
+            0.117003
+          ],
+          [
+            "requirements",
+            0.117003
+          ],
+          [
+            "work",
+            0.117003
+          ]
+        ],
+        "shared_keywords": [
+          "about",
+          "administration",
+          "alignment",
+          "basic",
+          "business",
+          "collaboration",
+          "communication",
+          "coordination",
+          "cross",
+          "delivery",
+          "development",
+          "documentation",
+          "efficiency",
+          "ensure",
+          "environment"
+        ],
+        "keyword_matches": 62
+      },
+      "skill_gap": {
+        "matched": [
+          "collaboration",
+          "communication",
+          "documentation",
+          "jira",
+          "motivated",
+          "passionate",
+          "planning",
+          "problem-solving",
+          "project management"
+        ],
+        "missing": [
+          "analytical thinking",
+          "attention to detail",
+          "business analysis",
+          "excel",
+          "proactive",
+          "research",
+          "stakeholder",
+          "verbal communication"
+        ]
+      }
+    },
+    {
+      "rank": 18,
+      "job_id": 2060,
+      "job_title": "Intern Sales Admin",
+      "company": "Promo lanka Holdings",
+      "source": "rooster",
+      "hybrid_score_pct": 35.1,
+      "shap": {
+        "summary": "Excellent match (35.1%) — strongly recommended",
+        "why_recommended": [
+          "Partial skill match — 2 skills aligned: documentation, motivated",
+          "Moderate text relevance (6.7%) — resume keywords partially match job",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.2011
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.064
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0366
+          }
+        ],
+        "top_negative": [],
+        "feature_values": {
+          "skill_match_ratio": 1.0,
+          "tfidf_score": 0.0665,
+          "matched_skills_count": 2,
+          "missing_skills_count": 0,
+          "resume_skill_count": 22,
+          "job_skill_count": 2,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.2011,
+          "skill_match_ratio": 0.064,
+          "matched_skills_count": 0.0366,
+          "location_match": 0.0128,
+          "experience_fit": 0.0128,
+          "job_skill_count": 0.011,
+          "is_intern_level": 0.0091,
+          "tfidf_score": 0.0036,
+          "missing_skills_count": -0.0
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: project, support, business, teams, coordination. The job is primarily looking for: sales, teams, admin, boqs, chain.",
+        "top_keywords": [
+          [
+            "project",
+            0.013635
+          ],
+          [
+            "support",
+            0.013635
+          ],
+          [
+            "business",
+            0.002922
+          ],
+          [
+            "teams",
+            0.002922
+          ],
+          [
+            "coordination",
+            0.001948
+          ],
+          [
+            "documentation",
+            0.001948
+          ],
+          [
+            "operations",
+            0.001948
+          ],
+          [
+            "motivated",
+            0.000974
+          ]
+        ],
+        "job_keywords": [
+          [
+            "sales",
+            0.213914
+          ],
+          [
+            "teams",
+            0.152202
+          ],
+          [
+            "admin",
+            0.14261
+          ],
+          [
+            "boqs",
+            0.14261
+          ],
+          [
+            "chain",
+            0.14261
+          ],
+          [
+            "exposure",
+            0.14261
+          ],
+          [
+            "product",
+            0.14261
+          ],
+          [
+            "coordination",
+            0.101468
+          ]
+        ],
+        "shared_keywords": [
+          "business",
+          "coordination",
+          "documentation",
+          "motivated",
+          "operations",
+          "project",
+          "reporting",
+          "support",
+          "teams"
+        ],
+        "keyword_matches": 9
+      },
+      "skill_gap": {
+        "matched": [
+          "documentation",
+          "motivated"
+        ],
+        "missing": []
+      }
+    },
+    {
+      "rank": 19,
+      "job_id": 2057,
+      "job_title": "Founder's Associate",
+      "company": "Snapdrum",
+      "source": "rooster",
+      "hybrid_score_pct": 34.8,
+      "shap": {
+        "summary": "Good match (34.8%) — worth applying",
+        "why_recommended": [
+          "Partial skill match — 2 skills aligned: communication, problem-solving",
+          "Moderate text relevance (5.4%) — resume keywords partially match job",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Consider learning: proactive, research"
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1953
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0355
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0311
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0284
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.5,
+          "tfidf_score": 0.0541,
+          "matched_skills_count": 2,
+          "missing_skills_count": 2,
+          "resume_skill_count": 22,
+          "job_skill_count": 4,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1953,
+          "matched_skills_count": 0.0355,
+          "skill_match_ratio": 0.0311,
+          "missing_skills_count": -0.0284,
+          "job_skill_count": 0.0213,
+          "location_match": 0.0124,
+          "experience_fit": 0.0124,
+          "is_intern_level": 0.0089,
+          "tfidf_score": 0.0029
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: support, skills, operations, team, communication. The job is primarily looking for: ai, partnerships, work, operations, ai markets.",
+        "top_keywords": [
+          [
+            "support",
+            0.008922
+          ],
+          [
+            "skills",
+            0.007648
+          ],
+          [
+            "operations",
+            0.005099
+          ],
+          [
+            "team",
+            0.003824
+          ],
+          [
+            "communication",
+            0.002549
+          ],
+          [
+            "projects",
+            0.002549
+          ],
+          [
+            "problem",
+            0.001275
+          ],
+          [
+            "problem solving",
+            0.001275
+          ]
+        ],
+        "job_keywords": [
+          [
+            "ai",
+            0.280262
+          ],
+          [
+            "partnerships",
+            0.186842
+          ],
+          [
+            "work",
+            0.186842
+          ],
+          [
+            "operations",
+            0.132939
+          ],
+          [
+            "ai markets",
+            0.093421
+          ],
+          [
+            "ai startup",
+            0.093421
+          ],
+          [
+            "ai startups",
+            0.093421
+          ],
+          [
+            "assist",
+            0.093421
+          ]
+        ],
+        "shared_keywords": [
+          "across",
+          "communication",
+          "operations",
+          "problem",
+          "projects",
+          "skills",
+          "solving",
+          "support",
+          "team"
+        ],
+        "keyword_matches": 10
+      },
+      "skill_gap": {
+        "matched": [
+          "communication",
+          "problem-solving"
+        ],
+        "missing": [
+          "proactive",
+          "research"
+        ]
+      }
+    },
+    {
+      "rank": 20,
+      "job_id": 1248,
+      "job_title": "Community Management & Partnerships Intern",
+      "company": "Metana",
+      "source": "rooster",
+      "hybrid_score_pct": 34.7,
+      "shap": {
+        "summary": "Good match (34.7%) — worth applying",
+        "why_recommended": [
+          "Strong skill match — 5 skills aligned: collaboration, communication, documentation, passionate, problem-solving",
+          "Moderate text relevance (8.7%) — resume keywords partially match job",
+          "Job level matches your experience (internship/entry-level)",
+          "Location is remote or in Colombo — convenient"
+        ],
+        "improvement_tips": [
+          "Consider learning: creativity, spark"
+        ],
+        "top_positive": [
+          {
+            "feature": "resume_skill_count",
+            "contribution": 0.1566
+          },
+          {
+            "feature": "matched_skills_count",
+            "contribution": 0.0712
+          },
+          {
+            "feature": "skill_match_ratio",
+            "contribution": 0.0356
+          }
+        ],
+        "top_negative": [
+          {
+            "feature": "missing_skills_count",
+            "contribution": -0.0228
+          }
+        ],
+        "feature_values": {
+          "skill_match_ratio": 0.7143,
+          "tfidf_score": 0.087,
+          "matched_skills_count": 5,
+          "missing_skills_count": 2,
+          "resume_skill_count": 22,
+          "job_skill_count": 7,
+          "location_match": 1.0,
+          "is_intern_level": 1.0,
+          "experience_fit": 1.0
+        },
+        "contributions": {
+          "resume_skill_count": 0.1566,
+          "matched_skills_count": 0.0712,
+          "skill_match_ratio": 0.0356,
+          "job_skill_count": 0.0299,
+          "missing_skills_count": -0.0228,
+          "location_match": 0.01,
+          "experience_fit": 0.01,
+          "is_intern_level": 0.0071,
+          "tfidf_score": 0.0037
+        }
+      },
+      "lime": {
+        "explanation": "Your resume matches this job mainly through keywords: management, skills, team, support, technology. The job is primarily looking for: community, partnerships, web3, discussions, management.",
+        "top_keywords": [
+          [
+            "management",
+            0.018085
+          ],
+          [
+            "skills",
+            0.010334
+          ],
+          [
+            "team",
+            0.003875
+          ],
+          [
+            "support",
+            0.003014
+          ],
+          [
+            "technology",
+            0.002584
+          ],
+          [
+            "member",
+            0.002153
+          ],
+          [
+            "development",
+            0.001722
+          ],
+          [
+            "event",
+            0.001292
+          ]
+        ],
+        "job_keywords": [
+          [
+            "community",
+            0.526318
+          ],
+          [
+            "partnerships",
+            0.185759
+          ],
+          [
+            "web3",
+            0.185759
+          ],
+          [
+            "discussions",
+            0.154799
+          ],
+          [
+            "management",
+            0.132169
+          ],
+          [
+            "building",
+            0.12384
+          ],
+          [
+            "community management",
+            0.09288
+          ],
+          [
+            "conversations",
+            0.09288
+          ]
+        ],
+        "shared_keywords": [
+          "about",
+          "across",
+          "active",
+          "collaboration",
+          "communication",
+          "coordination",
+          "course",
+          "day",
+          "development",
+          "documentation",
+          "ensuring",
+          "environment",
+          "environments",
+          "event",
+          "management"
+        ],
+        "keyword_matches": 32
+      },
+      "skill_gap": {
+        "matched": [
+          "collaboration",
+          "communication",
+          "documentation",
+          "passionate",
+          "problem-solving"
+        ],
+        "missing": [
+          "creativity",
+          "spark"
+        ]
+      }
+    }
+  ]
+}

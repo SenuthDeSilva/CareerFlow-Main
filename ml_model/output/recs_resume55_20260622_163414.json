@@ -1,0 +1,1145 @@
+{
+  "resume_id": 55,
+  "candidate": "Hiran Devinda",
+  "pipeline": "TF-IDF+Word2Vec+Skill+RandomForest",
+  "recommendations": [
+    {
+      "job_id": 1190,
+      "title": "QA Intern",
+      "company": "TSA Media Group(PVT) Ltd",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 25,000 - 25,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/438432",
+      "source": "rooster",
+      "tfidf_score": 0.0828,
+      "word2vec_score": 0.3999,
+      "skill_score": 0.2857,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 8.3,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 29,
+      "job_skills_count": 7,
+      "job_skills": [
+        "analytical skills",
+        "communication",
+        "documentation",
+        "innovative",
+        "javascript",
+        "php",
+        "planning"
+      ],
+      "matched_skills": [
+        "communication",
+        "javascript"
+      ],
+      "missing_skills": [
+        "analytical skills",
+        "documentation",
+        "innovative",
+        "php",
+        "planning"
+      ],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "QA Intern QA Internship - Responsibilities and Qualifications Overview\nPosition Overview:As a QA Intern at our company, you will engage in a comprehensive examination and validation process for our web-based applications and systems. Your role is pivotal in ensuring the functionality, reliability, and performance of our digital products by meticulously evaluating project specifications, testing website features, and identifying areas for enhancement.\nKey Responsibilities:\nQualifications:\nThis internship provides a dynamic environment to develop your professional skills while contributing to the quality assurance of our web applications. You will gain practical experience, work with seasoned professionals, and develop a critical understanding of the technological and user-centric aspects of website development.\n- Specification Analysis and Feedback:Carefully review project documentation to fully understand the website functionalities. Provide insightful and constructive feedback to enhance clarity and efficiency.\n- Test Case Development:Design detailed, clear, and comprehensive test cases that cover all necessary aspects of website testing to ensure thorough validation of functionality and performance.\n- Test Planning:Develop robust test plans that define the scope, approach, and resources required for effective quality assurance of web applications.\n- Resource and Time Estimation:Collaborate with the QA team to accurately estimate the time and resources needed to execute test plans efficiently.\n- Testing and Prioritization:Execute a variety of tests, including but not limited to functionality, usability, and performance tests. Prioritize testing activities based on project requirements and criticality.\n- Issue Documentation:Identify, document, and report any issues or bugs discovered during testing phases. Provide clear and actionable reports to facilitate quick resolutions by the development team.\n- User Experience Evaluation:Assess and critique the user interface and user experience to identify potential areas for improvement, aiming to enhance overall user satisfaction.\n- Cross-platform Testing:Evaluate the website’s performance, speed, responsiveness, and stability across various platforms, devices, and browsers to ensure consistent user experience.\n- Quality Culture Contribution:Actively contribute to the maintenance and enhancement of QA discipline within the team. Promote a culture of quality and continuous improvement throughout the organization.\n- Educational Background:Bachelor’s degree in Computer Science, Information Technology, or a related technical field is preferred.\n- Technical Proficiency:Basic knowledge of web programming languages such as PHP and JavaScript is highly beneficial.\n- Experience in Test Automation:Previous experience with test automation tools and performance testing methodologies will be considered an asset.\n- Analytical Skills:Demonstrated ability to analyze technical information, identify problems, and propose logical solutions.\n- Innovative Thinking:Ability to think creatively and outside the traditional frameworks to develop innovative testing strategies.\n- Practical Experience:Prior hands-on experience in website QA, including the development and execution of test cases, planning, and effective reporting.\n- Communication Skills:Excellent communication skills, both written and oral, are essential to effectively collaborate with development teams and other stakeholders. TSA Media Group(PVT) Ltd Colombo, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 1,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1207,
+      "title": "Marketing, Analytics Internships (2026 Program)",
+      "company": "BCONIC",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514010",
+      "source": "rooster",
+      "tfidf_score": 0.0567,
+      "word2vec_score": 0.3996,
+      "skill_score": 0.2857,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 5.7,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 29,
+      "job_skills_count": 7,
+      "job_skills": [
+        "attention to detail",
+        "business analysis",
+        "communication",
+        "motivated",
+        "proactive",
+        "time management",
+        "verbal communication"
+      ],
+      "matched_skills": [
+        "communication",
+        "motivated"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "business analysis",
+        "proactive",
+        "time management",
+        "verbal communication"
+      ],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Marketing, Analytics Internships (2026 Program) Are you highly detail-oriented, analytical, and interested in how marketing performance is measured, reported, and optimized?\nOur internship program may be the right fit for you. This is an exciting opportunity to work with experienced and ambitious professionals (from both North America & Sri Lanka), supporting both agencies and brands with international marketing campaigns.\nYou will work closely with very experienced and accomplished senior marketers, giving you the chance to rapidly improve your skills and learn across many marketing disciplines and industries.\nSuccessful interns may be invited to extend their internship and progress into junior roles within our company or partner teams.\nRead on to find out if this is your next dream role!\nAs an intern on our team, you may be responsible for:\nYou may also have opportunities to:\nThis role offers exposure to working with large agencies, direct clients, and internal product teams: providing a 360º view of modern marketing.\nOur internships provide a lot of opportunities to craft a career.If you have an interest in a specific area, please indicate that in your cover letter.\nWorking with a startup is a unique experience: there are no heavy layers of management, rigid structures or “that’s just the way it’s always been done”. We are often venturing into new areas, unfamiliar industries and developing new skillsets.\nThat also means:it's very important that work is done on time and to a high standard.\nThat also means:You will be responsible for your own outcomes. You will need to actively manage your time, and actively solicit feedback on your work to ensure that what you deliver is on schedule and provides value.\nThat also means:you'll be expected to actively contribute ideas and participate in feedback for other's work outside of your chosen project.\nAs part of your onboarding, you'll work with a senior member of the team to build a 90-day plan. This will help you to succeed in your initial contract period!\nFor a candidate to succeed in this role, you will need the following:\nPlease highlight any experience you have in the following areas:\nNote that it is not required to have this experience to be considered for the role! Not sure if you meet all the requirements?Apply anyway, and tell us in the note why you'd be an asset to the team.\nThis is a full-time internship (40 hours per week, M-F), offering flexible working hours and a mostly remote setup. Occasional travel to Colombo will be required.\nWhile working hours are flexible, there is an all-hands team meeting every morning (M-F) in the morning (Some time between 8:30 - 10:00 AM IST). Other meetings are generally scheduled (M-F) between 6 and 10 pm IST to accommodate international team coordination.\nPlease note any restrictions on your schedule in your application.We aim to accommodate where possible!\nApply through the Rooster platform. Please include a short note (no more than 100 words) with your application. Let us know:Why are you interested in working for us specifically?\nIf you are someone who enjoys precise work, clear thinking, and are looking to join a team with high standards who constantly pushes to improve and grow, we look forward to your application!\nCome embark on an exciting journey in digital marketing with us!\n**_Applications without an attached note or letter will not be considered.\nApplications have now closed! Thank you to everyone who applied. _**\n- Supporting the setup of marketing campaigns and data sources within our platform\n- Updating and monitoring pacing and budget data\n- Checking and validating marketing statistics against platforms such as Google Ads, LinkedIn Ads, and others\n- Performing detailed QA to ensure data accuracy and a strong end-user experience\n- Assisting with preparation of data for advanced statistical marketing models\n- Helping develop and improve marketing reporting for clients\n- Analyzing marketing results and identifying meaningful insights\n- Supporting the creation of decks and materials that clearly communicate performance and results\n- Assisting with advisory work to help clients improve their reporting and measurement setups\n- Support hands-on campaign management for select marketing clients\n- Learn how to map customer journeys and define reporting structures and systems\n- Contribute to content and data storytelling for our website, social channels, and product marketing\n- Impactful Work:All of our team members take on important projects, interns included. You'll have a chance to have a real impact for our company and partners.\n- Flexibility:There are no overbearing managers or micromanagement. You will have guidance and support but no micromanagement.\n- Full Participation:Good ideas come from anyone, including you. We care about the quality of the idea, work and always improving outcomes for us and our partners.\n- Strong attention to detail, and a deep care for the quality of work you produce.\n- A keen interest in digital marketing, data and tech, business analytics and decision-making and an eagerness to learn and grow in these fields.\n- Strong organizational and time management skills to effectively manage multiple tasks and deadlines.\n- Excellent written and verbal communication skills in English (we work entirely in English).\n- (Very) proactive, results-oriented, and motivated to contribute to the success of marketing initiatives.\n- Ability to work independently and collaboratively in a remote team environment.\n- Any familiarity with marketing, advertising, data or analytics\n- This may include: digital marketing, marketing technologies, campaign management, data projects, business analysis, operations or other related work.\n- This can include volunteer experience, involvement with marketing for school clubs, social media accounts you have run, or otherwise. BCONIC Remote",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 2,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1225,
+      "title": "Intern/Junior Quality Assurance Engineer",
+      "company": "Twist Digital",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/507857",
+      "source": "rooster",
+      "tfidf_score": 0.0529,
+      "word2vec_score": 0.3997,
+      "skill_score": 0.3636,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 5.3,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 36,
+      "job_skills_count": 11,
+      "job_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "communication",
+        "css",
+        "html",
+        "javascript",
+        "jira",
+        "passionate",
+        "postman",
+        "project management",
+        "selenium"
+      ],
+      "matched_skills": [
+        "communication",
+        "css",
+        "html",
+        "javascript"
+      ],
+      "missing_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "jira",
+        "passionate",
+        "postman",
+        "project management",
+        "selenium"
+      ],
+      "role_match": true,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Intern/Junior Quality Assurance Engineer Position: Intern/Junior Quality Assurance Engineer\nResponsibilities:\nRequirements:\nSoft Skills:\nSalary: 20,000 LKR - 40000 LKR\nJoin us in our mission to revolutionize the way businesses approach their digital journey. Whether you are an innovator, a creative mind, or someone passionate about transformative results, Twist Digital is the place for you. Embrace the power of change, unlock your potential, and shape the future with us.\nAre you ready to become a Twister? Apply now and be a part of the transformation!\n- Assist in creating and executingtest plans, test cases, and test scriptsfor web and mobile applications.\n- Perform manual testing to identify bugs, usability issues, and performance bottlenecks.\n- Collaborate with developers and designers to ensure consistent quality across features and releases.\n- Document and track defects using project management or bug tracking tools like ClickUp or Jira.\n- Support in regression testing, cross-browser testing, and user acceptance testing (UAT).\n- Contribute to process improvements and QA best practices.\n- Stay updated on QA methodologies, tools, and industry trends.\n- Help ensure product quality by proactively identifying edge cases and inconsistencies.\n- Basic understanding ofsoftware development life cycle (SDLC) and QA methodologies.\n- Familiarity with web technologies likePython, HTML, CSS, JavaScript, and browser dev tools.\n- Experience with bug tracking and project management tools (e.g.,ClickUp, Jira, Trello).\n- Exposure to testing on various devices, browsers, and operating systems. Knowledge of basic database concepts andAPI testingis a plus.\n- Understanding of automation tools or scripting (e.g.,Selenium, Postman) is a bonus.\n- Analytical Thinking:Ability to spot patterns, bugs, and anomalies in complex systems.\n- Clear Communication:Report bugs and feedback concisely and collaborate effectively.\n- Curiosity & Learning:Eagerness to learn new tools, systems, and testing techniques.\n- Attention to Detail:Ensure thorough testing to minimize missed bugs.\n- Accountability:Take ownership of assigned tasks and deliver quality output. Twist Digital Remote",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 3,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1204,
+      "title": "Intern - Client Services and Retention",
+      "company": "We Are Team Rocket",
+      "location": "Colombo, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/515023",
+      "source": "rooster",
+      "tfidf_score": 0.0509,
+      "word2vec_score": 0.4,
+      "skill_score": 0.2,
+      "hybrid_score": 1.0,
+      "tfidf_score_pct": 5.1,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 20,
+      "job_skills_count": 10,
+      "job_skills": [
+        "analytical skills",
+        "communication",
+        "critical thinking",
+        "data analysis",
+        "documentation",
+        "organizational skills",
+        "presentation",
+        "proactive",
+        "problem-solving",
+        "time management"
+      ],
+      "matched_skills": [
+        "communication",
+        "problem-solving"
+      ],
+      "missing_skills": [
+        "analytical skills",
+        "critical thinking",
+        "data analysis",
+        "documentation",
+        "organizational skills",
+        "presentation",
+        "proactive",
+        "time management"
+      ],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Intern - Client Services and Retention Intern – Client Services and Retention role at We Are Team Rocket (Pvt) Ltd offers an exciting opportunity to support client relationships, ensure account performance, and contribute to long-term client retention through data-driven insights and effective coordination. As a key member of the client services team, you will work closely with internal stakeholders and clients to deliver value, maintain strong relationships, and support business growth.\nResponsibilities\nQualifications\n- Client Account Support: Assist in managing client accounts by ensuring timely communication, follow-ups, and ongoing relationship support.\n- Report Creation and Data Analysis: Prepare regular client reports, analyze performance metrics, and extract insights to support decision-making.\n- Database and Information Management: Maintain accurate, well-organized client databases and documentation to ensure data integrity and accessibility.\n- Project Coordination: Coordinate tasks across teams, track timelines, and support smooth execution of client deliverables.\n- Client Retention and Communication: Support client retention initiatives through proactive communication, presentations, and performance reviews.\n- Interest or experience in client services and business operations\n- Strong analytical skills with the ability to interpret data and prepare reports\n- Excellent presentation and communication skills\n- Knowledge on databases, spreadsheets, or CRM systems is an advantage\n- Strong time management and organizational skills with the ability to manage multiple priorities\n- Detail-oriented with strong problem-solving and critical thinking abilities We Are Team Rocket Colombo, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 4,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1197,
+      "title": "AI Training Specialist – Intern / Trainee",
+      "company": "eBirth Business Academy (PVT) Ltd",
+      "location": "Kegalle Town, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/515400",
+      "source": "rooster",
+      "tfidf_score": 0.2211,
+      "word2vec_score": 0.4,
+      "skill_score": 0.4,
+      "hybrid_score": 0.9998,
+      "tfidf_score_pct": 22.1,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 40,
+      "job_skills_count": 10,
+      "job_skills": [
+        "attention to detail",
+        "data science",
+        "documentation",
+        "gemini",
+        "machine learning",
+        "motivated",
+        "passionate",
+        "prompt engineering",
+        "python",
+        "research"
+      ],
+      "matched_skills": [
+        "gemini",
+        "machine learning",
+        "motivated",
+        "python"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "data science",
+        "documentation",
+        "passionate",
+        "prompt engineering",
+        "research"
+      ],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "AI Training Specialist – Intern / Trainee eBirth Business Academy is seeking a motivated and enthusiastic AI Training Specialist (Intern/Trainee) to join our growing team. This is an exciting opportunity for individuals passionate about Artificial Intelligence, technology, and education to gain hands-on experience in the rapidly evolving AI landscape.\nAI trainers in Sri Lanka annotate datasets, review AI outputs, and refine prompts for language models, often in niches like South Asian linguistics and regional technology. With growing demand from BPO hubs and offshore AI firms, this role places you at the forefront of one of the most in-demand career paths in the country.\nPosition :AI Training Specialist – Intern / Trainee\nDepartment :AI & Productivity / Data & Technology\nLocation :eBirth Business Academy – Kegalle, Sri Lanka\nEmployment Type :Internship / Traineeship (Full-time)\nDuration :6 Months (with potential for extension)\nWorking Hours :8.30 AM to 5.30 PM\nKey Responsibilities\nData Annotation & AI Quality Assurance:\n• Annotate datasets and label training data for AI and machine learning models\n• Review and evaluate AI-generated outputs for accuracy, relevance, and quality\n• Perform quality checks on AI content with emphasis on cultural relevance for South Asian and Sri Lankan contexts\nPrompt Engineering & Optimization:\n• Refine and optimize prompts for large language models (LLMs) to improve output quality\n• Develop, test, and document effective prompting strategies and frameworks\n• Create localized prompts in English and Sinhala/Tamil for region-specific AI projects\nAI Research & Evaluation:\n• Test and evaluate AI tools and platforms for text generation, image creation, research, and productivity\n• Conduct comparative analysis across AI platforms for performance, accuracy, and bias\n• Stay up to date with emerging AI trends, tools, and industry developments\nContent & Documentation:\n• Assist in creating AI-related training materials, guides, and documentation\n• Support content development for educational and business applications of AI\n• Maintain organized records of workflows, best practices, and troubleshooting procedures\nRequirements\nEssential:\n• Currently pursuing or recently completed a degree/diploma in IT, Computer Science, Data Science, Education, Business, or a related field\n• Proficiency in English (written and spoken); Sinhala language skills are a strong advantage for localized projects\n• Basic computing skills and familiarity with tools like Google Sheets, Microsoft Office, or similar productivity software\n• Strong interest in Artificial Intelligence and emerging technologies\n• Reliable internet connection and ability to work flexible hours (including for US/EU client time zones if required)\n• Attention to detail and a willingness to learn\nDesirable (Not Mandatory):\n• Prior experience with any AI tools (ChatGPT, Claude, Gemini, Perplexity, etc.)\n• Basic understanding of prompt engineering or content creation workflows\n• Familiarity with basic Python or any programming language\n• Experience in data entry, QA, call centers, or BPO environments\n• Background in social media content creation, graphic design, or video editing eBirth Business Academy (PVT) Ltd Kegalle Town, Sri Lanka",
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 5,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1198,
+      "title": "Intern - Software Engineering",
+      "company": "Zegates International Private Limited",
+      "location": "Colombo 05, Colombo, Sri Lanka",
+      "salary": "LKR 25,000 - 40,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514242",
+      "source": "rooster",
+      "tfidf_score": 0.1597,
+      "word2vec_score": 0.4,
+      "skill_score": 0.4286,
+      "hybrid_score": 0.9998,
+      "tfidf_score_pct": 16.0,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 43,
+      "job_skills_count": 14,
+      "job_skills": [
+        "communication",
+        "creativity",
+        "flutter",
+        "golang",
+        "leadership",
+        "logical thinking",
+        "motivated",
+        "node.js",
+        "passionate",
+        "problem-solving",
+        "python",
+        "react",
+        "react native",
+        "solid"
+      ],
+      "matched_skills": [
+        "communication",
+        "motivated",
+        "node.js",
+        "problem-solving",
+        "python",
+        "react"
+      ],
+      "missing_skills": [
+        "creativity",
+        "flutter",
+        "golang",
+        "leadership",
+        "logical thinking",
+        "passionate",
+        "react native",
+        "solid"
+      ],
+      "role_match": true,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Intern - Software Engineering We are seeking passionate and motivated individuals with the following skills and qualities:\nJoin us to shape the future of technology and grow alongside a team that values your contributions! 🌟\n- Tech Stack Expertise: Proficiency in React.js, React Native, Flutter, Node.js, Python, and Golang.\n- Problem-Solving Prowess: Strong analytical and logical thinking skills with a solid grasp of Data Structures and Algorithms.\n- Web Development Knowledge: Hands-on experience in web-based application development and architecture.\n- Exceptional Communication: Clear and effective communication skills to collaborate within and beyond the team.\n- Open Source Enthusiast: Experience contributing to and collaborating on open-source projects is a bonus!\n- Accelerated Career Growth: Fast-track your career with opportunities to step into leadership roles.\n- Attractive Perks: Competitive compensation and inspiring work environments.\n- Employee-Centric Culture: Be part of a unique, team-focused organization that values your growth and well-being.\n- Innovation at Its Core: Work on cutting-edge technologies and continuously expand your skills through innovation and creativity. Zegates International Private Limited Colombo 05, Colombo, Sri Lanka",
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 6,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1196,
+      "title": "Intern - Offensive Security",
+      "company": "NodeRisk",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/515464",
+      "source": "rooster",
+      "tfidf_score": 0.1337,
+      "word2vec_score": 0.4,
+      "skill_score": 0.2857,
+      "hybrid_score": 0.9998,
+      "tfidf_score_pct": 13.4,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 29,
+      "job_skills_count": 14,
+      "job_skills": [
+        "aws",
+        "azure",
+        "bash",
+        "cybersecurity",
+        "ethical hacking",
+        "javascript",
+        "jwt",
+        "linux",
+        "networking",
+        "passionate",
+        "penetration testing",
+        "python",
+        "r",
+        "research"
+      ],
+      "matched_skills": [
+        "aws",
+        "javascript",
+        "linux",
+        "python"
+      ],
+      "missing_skills": [
+        "azure",
+        "bash",
+        "cybersecurity",
+        "ethical hacking",
+        "jwt",
+        "networking",
+        "passionate",
+        "penetration testing",
+        "r",
+        "research"
+      ],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Intern - Offensive Security NodeRisk is looking for a highly motivatedOffensive Security Internto support our penetration testing and red team operations. This internship is ideal for someone passionate about ethical hacking, vulnerability research, and real-world security testing across web, API, cloud, and infrastructure environments.\nYou will work closely with senior pentesters and contribute to live client engagements as well as internal R&D for our AI-driven continuous pentesting platform.\n- Assist in executingWeb Application Penetration Testing(OWASP Top 10, business logic flaws, IDOR, auth bypass).\n- SupportAPI Security Testingincluding JWT/OAuth flows, rate-limit testing, and access control validation.\n- PerformNetwork & Infrastructure Assessments(external/internal scanning, service enumeration, misconfigurations).\n- Help withCloud Security Testing(AWS/Azure basics, IAM weaknesses, exposed services).\n- Participate in vulnerability validation, exploitation (where authorized), and proof-of-concept development.\n- Document findings clearly for inclusion in professional pentest reports.\n- Support internal automation workflows and tool integrations for NodeRisk’s agent-driven pentesting engine.\n- Strong understanding of cybersecurity fundamentals (CIA triad, networking, HTTP, DNS).\n- Familiarity with common pentesting tools: Burp Suite, Nmap, Metasploit, SQLmap, ffuf\n- Basic knowledge of: OWASP Top 10 Authentication and session management Linux command line and scripting basics\n- Experience with bug bounty platforms (HackerOne, Bugcrowd, Intigriti, YesWeHack etc).\n- Knowledge of scripting/programming: Python, Bash, JavaScript\n- Exposure to Active Directory attacks\n- Familiarity with cloud security tools and concepts\n- Hands-on experience with real-world pentesting engagements.\n- Mentorship from experienced offensive security engineers.\n- Exposure to AI-assisted continuous pentesting workflows.\n- Opportunity to contribute to cutting-edge security automation at NodeRisk.\n- Potential for full-time conversion based on performance.\n- Duration: 3–6 months\n- Location: Remote / Hybrid (based on availability) NodeRisk Remote",
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 7,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1195,
+      "title": "Intern UI/UX Engineer (Hybrid)",
+      "company": "Twist Digital",
+      "location": "Colombo, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514716",
+      "source": "rooster",
+      "tfidf_score": 0.0824,
+      "word2vec_score": 0.3998,
+      "skill_score": 0.5714,
+      "hybrid_score": 0.9998,
+      "tfidf_score_pct": 8.2,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 57,
+      "job_skills_count": 7,
+      "job_skills": [
+        "attention to detail",
+        "collaboration",
+        "communication",
+        "css",
+        "html",
+        "problem-solving",
+        "research"
+      ],
+      "matched_skills": [
+        "communication",
+        "css",
+        "html",
+        "problem-solving"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "collaboration",
+        "research"
+      ],
+      "role_match": true,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Intern UI/UX Engineer (Hybrid) We are looking for a creative, detail-orientedUI/UX Engineer/Designer – Internto join the Twist Digital team. This role is perfect for someone who loves crafting clean, modern interfaces and designing user experiences that feel smooth, smart, and enjoyable.\nAs a UI/UX intern, you’ll work closely with product owners, developers, and marketers to design digital products that are not only visually strong—but also user-first, conversion-driven, and built for real-world business outcomes.\nJoin us in our mission to revolutionize the way businesses approach their digital journey through intelligent automation and AI-driven innovation. Whether you’re an aspiring AI engineer, a curious learner, or someone excited about shaping the future with technology,Twist Digital is the place for you.\nAre you ready to become a Twister?Apply now and be a part of the transformation. 🚀\n- Assist in designing user interfaces for web and mobile applications.\n- Create wireframes, user flows, and prototypes for product features and improvements.\n- Support the team in conducting basic user research, collecting feedback, and understanding user behavior.\n- Work on UI components, design systems, typography, layout, and spacing consistency.\n- Collaborate with developers to ensure designs are implemented accurately and efficiently.\n- Contribute to improving user journeys to increase engagement, retention, and conversions.\n- Design assets for product landing pages, dashboards, internal tools, or marketing experiences when needed.\n- Document design decisions and maintain updated design files for team collaboration.\n- Participate in brainstorming sessions and contribute fresh ideas to product and feature design.\n- Stay updated with modern UI/UX trends, tools, and best practices.\n- Currently pursuing or recently completed a degree/diploma inUI/UX Design, Graphic Design, HCI, Software Engineering, IT, or a related field.\n- Familiarity with tools likeFigma, Adobe XD, Sketch, or similar.\n- Basic understanding of UX principles such asusability, accessibility, user journeys, and interaction design.\n- Ability to create clean and modern UI designs with attention to detail.\n- Understanding of responsive design concepts for mobile and desktop layouts.\n- Good communication and collaboration skills, and openness to feedback.\n- Strong problem-solving mindset and curiosity to learn and improve quickly.\n- A portfolio (even small projects, concepts, redesigns) is a plus.\n- Experience with basic UX research (surveys, interviews, usability testing).\n- Familiarity with design systems and component-based UI thinking.\n- Knowledge of motion/interaction design (micro-animations, transitions).\n- Basic understanding of how developers work (HTML/CSS concepts are a plus).\n- Interest in AI-driven product experiences or intelligent UI patterns. Twist Digital Colombo, Sri Lanka",
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 8,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1232,
+      "title": "Intern Mobile App Developer ( Flutter )",
+      "company": "falconet ltd",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/449736",
+      "source": "rooster",
+      "tfidf_score": 0.0686,
+      "word2vec_score": 0.3989,
+      "skill_score": 0.2222,
+      "hybrid_score": 0.9998,
+      "tfidf_score_pct": 6.9,
+      "word2vec_score_pct": 39.9,
+      "skill_score_pct": 22,
+      "job_skills_count": 9,
+      "job_skills": [
+        "communication",
+        "dart",
+        "flutter",
+        "innovative",
+        "passionate",
+        "proactive",
+        "problem-solving",
+        "quick learner",
+        "team player"
+      ],
+      "matched_skills": [
+        "communication",
+        "problem-solving"
+      ],
+      "missing_skills": [
+        "dart",
+        "flutter",
+        "innovative",
+        "passionate",
+        "proactive",
+        "quick learner",
+        "team player"
+      ],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Intern Mobile App Developer ( Flutter ) Are you passionate about Flutter development and eager to craft seamless mobile experiences? Do you dream in Dart and think in widgets? If so, we have the perfect opportunity for you!\n✅ Hands-On Experience – Work on real-world Flutter projects to enhance your skills. ✅ Premium Learning Resources – Access top learning platforms and premium courses for free. ✅ Personalized Feedback – Get individual guidance and constructive reviews. ✅ Professional Mentorship – Collaborate with experienced Flutter developers. ✅ Creative & Supportive Work Environment – Be part of an innovative and growth-focused team. ✅ Portfolio Building – Gain practical experience and create a strong portfolio with real-world projects.\nIf you're ready to take your Flutter development skills to the next level, we’d love to hear from you! 🚀📱\n- Collaborate with experienced Flutter developers on mobile app projects.\n- Contribute to the design, development, and testing of Flutter applications.\n- Learn and implement best practices in Flutter development.\n- Troubleshoot and debug Flutter applications as needed.\n- Engage in team discussions and knowledge-sharing sessions.\n- Passion for mobile app development using Flutter.\n- Basic understanding of programming languages.\n- Eagerness to learn and adapt to new technologies.\n- Strong problem-solving and communication skills.\n- Quick learner with a proactive approach.\n- Ability to manage time efficiently and meet deadlines.\n- Team player with a positive and collaborative attitude. falconet ltd Remote",
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 9,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1226,
+      "title": "Human Resource Intern",
+      "company": "Freedom Business Services (Pvt) Ltd",
+      "location": "Colombo, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/506662",
+      "source": "rooster",
+      "tfidf_score": 0.0511,
+      "word2vec_score": 0.4,
+      "skill_score": 0.2222,
+      "hybrid_score": 0.9998,
+      "tfidf_score_pct": 5.1,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 22,
+      "job_skills_count": 9,
+      "job_skills": [
+        "analytical skills",
+        "attention to detail",
+        "communication",
+        "documentation",
+        "excel",
+        "motivated",
+        "organizational skills",
+        "planning",
+        "self-motivated"
+      ],
+      "matched_skills": [
+        "communication",
+        "motivated"
+      ],
+      "missing_skills": [
+        "analytical skills",
+        "attention to detail",
+        "documentation",
+        "excel",
+        "organizational skills",
+        "planning",
+        "self-motivated"
+      ],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Human Resource Intern Company Profile\nFreedom Business Services (Pvt) Ltd is a fully owned subsidiary of Freedom Finance Australia that is engaged in the financial planning industry in Australia. Freedom Business Services provides offshore support for the business activities of the organization.\nJob Overview\nWe are looking for an HR Intern to assist in various HR functions, including recruitment, onboarding, employee engagement, and technology systems. This role is ideal for someone who is interested in HR operations and has a fundamental understanding of IT systems and software.\nResponsibilities\nSkills & Qualifications:\nPersonal Characteristics\nAdditional Information\n- Assist in recruitment processes, including screening resumes, scheduling interviews, and coordinating with candidates.\n- Help with employee onboarding and documentation management.\n- Maintain and update employee records in HR databases and systems.\n- Provide basic IT support for employees.\n- Support in managing internal communication platforms (emails, HR portals, etc.).\n- Help conduct employee engagement activities and initiatives.\n- Ensure compliance with company policies and procedures.\n- Assist in ad hoc work that may arise within the scope of HR and IT functions.\n- Currently pursuing or recently completed a degree in HR, Business Administration, IT, or a related field.\n- Basic understanding of HR principles and IT concepts.\n- Proficiency in Microsoft Office Suite (Excel, Word, PowerPoint).\n- Familiarity with HR software/tools (HRIS, ATS, or payroll systems) is a plus.\n- Basic troubleshooting skills for common IT issues.\n- Strong communication and organizational skills.\n- Ability to handle sensitive information with confidentiality.\n- Ability to meet deadlines and timely execution of plans.\n- Excellent command of spoken and written English.\n- Good analytical skills and knowledge of Human Resource Management.\n- Attention to detail.\n- Self-motivated.\n- Flexible Working Arrangements.\n- This is a full-time position.\n- Competitive salary and benefits package.\n- Freedom Business Services (Pvt) Ltd is an equal opportunity employer. Freedom Business Services (Pvt) Ltd Colombo, Sri Lanka",
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 100.0,
+      "rank": 10,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 973,
+      "title": "Full-Stack Tech Lead (Bubble.io, Python, AWS, AI/ML Experience a Plus)",
+      "company": "Efficient Frontiers International",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001481537",
+      "source": "topjobs",
+      "tfidf_score": 0.1797,
+      "word2vec_score": 0.3139,
+      "skill_score": 0.0,
+      "hybrid_score": 0.8753,
+      "tfidf_score_pct": 18.0,
+      "word2vec_score_pct": 31.4,
+      "skill_score_pct": 100,
+      "job_skills_count": 2,
+      "job_skills": [
+        "aws",
+        "python"
+      ],
+      "matched_skills": [
+        "aws",
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Full-Stack Tech Lead (Bubble.io, Python, AWS, AI/ML Experience a Plus) Please refer the vacancy Efficient Frontiers International Colombo",
+      "ml_score": 0.8753,
+      "ml_score_pct": 87.5,
+      "hybrid_score_pct": 87.5,
+      "rank": 11,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 974,
+      "title": "Junior Full-Stack Developer (Bubble.io, Python, AWS, AI)",
+      "company": "Efficient Frontiers International",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001481534",
+      "source": "topjobs",
+      "tfidf_score": 0.1085,
+      "word2vec_score": 0.2834,
+      "skill_score": 0.0,
+      "hybrid_score": 0.8658,
+      "tfidf_score_pct": 10.8,
+      "word2vec_score_pct": 28.3,
+      "skill_score_pct": 100,
+      "job_skills_count": 2,
+      "job_skills": [
+        "aws",
+        "python"
+      ],
+      "matched_skills": [
+        "aws",
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Junior Full-Stack Developer (Bubble.io, Python, AWS, AI) Please refer the vacancy Efficient Frontiers International Colombo",
+      "ml_score": 0.8658,
+      "ml_score_pct": 86.6,
+      "hybrid_score_pct": 86.6,
+      "rank": 12,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1029,
+      "title": "Technical Lead (Python) (1)",
+      "company": "Mobizz Elite (Pvt) Ltd",
+      "location": "",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001480472",
+      "source": "topjobs",
+      "tfidf_score": 0.0977,
+      "word2vec_score": 0.3033,
+      "skill_score": 0.0,
+      "hybrid_score": 0.8627,
+      "tfidf_score_pct": 9.8,
+      "word2vec_score_pct": 30.3,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Technical Lead (Python) (1) please find the Job advert Mobizz Elite (Pvt) Ltd",
+      "ml_score": 0.8627,
+      "ml_score_pct": 86.3,
+      "hybrid_score_pct": 86.3,
+      "rank": 13,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1038,
+      "title": "Senior Java Backend Developer (Remote - Sri Lanka)",
+      "company": "Cloofd Solutions Inc",
+      "location": "All island",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001480261",
+      "source": "topjobs",
+      "tfidf_score": 0.0706,
+      "word2vec_score": 0.3167,
+      "skill_score": 0.0,
+      "hybrid_score": 0.834,
+      "tfidf_score_pct": 7.1,
+      "word2vec_score_pct": 31.7,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "java"
+      ],
+      "matched_skills": [
+        "java"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Senior Java Backend Developer (Remote - Sri Lanka) Please refer the vacancy Cloofd Solutions Inc All island",
+      "ml_score": 0.834,
+      "ml_score_pct": 83.4,
+      "hybrid_score_pct": 83.4,
+      "rank": 14,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1017,
+      "title": "Senior Front end Developer (1)",
+      "company": "DirectFN",
+      "location": "Rajagiriya",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001480722",
+      "source": "topjobs",
+      "tfidf_score": 0.0531,
+      "word2vec_score": 0.3967,
+      "skill_score": 0.0,
+      "hybrid_score": 0.8228,
+      "tfidf_score_pct": 5.3,
+      "word2vec_score_pct": 39.7,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "javascript"
+      ],
+      "matched_skills": [
+        "javascript"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Senior Front end Developer (1) ?\tBachelor?s degree in Software Engineering, Computer Science, or related field.\n?\t2+ years of experience in web development using modern JavaScript frame .... DirectFN Rajagiriya",
+      "ml_score": 0.8228,
+      "ml_score_pct": 82.3,
+      "hybrid_score_pct": 82.3,
+      "rank": 15,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1150,
+      "title": "Mid-Level Backend Developer (Python)",
+      "company": "Seren IT Services",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001477264",
+      "source": "topjobs",
+      "tfidf_score": 0.1023,
+      "word2vec_score": 0.2981,
+      "skill_score": 0.0,
+      "hybrid_score": 0.8142,
+      "tfidf_score_pct": 10.2,
+      "word2vec_score_pct": 29.8,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Mid-Level Backend Developer (Python) Please refer the vacancy Seren IT Services Colombo",
+      "ml_score": 0.8142,
+      "ml_score_pct": 81.4,
+      "hybrid_score_pct": 81.4,
+      "rank": 16,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1126,
+      "title": "Intern - Business Analyst, DevOps and Software Engineer",
+      "company": "Future CX Lanka (Pvt) Ltd",
+      "location": "Boralesgamuwa",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001478279",
+      "source": "topjobs",
+      "tfidf_score": 0.038,
+      "word2vec_score": 0.2486,
+      "skill_score": 0.0,
+      "hybrid_score": 0.742,
+      "tfidf_score_pct": 3.8,
+      "word2vec_score_pct": 24.9,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "devops"
+      ],
+      "matched_skills": [
+        "devops"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Intern - Business Analyst, DevOps and Software Engineer Please refer the vacancy Future CX Lanka (Pvt) Ltd Boralesgamuwa",
+      "ml_score": 0.742,
+      "ml_score_pct": 74.2,
+      "hybrid_score_pct": 74.2,
+      "rank": 17,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1098,
+      "title": "Intern - Cloud Solutions and Service (1)",
+      "company": "John Keells IT",
+      "location": "Colombo 2",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001466318",
+      "source": "topjobs",
+      "tfidf_score": 0.0944,
+      "word2vec_score": 0.2564,
+      "skill_score": 0.0,
+      "hybrid_score": 0.6954,
+      "tfidf_score_pct": 9.4,
+      "word2vec_score_pct": 25.6,
+      "skill_score_pct": 0,
+      "job_skills_count": 0,
+      "job_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Intern - Cloud Solutions and Service (1) Please refer the advert John Keells IT Colombo 2",
+      "ml_score": 0.6954,
+      "ml_score_pct": 69.5,
+      "hybrid_score_pct": 69.5,
+      "rank": 18,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1120,
+      "title": "Trainee Application Support Engineer",
+      "company": "Flexible Information Technology (Pvt) Ltd",
+      "location": "Colombo 5",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001478425",
+      "source": "topjobs",
+      "tfidf_score": 0.0613,
+      "word2vec_score": 0.2911,
+      "skill_score": 0.0,
+      "hybrid_score": 0.6942,
+      "tfidf_score_pct": 6.1,
+      "word2vec_score_pct": 29.1,
+      "skill_score_pct": 0,
+      "job_skills_count": 0,
+      "job_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "Trainee Application Support Engineer Please refer the vacancy Flexible Information Technology (Pvt) Ltd Colombo 5",
+      "ml_score": 0.6942,
+      "ml_score_pct": 69.4,
+      "hybrid_score_pct": 69.4,
+      "rank": 19,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    },
+    {
+      "job_id": 1137,
+      "title": "AI Software Sales Executive",
+      "company": "Company Name Withheld",
+      "location": "All island",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001478000",
+      "source": "topjobs",
+      "tfidf_score": 0.0712,
+      "word2vec_score": 0.2841,
+      "skill_score": 0.0,
+      "hybrid_score": 0.6932,
+      "tfidf_score_pct": 7.1,
+      "word2vec_score_pct": 28.4,
+      "skill_score_pct": 0,
+      "job_skills_count": 0,
+      "job_skills": [],
+      "matched_skills": [],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "HIRAN DEVINDA IT Undergraduate Software Developer Agentic Ai DevOps Enthusiast +94 78 580 7002 hirandevinda8@gmail.com LinkedIn GitHub Helamba, Agalawatta, Sri Lanka Professional Summary Motivated IT undergraduate specializing in agentic AI systems, full-stack development, and cloud-native applica- tions. Experienced in building autonomous workflows, ML-powered decision systems, and scalable backend services using Python, FastAPI, and modern cloud platforms. Education University of Moratuwa Institute of Technology (ITUM) Expected Graduation National Diploma in Technology (Information Technology NDT) C.W.W. Kannangara Central College, Matugama 2021 G.C.E. Advanced Level (Physical Science) Mathematics (C), Physics (C), Chemistry (C) Technical Skills Programming Languages JavaScript, TypeScript, Python, Java, SQL, HTML, CSS Frontend Next.js (App Router), React.js, Tailwind CSS Backend Node.js, Express.js, FastAPI, REST APIs, GraphQL Cloud DevOps AWS (EC2, S3, Lambda), GCP, Docker, Kubernetes, GitHub Actions, Linux, Nginx Databases Tools PostgreSQL (Supabase), MongoDB, Redis, Prisma ORM, NX Monorepo, Git AI ML NLP, Custom ML Models, AI Agents Projects FlexiTask Job Posting Automation Platform Recent Next.js, TypeScript, Python, GitHub Actions, Redis Developedafull-stackjobboardusingNext.jsAppRouterandSupabasewithsecureGoogleOAuthauthentication. Built a FastAPI-based microservice to automate job distribution workflows. Implemented Redis-backed background schedulers to publish job postings to Telegram channels in real time. Improved SEO visibility using JSON-LD schema for Google for Jobs and optimized performance via lazy loading. Cleverly Intelligent Review Analysis Fraud Detection Platform Academic Project Python, Node.js, MongoDB, Redis, ML, Gemini API Developed a hybrid fraud detection system using ML models and rule-based validation. Trained models to detect anomalous reviews, spam behavior, and manipulation attempts. Integrated Google Gemini API to classify agreement or disagreement in review comments. Used Redis for caching, Docker for deployment, and CI/CD for automation. ClaimSense AI-Powered Insurance SaaS Ongoing Python, FastAPI, GCP, AI/ML Developing a cloud-native SaaS platform for intelligent insurance claim processing. Applied NLP-driven machine learning models for fraud detection and smart claim routing. Deployed scalable and highly available infrastructure on Google Cloud Platform. Certifications Other Skills Photography Videography 3-year diploma at NPAS freelance photographer. Soft Skills Problem-solving, teamwork, adaptability, and effective communication. References Mrs. Uthpala Athukorala Mrs. D.A.S. Ruwanmini Head of Division of IT, ITUM Senior Lecturer, Dept. of IT, ITUM +94 77 266 6602 +94 77 855 8303 uthpalap@itum.mrt.ac.lk ruwanminis@itum.mrt.ac.lk 1",
+      "job_description_raw": "AI Software Sales Executive Please refer the vacancy Company Name Withheld All island",
+      "ml_score": 0.6932,
+      "ml_score_pct": 69.3,
+      "hybrid_score_pct": 69.3,
+      "rank": 20,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 47.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 47.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 26.8
+        },
+        {
+          "role": "DevOps/Cloud Engineer",
+          "confidence": 10.7
+        }
+      ]
+    }
+  ]
+}

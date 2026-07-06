@@ -1,0 +1,946 @@
+{
+  "resume_id": 114,
+  "candidate": "Senuth De Silva",
+  "pipeline": "TF-IDF + Word2Vec + Skill Gap + Career Role Prediction",
+  "recommendations": [
+    {
+      "job_id": 1005,
+      "title": "Delivery Manager (1)",
+      "company": "DirectFN",
+      "location": "",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001482177",
+      "source": "topjobs",
+      "tfidf_score": 0.1875,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5374,
+      "tfidf_score_pct": 18.8,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "project management"
+      ],
+      "matched_skills": [
+        "project management"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Delivery Manager (1) ? Bachelor's degree in computer science, IT, Business Administration, or related field.\n? PMP or relevant project management certification.\n? 10+ years o .... DirectFN",
+      "ml_score": 0.9992,
+      "ml_score_pct": 99.9,
+      "hybrid_score_pct": 53.7,
+      "rank": 1,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1557,
+      "title": "Planning Engineer",
+      "company": "SwiftCore",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001492189",
+      "source": "topjobs",
+      "tfidf_score": 0.0737,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5182,
+      "tfidf_score_pct": 7.4,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "planning"
+      ],
+      "matched_skills": [
+        "planning"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Planning Engineer Please refer the vacancy SwiftCore Colombo",
+      "ml_score": 0.9992,
+      "ml_score_pct": 99.9,
+      "hybrid_score_pct": 51.8,
+      "rank": 2,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1606,
+      "title": "Senior Cloud & Infrastructure Engineer (Microsoft & Azure)",
+      "company": "Gardner Smith Information Technology (Pvt) Ltd",
+      "location": "Kaduwela (Kaduwela)",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001490572",
+      "source": "topjobs",
+      "tfidf_score": 0.0721,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5175,
+      "tfidf_score_pct": 7.2,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "azure"
+      ],
+      "matched_skills": [
+        "azure"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Senior Cloud & Infrastructure Engineer (Microsoft & Azure) Please refer the vacancy Gardner Smith Information Technology (Pvt) Ltd Kaduwela (Kaduwela)",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 51.8,
+      "rank": 3,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1903,
+      "title": "Business Analyst - Project Management Experience (1)",
+      "company": "Jobfactory",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001517610",
+      "source": "topjobs",
+      "tfidf_score": 0.128,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5066,
+      "tfidf_score_pct": 12.8,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "project management"
+      ],
+      "matched_skills": [
+        "project management"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Business Analyst - Project Management Experience (1) Please refer the advertisement Jobfactory Colombo",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 50.7,
+      "rank": 4,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1977,
+      "title": "Technical Lead (Python | AI Engineering)",
+      "company": "Allion Technologies (Pvt) Ltd",
+      "location": "Colombo 5",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001515810",
+      "source": "topjobs",
+      "tfidf_score": 0.0423,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5018,
+      "tfidf_score_pct": 4.2,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Technical Lead (Python | AI Engineering) Please refer the vacancy Allion Technologies (Pvt) Ltd Colombo 5",
+      "ml_score": 0.9992,
+      "ml_score_pct": 99.9,
+      "hybrid_score_pct": 50.2,
+      "rank": 5,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1703,
+      "title": "DevOps Engineer (Embedded Software) | Senior DevOps Engineer (Embedded Software) | DevOps Tech Lead (Embedded Software)",
+      "company": "Invenza Digital Technologies (Pvt) Ltd",
+      "location": "Colombo 1",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001500096",
+      "source": "topjobs",
+      "tfidf_score": 0.034,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4974,
+      "tfidf_score_pct": 3.4,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "devops"
+      ],
+      "matched_skills": [
+        "devops"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "DevOps Engineer (Embedded Software) | Senior DevOps Engineer (Embedded Software) | DevOps Tech Lead (Embedded Software) Please refer the vacancy Invenza Digital Technologies (Pvt) Ltd Colombo 1",
+      "ml_score": 0.9986,
+      "ml_score_pct": 99.9,
+      "hybrid_score_pct": 49.7,
+      "rank": 6,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1652,
+      "title": "DevOps Engineer (1)",
+      "company": "DirectFN",
+      "location": "",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001501492",
+      "source": "topjobs",
+      "tfidf_score": 0.0281,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4916,
+      "tfidf_score_pct": 2.8,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "devops"
+      ],
+      "matched_skills": [
+        "devops"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "DevOps Engineer (1) Please refer the advert DirectFN",
+      "ml_score": 0.9852,
+      "ml_score_pct": 98.5,
+      "hybrid_score_pct": 49.2,
+      "rank": 7,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1044,
+      "title": "DevOps Engineer",
+      "company": "S A S Creative (Pvt) Ltd",
+      "location": "Kottawa",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001481452",
+      "source": "topjobs",
+      "tfidf_score": 0.021,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4904,
+      "tfidf_score_pct": 2.1,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "devops"
+      ],
+      "matched_skills": [
+        "devops"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "DevOps Engineer Please refer the vacancy S A S Creative (Pvt) Ltd Kottawa",
+      "ml_score": 0.9974,
+      "ml_score_pct": 99.7,
+      "hybrid_score_pct": 49.0,
+      "rank": 8,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1120,
+      "title": "DevOps Engineer",
+      "company": "eBEYONDS",
+      "location": "Pannipitiya",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001479814",
+      "source": "topjobs",
+      "tfidf_score": 0.0229,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4903,
+      "tfidf_score_pct": 2.3,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "devops"
+      ],
+      "matched_skills": [
+        "devops"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "DevOps Engineer Please refer the vacancy eBEYONDS Pannipitiya",
+      "ml_score": 0.9919,
+      "ml_score_pct": 99.2,
+      "hybrid_score_pct": 49.0,
+      "rank": 9,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1704,
+      "title": "DevOps Engineers",
+      "company": "eBEYONDS (Pvt) Ltd",
+      "location": "Pannipitiya",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001499984",
+      "source": "topjobs",
+      "tfidf_score": 0.0205,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4903,
+      "tfidf_score_pct": 2.1,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "devops"
+      ],
+      "matched_skills": [
+        "devops"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "DevOps Engineers Please refer the vacancy eBEYONDS (Pvt) Ltd Pannipitiya",
+      "ml_score": 0.9977,
+      "ml_score_pct": 99.8,
+      "hybrid_score_pct": 49.0,
+      "rank": 10,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 2056,
+      "title": "Student Success Associate",
+      "company": "Snapdrum",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/516788",
+      "source": "rooster",
+      "tfidf_score": 0.0768,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4799,
+      "tfidf_score_pct": 7.7,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 2,
+      "job_skills": [
+        "communication",
+        "motivated"
+      ],
+      "matched_skills": [
+        "communication",
+        "motivated"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Student Success Associate About the Role\nWe're looking for a motivated and people-firstStudent Success Associateto join our team and support students enrolled in our AI programs. You'll be the friendly face (and voice) that ensures every student has a smooth, engaging, and rewarding learning experience from start to finish.\nThis is a fully remote, intern role serving clients across theUS and UK. After the internship, you will be considered for a full time role.\nWhat You'll Do\nWhat We're Looking For\n- Act as the primary point of contact for students throughout their program journey\n- Monitor student progress and proactively reach out to those who may need additional support\n- Respond to student queries in a timely, helpful, and professional manner\n- Collaborate with internal teams to flag and resolve student experience issues\n- Gather student feedback and share insights to help continuously improve our programs\n- Help maintain student engagement and drive program completion rates\n- 1–2 years of experience in a student success, customer success, or support role\n- Strong communication skills — written and verbal\n- Comfortable working across US and UK time zones\n- Genuine passion for education and emerging technology (AI experience a bonus!)\n- Self-starter who thrives in a remote, fast-paced environment Snapdrum Remote",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 48.0,
+      "rank": 11,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 2043,
+      "title": "QA Analyst",
+      "company": "falconet ltd",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/517605",
+      "source": "rooster",
+      "tfidf_score": 0.1722,
+      "word2vec_score": 0.0,
+      "skill_score": 0.4545,
+      "hybrid_score": 0.4211,
+      "tfidf_score_pct": 17.2,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 45,
+      "job_skills_count": 11,
+      "job_skills": [
+        "agile",
+        "communication",
+        "cypress",
+        "github",
+        "jira",
+        "postman",
+        "proactive",
+        "problem-solving",
+        "project management",
+        "selenium",
+        "verbal communication"
+      ],
+      "matched_skills": [
+        "communication",
+        "github",
+        "jira",
+        "problem-solving",
+        "project management"
+      ],
+      "missing_skills": [
+        "agile",
+        "cypress",
+        "postman",
+        "proactive",
+        "selenium",
+        "verbal communication"
+      ],
+      "role_match": false,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "QA Analyst About the RoleWe're looking for an enthusiastic QA Intern to help ensure the quality of our web and mobile applications. You'll work closely with our development teams to test new features, hunt down bugs, and learn the core fundamentals of quality assurance in a fast-paced, real-world tech environment.\nWhat You'll Do\nWhat You Bring\nNice to Have\n- Perform manual testing on new and existing web projects and mobile applications.\n- Write, execute, and organize basic test cases based on project requirements and user flows.\n- Identify, document, clearly explain, and track bugs using our issue tracking tools.\n- Test applications across various devices, screen sizes, and browsers to ensure a smooth cross-platform experience.\n- Work closely with developers to reproduce technical issues and verify that bugs have been successfully fixed.\n- Shadow the team to understand the software development lifecycle and gain exposure to testing strategies.\n- A strong interest in software quality assurance and a meticulous eye for detail.\n- Basic understanding of how modern web and mobile applications work.\n- A problem-solving mindset with the ability to think creatively from an end-user's perspective.\n- Clear written and verbal communication skills for documenting defects and explaining them to the engineering team.\n- Currently pursuing or recently graduated with a degree/diploma in Computer Science, IT, or a related field.\n- A proactive attitude and a strong willingness to learn fast in a collaborative environment.\n- Familiarity with basic testing concepts from academic or personal software projects.\n- Exposure to project management or bug tracking tools (such as Jira, Trello, or GitHub).\n- A basic understanding of automation concepts or beginner exposure to tools like Selenium, Cypress, or Postman.\n- General understanding of Agile development workflows. falconet ltd Remote",
+      "ml_score": 0.9997,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 42.1,
+      "rank": 12,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1229,
+      "title": "IT Intern",
+      "company": "Dilmah Ceylon Tea Company",
+      "location": "Peliyagoda, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/511246",
+      "source": "rooster",
+      "tfidf_score": 0.2877,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4143,
+      "tfidf_score_pct": 28.8,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 2,
+      "job_skills": [
+        "communication",
+        "problem-solving"
+      ],
+      "matched_skills": [
+        "communication",
+        "problem-solving"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "IT Intern As an IT Intern, you will assist in troubleshooting technical issues, supporting hardware and software maintenance, and helping with system updates. This role provides practical experience in IT support and exposure to daily technology operations. This is a paid internship.\n- Assist in troubleshooting hardware and software issues.\n- Support maintenance of IT infrastructure.\n- Help with system updates and installations.\n- Document technical processes and procedures.\n- Collaborate with IT team on various projects.\n- The internship will be on weekdays, from Monday to Friday.\n- Currently pursuing a degree in Information Technology or related field.\n- Basic understanding of computer systems and networks.\n- Strong problem-solving skills.\n- Good communication skills.\n- Ability to work as part of a team. Dilmah Ceylon Tea Company Peliyagoda, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 41.4,
+      "rank": 13,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 2041,
+      "title": "Intern - Software Engineer AI",
+      "company": "Swivel Group",
+      "location": "Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/508917",
+      "source": "rooster",
+      "tfidf_score": 0.1603,
+      "word2vec_score": 0.0,
+      "skill_score": 0.5882,
+      "hybrid_score": 0.3823,
+      "tfidf_score_pct": 16.0,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 59,
+      "job_skills_count": 17,
+      "job_skills": [
+        "aws",
+        "azure",
+        "collaboration",
+        "communication",
+        "documentation",
+        "flutter",
+        "google cloud",
+        "initiative",
+        "integration testing",
+        "machine learning",
+        "motivated",
+        "passionate",
+        "planning",
+        "problem-solving",
+        "react",
+        "react native",
+        "unit testing"
+      ],
+      "matched_skills": [
+        "aws",
+        "azure",
+        "collaboration",
+        "communication",
+        "documentation",
+        "machine learning",
+        "motivated",
+        "passionate",
+        "planning",
+        "problem-solving"
+      ],
+      "missing_skills": [
+        "flutter",
+        "google cloud",
+        "initiative",
+        "integration testing",
+        "react",
+        "react native",
+        "unit testing"
+      ],
+      "role_match": true,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Intern - Software Engineer AI Swivel Groupheadquartered in Australia is best known for building and implementing custom solutions for businesses to enable them to innovate, scale and compete at a global standard. We've been around since 2019, with a team growing beyond 160+ employees that help us challenge and innovate for our partners across the software, digital, and finance landscapes.\nOur Brands: Swivel Tech, Swivel Finance, Swivel Talent, and Swivel Foundation.\nRole Description:We are looking for a motivated and curious undergraduate student who is passionate about Artificial Intelligence and Machine Learning to join our AI team as an intern. This is an excellent opportunity to gain hands-on experience in real-world AI applications, contribute to ongoing projects, and learn from industry experts.\nKey Responsibilities :\nMandatory Skills:\n• Knowledge of core software programming concepts such as object-oriented design, algorithm design and data structures\nNice to Have:\nRequired Attributes:\nEngagement\n• Internship\nWork model\n• Hybrid\nBenefits\nWhat We Can Offer You:\nWork Culture\nSwivel promotes a culture of positivity, openness, growth, collaboration, and fairness within our work environment. Individual development matters to us. We put in a sincere effort to help our team grow on professional and personal levels.\nSwivel Values\nTrust :A confident relationship in our staff, that would adhere to transparency and honesty in our dealings\nInnovation :Initiative, collaboration, challenging the industry and continuously evolving\nPremium:Top talent, going above and beyond and treating your workplace as your own business\nRespect:Everyone matters and so do their ideas\nTeam:Be supportive, welcoming, community, family-oriented and as strong as our weakest\nOur Channels\nWebsite -https://swiveltech.io\nInstagram -https://www.instagram.com/swivel.group/\nFacebook -https://www.facebook.com/swivelgroupau\nLinkedIn -https://www.linkedin.com/company/swivelgroupau/\n- Collaborate with the development team to design, develop, test and maintain software applications.\n- Collaborate with team members to gather and analyze requirements. • Debug and troubleshoot software issues.\n- Participate in team meetings and sprint planning meetings.\n- Work on assigned tasks and projects under the guidance of senior engineers.\n- Write clean, maintainable, efficient, and testable code following best practices.\n- Write and conduct unit testing, integration testing, and end-to-end testing to ensure application reliability.\n- Stay up-to-date with latest industry trends and technologies.\n- Contribute to produce technical documentation.\n- Effective interpersonal and communication skills.\n- React JS\n- Next JS\n- React Native\n- Node JS\n- Flutter\n- Knowledge on Artificial intelligence (AI) and Machine learning (ML)\n- Knowledge on Gen AI\n- Exposure in Google Cloud, AWS or Azure\n- Strong interest in learning and ability to adapt to new technologies.\n- Analytical and problem-solving skills\n- Excellent communication skills\n- Actively participate in company training opportunities to further develop skills applicable to the team.\n- A dynamic and supportive working environment\n- Full medical benefits\n- Training & Development\n- Flexible and hybrid working arrangements\n- Attractive remuneration Swivel Group Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 38.2,
+      "rank": 14,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 2044,
+      "title": "Student Success Instructor (Cybersecurity)",
+      "company": "Edmore Private Limited",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 45,000 - 45,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/512841",
+      "source": "rooster",
+      "tfidf_score": 0.1521,
+      "word2vec_score": 0.0,
+      "skill_score": 0.3333,
+      "hybrid_score": 0.3736,
+      "tfidf_score_pct": 15.2,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 33,
+      "job_skills_count": 6,
+      "job_skills": [
+        "agile",
+        "agile methodologies",
+        "communication",
+        "cybersecurity",
+        "documentation",
+        "organizational skills"
+      ],
+      "matched_skills": [
+        "communication",
+        "documentation"
+      ],
+      "missing_skills": [
+        "agile",
+        "agile methodologies",
+        "cybersecurity",
+        "organizational skills"
+      ],
+      "role_match": false,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Student Success Instructor (Cybersecurity) As aStudent Success Instructor (Cybersecurity), you will play a key role in supporting learners through their cybersecurity learning journey. You’ll help strengthen our cybersecurity bootcamp by enhancing course content, ensuring secure delivery through our Learning Management System (LMS), and providing academic and technical support to students.\nYou’ll collaborate closely with instructors and curriculum teams to integrate emerging cybersecurity practices, ensuring our learners gain hands-on, industry-relevant experience. This role also involves maintaining high standards of data integrity, compliance, and secure learning environments.\nThis is an excellent opportunity to grow your cybersecurity expertise while directly contributing to student success in a fast-paced, tech-focused education environment.\nStudent Success & Support\nSkills\nExperience\nPlease submit yourCValong with themarks or grades from your previous modules\n- Guide and mentor students throughout their cybersecurity learning journey.\n- Provide academic and technical support through live sessions, Q&As, and LMS forums.\n- Track student performance and provide personalized feedback and study strategies.\n- Ensure a supportive, inclusive, and motivating learning environment.\n- Update and refine cybersecurity modules to align with current industry standards.\n- Ensure curriculum reflects real-world cyber threats such as network, internet, mobile, and cloud security.\n- Integrate key concepts including Governance, Risk & Compliance (GRC), IAM, SOC, SIEM, Threat Intelligence, and Cryptography.\n- Work with instructors to keep content up to date with trends like Zero Trust, Cloud Security, and DevSecOps.\n- Manage and maintain secure LMS operations, ensuring seamless and compliant delivery of materials.\n- Support process improvements focusing on data integrity, compliance, and learner engagement.\n- Document updates, performance metrics, and feedback reports regularly.\n- Understanding of cybersecurity concepts such as authentication, authorization, OWASP Top 10, and encryption.\n- Basic familiarity with web development stacks (MERN preferred) and secure coding principles.\n- Experience with agile methodologies and version control.\n- Strong communication, documentation, and organizational skills.\n- Pursuing or completed a degree inComputer Science, Cybersecurity, Software Engineering, or a related field.\n- Exposure to cybersecurity projects, labs, or Capture the Flag (CTF) exercises is a plus.\n- Experience withLMS management, curriculum support, or student engagement is an advantage.\n- Real-World Experience:Direct involvement in cybersecurity education, curriculum optimization, and secure LMS management.\n- Professional Development:Opportunities to expand your cybersecurity and instructional skills while staying aligned with industry standards.\n- Impact:Play a pivotal role in helping students succeed and shaping the next generation of cybersecurity professionals.\n- Collaborative Culture:Be part of a team that values innovation, security, and continuous improvement. Edmore Private Limited Colombo, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 37.4,
+      "rank": 15,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 2029,
+      "title": "Interns – ICT",
+      "company": "Toyota Lanka (Pvt) Ltd.",
+      "location": "Wattala, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/518287",
+      "source": "rooster",
+      "tfidf_score": 0.193,
+      "word2vec_score": 0.0,
+      "skill_score": 0.625,
+      "hybrid_score": 0.3567,
+      "tfidf_score_pct": 19.3,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 62,
+      "job_skills_count": 8,
+      "job_skills": [
+        "attention to detail",
+        "communication",
+        "documentation",
+        "interpersonal skills",
+        "networking",
+        "problem-solving",
+        "team player",
+        "work under pressure"
+      ],
+      "matched_skills": [
+        "communication",
+        "documentation",
+        "networking",
+        "problem-solving",
+        "team player"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "interpersonal skills",
+        "work under pressure"
+      ],
+      "role_match": false,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Interns – ICT We’re looking for:\nWhat You'll Do:\n- Diploma or professional qualification in Computer Hardware, Networking, or related field.\n- Familiar with Windows OS, Laptops, Desktops, printers, switches and basic networking\n- Strong problem-solving skills and ability to work independently and as part of a team\n- Willingness to travel between company branches if required\n- Ability to work under pressure and handle multiple tasks efficiently.\n- Strong attention to detail and documentation skills.\n- Willingness to learn and work as a team player\n- Good communication and interpersonal skills\n- Assist in maintaining computers, network devices, and IT infrastructure to ensure smooth daily operations\n- Support the deployment and configuration of new devices and applications\n- Assisting in implementing IT Projects and upgrades\n- Take ownership of assigned IT support tickets and ensure timely resolution under supervision\n- Provide courteous and effective support to users across multiple departments and branches Toyota Lanka (Pvt) Ltd. Wattala, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 35.7,
+      "rank": 16,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1227,
+      "title": "Intern Business Analyst",
+      "company": "Twist Digital",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 15,000 - 20,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/516208",
+      "source": "rooster",
+      "tfidf_score": 0.2416,
+      "word2vec_score": 0.0,
+      "skill_score": 0.5294,
+      "hybrid_score": 0.3516,
+      "tfidf_score_pct": 24.2,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 53,
+      "job_skills_count": 17,
+      "job_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "business analysis",
+        "collaboration",
+        "communication",
+        "documentation",
+        "excel",
+        "jira",
+        "motivated",
+        "passionate",
+        "planning",
+        "proactive",
+        "problem-solving",
+        "project management",
+        "research",
+        "stakeholder",
+        "verbal communication"
+      ],
+      "matched_skills": [
+        "collaboration",
+        "communication",
+        "documentation",
+        "jira",
+        "motivated",
+        "passionate",
+        "planning",
+        "problem-solving",
+        "project management"
+      ],
+      "missing_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "business analysis",
+        "excel",
+        "proactive",
+        "research",
+        "stakeholder",
+        "verbal communication"
+      ],
+      "role_match": false,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Intern Business Analyst We are seeking a motivated, analytical, and detail-orientedIntern Business Analystto join our growing team. This role is ideal for someone who is passionate about understanding business needs, improving processes, supporting digital projects, and helping bridge the gap between business goals and execution.\nThe ideal candidate should be eager to learn, comfortable working with cross-functional teams, and capable of supporting requirement gathering, process documentation, research, coordination, and project tracking. While this is an internship position, the role is designed for someone who wants real exposure to the responsibilities and mindset of a Business Analyst in a fast-paced digital environment.\nJoin us in our mission to revolutionize the way businesses approach their digital journey. Whether you are an innovator, a creative thinker, or someone passionate about transformative results, Twist Digital is the place for you. Embrace the power of change, unlock your potential, and shape the future with us.\nAre you ready to become a Twister? Apply now and be a part of the transformation!\n- Assist in gathering, analyzing, and documenting business requirements from internal stakeholders and clients.\n- Support the translation of business needs into clear functional requirements, user stories, workflows, and process documentation.\n- Work closely with internal teams including design, development, marketing, and operations to ensure clear communication of project goals and requirements.\n- Help identify business challenges, inefficiencies, and improvement opportunities, and contribute to practical solution recommendations.\n- Assist in preparing BRDs, requirement documents, meeting notes, reports, presentations, and project summaries.\n- Use collaboration and project management tools such asClickUp, Slack, Google Workspace, and other task management platformsto coordinate work, track progress, and maintain project visibility.\n- Monitor project tasks, timelines, and deliverables to help ensure alignment between stakeholder expectations and team execution.\n- Participate in team discussions, sprint planning sessions, internal reviews, and requirement clarification meetings.\n- Conduct market research, competitor analysis, and business research to support project planning and strategic decision-making.\n- Support UAT, validation, and quality checks to ensure delivered solutions align with business requirements.\n- Maintain organized documentation of processes, updates, action items, and stakeholder feedback.\n- Assist in improving internal workflows and reporting structures for better efficiency and collaboration.\n- Currently pursuing or recently completed a degree/diploma inBusiness Administration, Management, Information Systems, Marketing, Finance, or a related field.\n- Strong analytical thinking and problem-solving skills with high attention to detail.\n- Basic understanding ofbusiness analysis, requirement gathering, process mapping, documentation, and reporting.\n- Familiarity with workplace and project management tools such asClickUp, Slack, Trello, Asana, Notion, Jira, Google Sheets, Excel, and PowerPointis an advantage.\n- Strong written and verbal communication skills.\n- Ability to work independently while also collaborating effectively within a team.\n- Good organizational, coordination, and time-management skills.\n- Comfortable handling multiple tasks and adapting in a fast-paced work environment.\n- A proactive mindset with a strong willingness to learn and grow in business analysis and digital project delivery.\n- Interest in digital products, business processes, operations, and strategic problem-solving.\n- Hands-on exposure to real-worldbusiness analysis and project coordinationpractices.\n- Experience working with cross-functional teams on digital products and client projects.\n- Practical knowledge of requirement documentation, stakeholder communication, workflow analysis, and project tracking.\n- Exposure to tools and systems commonly used in modern digital businesses and project environments.\n- A strong foundation for building a career inBusiness Analysis, Product, Operations, or Project Management. Twist Digital Colombo, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 35.2,
+      "rank": 17,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 2060,
+      "title": "Intern Sales Admin",
+      "company": "Promo lanka Holdings",
+      "location": "Colombo, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/516639",
+      "source": "rooster",
+      "tfidf_score": 0.0665,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.351,
+      "tfidf_score_pct": 6.6,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 2,
+      "job_skills": [
+        "documentation",
+        "motivated"
+      ],
+      "matched_skills": [
+        "documentation",
+        "motivated"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Intern Sales Admin Company:Promo Lanka Holdings (PLM / EKTC)Location:Colombo, Sri LankaInternship Duration:6 Months\nWe are looking for motivated and detail-orientedSales Admin Internsto support our Sales, Category, and Supply Chain teams.\nThis internship provides hands-on exposure toreal business operations, includingquotations, project coordination, and customer handlingwithin the HoReCa industry.\n- How to prepareprofessional quotations and proposals\n- Basics ofpricing, costing, and product selection\n- Exposure tohotel & restaurant project workflows (BOQs, tenders)\n- Understanding ofsupply chain coordination and procurement\n- Working withreal clients and sales teams\n- Assist in preparingquotations and RFQs\n- Support in maintainingprice lists and product databases\n- Coordinate with internal teams forpricing, availability, and documentation\n- Help organizeproject documents and BOQs\n- Follow up onsales inquiries and updates\n- Maintain proper documentation and reporting Promo lanka Holdings Colombo, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 35.1,
+      "rank": 18,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 2057,
+      "title": "Founder's Associate",
+      "company": "Snapdrum",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/512076",
+      "source": "rooster",
+      "tfidf_score": 0.0541,
+      "word2vec_score": 0.0,
+      "skill_score": 0.5,
+      "hybrid_score": 0.3482,
+      "tfidf_score_pct": 5.4,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 50,
+      "job_skills_count": 4,
+      "job_skills": [
+        "communication",
+        "proactive",
+        "problem-solving",
+        "research"
+      ],
+      "matched_skills": [
+        "communication",
+        "problem-solving"
+      ],
+      "missing_skills": [
+        "proactive",
+        "research"
+      ],
+      "role_match": false,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Founder's Associate Work directly with Snapdrum's founding team on high-impact projects across strategy, operations, sales, and partnerships. Learn how to scale an AI startup from the inside.\n- Work across operations, client success, and partnerships\n- Support proposals, product launches, and investor materials\n- Assist with marketing and lead generation\n- Research emerging AI markets and opportunities\n- Exceptional organizational and problem-solving skills\n- Entrepreneurial mindset — proactive and execution-driven\n- Excellent communication\n- Passion for AI, startups, and innovation Snapdrum Remote",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 34.8,
+      "rank": 19,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1248,
+      "title": "Community Management & Partnerships Intern",
+      "company": "Metana",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 40,000 - 45,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514285",
+      "source": "rooster",
+      "tfidf_score": 0.087,
+      "word2vec_score": 0.0,
+      "skill_score": 0.7143,
+      "hybrid_score": 0.3468,
+      "tfidf_score_pct": 8.7,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 71,
+      "job_skills_count": 7,
+      "job_skills": [
+        "collaboration",
+        "communication",
+        "creativity",
+        "documentation",
+        "passionate",
+        "problem-solving",
+        "spark"
+      ],
+      "matched_skills": [
+        "collaboration",
+        "communication",
+        "documentation",
+        "passionate",
+        "problem-solving"
+      ],
+      "missing_skills": [
+        "creativity",
+        "spark"
+      ],
+      "role_match": false,
+      "user_skills_raw": "SENUTH DE SILVA Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio PROFESSIONAL SUMMARY Motivated Computer Science undergraduate with strong knowledge of IT infrastructure, system administration, networking, and technical support. Experienced in troubleshooting hardware, software, and network issues while maintaining system security and reliability. Skilled in Windows environments, database systems, and cloud technologies. Passionate about supporting business systems, maintaining IT infrastructure, and ensuring smooth day-to-day IT operations in an enterprise environment. EDUCATION Bsc(Hons) Computer Science Undergraduate University of Westminster (United kingdom) Informatics Institute of Technology (IIT) Foundation Higher Education in Informatics Institute Of Technology May 2022 GCE O/L 2022 PROJECTS Mind Forge E-Learning Platform (Full-Stack Project) Project Team Member Coordinated project tasks and timelines for an e-learning platform enabling self-paced learning, certifications, and technical blogging. Used JIRA to manage user stories, tasks, and sub-tasks using Scrum boards. Actively participated in sprint planning, daily stand-ups, sprint reviews, and progress tracking. Collaborated with cross-functional team members to ensure on-time feature delivery and scope alignment. IT Helpdesk Ticketing System Built a simple IT support management system. Developed a ticketing system to manage user issues Categorized incidents (hardware, software, network) Tracked resolution time and support performance Improved IT support workflow efficiency Hotel Management Online Booking System Project Coordinator Supported end-to-end project planning for a hotel operations and booking platform. Coordinated tasks across frontend and backend development teams. Assisted in user requirement validation and system testing coordination. Hardware Network Troubleshooting Lab Simulated and resolved real-world IT issues. Diagnosed PC hardware failures Resolved network connectivity issues Fixed printer and peripheral problems Provided end-user technical support CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin TECHNICAL SKILLS IT Infrastructure System Administration Active Directory (User accounts, group policies, access control),Windows Server administration,System monitoring and troubleshooting,IT asset management and inventory control Network Security Network configuration and troubleshooting,Firewall configuration and monitoring,Network security fundamentals,TCP/IP, DNS, DHCP Planning Documentation PC installation and configuration ,Printer setup and troubleshooting ,Network device setup (routers, switches) ,Hardware diagnostics and maintenance Tracking Reporting SAP Business One (basic support knowledge), HRMS and attendance system support, Business system troubleshooting Collaboration Communication System backup procedures ,Data protection and security compliance ,Database management Technical Domain Knowledge SDLC, API Concepts, Cloud Fundamentals (AWS), Database Fundamentals, DevOps Awareness LEADERSHIP SKILLS Member of LEO CLUB of IIT (2022-2025) Member and event coordinator of Rotaract CLUB of IIT (2022-2025) Member of IEEE Computer Society (2025) Member of IEEE Club. Main batch representative in level 4 and Level 5 SOFT SKILLS Leadership Skills Time Management Problem-Solving Skills Communication Skills Team Player a daptability",
+      "job_description_raw": "Community Management & Partnerships Intern This isn’t your average internship—it’s a crash course in making things happen.\nAs a Community Management Intern, you’ll be at the heart of our community, moderating discussions, running events, and collaborating with Web3 founders, influencers, and partners. One day, you’ll be sparking conversations on Discord, and the next, you’ll be organizing hackathons or AMAs.\nIf you’re passionate about Web3, have an interest in tech and love building communities, and thrive in fast-paced environments, this role is for you. Apply now and help us create a community that drives the future of decentralized technology!\nCommunity Engagement & Growth\nEvent Management\nCommunity Building\nPartnerships\n⠀Skills\nExperience\n- Be the glue that keeps conversations going across platforms like Discord, Twitter, and Telegram.\n- Spark discussions, answer questions, and support community members to foster engagement.\n- Find ways to optimize community interactions, making them smoother, smarter, and more valuable.\n- Work with our community team to organize and run events such as AMAs, coding challenges, and hackathons.\n- Collaborate with Web3 founders, influencers, and partners to create impactful activations.\n- Moderate discussions and maintain a positive, professional tone across all platforms.\n- Identify opportunities to grow the community and enhance member experiences.\n- Assist our partnerships team in following up on important discussions and ensuring all proper documentation and collaboration plans are in place.\n- Contributing towards the ideation of long-term partnership strategies (in terms of educational/training partnerships, community partnerships, strategic partnerships etc)\n- Create marketing, social & content plans to assist in co-marketing and brand building.\n- A natural community builder with the ability to keep online spaces active and engaging.\n- Strong communication skills, both written and verbal, for moderating discussions and interacting with members.\n- Social media-savvy, with a deep understanding of platforms like Discord, Twitter, and Telegram.\n- Creative problem-solving skills to turn challenges into opportunities.\n- Passion for Web3 and technology, with an understanding of the developer and builder mindset.\n- Previous experience in community management, social media, or event coordination is a plus but not required.\n- Real-World Experience:Hands-on involvement in managing and growing an active Web3 community.\n- Professional Development:Opportunities to collaborate with industry leaders and enhance your skills in community building and event management.\n- Impact:Play a key role in shaping a vibrant, engaged community that drives innovation in Web3.\n- Collaborative Environment:Work in a dynamic, fast-paced team that values creativity, problem-solving, and community-driven growth.\n- First-hand experiencein being a part of high-ticket, international partnership conversations, strategy development and relationship management. Metana Colombo, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 34.7,
+      "rank": 20,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    }
+  ]
+}

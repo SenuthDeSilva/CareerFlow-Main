@@ -1,0 +1,198 @@
+﻿Number,Job_Ref_No,Job_Code,Position,Employer,Job_Description,Opening_Date,Closing_Date,Town
+1,1519648,0001519648,Associate DevOps Engineer,Zindhu Business Solutions (Private) Limited,Please refer the vacancy,Fri Jul 03 2026,Fri Jul 17 2026,Colombo 7
+2,1519642,0001519642,Senior Full Stack Developer,Company Name Withheld,Please refer the vacancy,Fri Jul 03 2026,Fri Jul 17 2026,Colombo 1
+3,1519640,0001519640,Graphic Designer | Project Manager,Quard International (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Fri Jul 17 2026,Colombo 5
+4,1519541,0001519541,Graphic Designer,Visual Fast Print (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Fri Jul 17 2026,Colombo 13
+5,1519540,0001519540,Senior Executive - Web & App Development,Cap Snap Lanka (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Fri Jul 17 2026,Homagama
+6,1519526,0001519526,Executive - Graphic Designer,Cap Snap Lanka (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Fri Jul 17 2026,Homagama
+7,1519414,0001519414,ODOO ERP Functional Consultant (1),Konnect Net Pvt Ltd,Please refer the advert,Fri Jul 03 2026,Thu Jul 09 2026,Orugodawatta
+8,1519377,0001519377,Video Editor & Graphic Designer - Full Time,Eureka Consultants,Please refer the vacancy,Fri Jul 03 2026,Thu Jul 16 2026,Delkada
+9,1519022,0001519022,QA Automation Engineer,Intrepid,Please refer the vacancy,Fri Jul 03 2026,Thu Jul 16 2026,Colombo
+10,1518951,0001518951,Online Customer Support Executive,DoubleClick Seychelles Group,Please refer the vacancy,Fri Jul 03 2026,Thu Jul 16 2026,All island
+11,1518707,0001518707,Graphic Designer,Austral Accountants,Please refer the vacancy,Fri Jul 03 2026,Sat Aug 01 2026,Malabe
+12,1518513,0001518513,Back - End Developer,Company Name Withheld,Please refer the vacancy,Fri Jul 03 2026,Wed Jul 15 2026,Sri Jayawardanapura Kotte
+13,1518413,0001518413,Junior Algorithm Engineer - DSP - FPGA Engineer,Thakshana Technologies (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Wed Jul 15 2026,Colombo 2
+14,1518412,0001518412,Junior Embedded Software Engineer (Security-Focused),Thakshana Technologies (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Wed Jul 15 2026,Colombo 2
+15,1517987,0001517987,Graphic Designer,Spherehead Technologies (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Tue Jul 14 2026,Colombo 1
+16,1517518,0001517518,Program Coordinator,IgniterSpace (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Fri Jul 10 2026,Gampaha (Gampaha)
+17,1517506,0001517506,Web Projects Manager,eBEYONDS (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Fri Jul 10 2026,Pannipitiya
+18,1516526,0001516526,AI Solution Architect,Commercial Bank of Ceylon PLC,Please refer the vacancy,Fri Jul 03 2026,Wed Jul 08 2026,Colombo 2
+19,1516115,0001516115,CONSULTANT - ARTIFICIAL INTELLIGENCE  /COMPUTER VISION ENGINEER (1),Konnect Net Pvt Ltd,Please refer the advert,Fri Jul 03 2026,Tue Jul 07 2026,Colombo
+20,1515944,0001515944,Technical Support Lead,Ateam Software (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Tue Jul 07 2026,Colombo
+21,1515396,0001515396,Part Time AI Developer | Full - Stack AI Engineer,Quard International (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Mon Jul 06 2026,Nugegoda
+22,1515394,0001515394,Shopify Expert | Shopify Developer,Quard International (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Mon Jul 06 2026,Nugegoda
+23,1514533,0001514533,ATL / SSE Front End Developer (UI/UX) (1),Sumathi Group,Please refer to the job advertisement.,Fri Jul 03 2026,Fri Jul 17 2026,
+24,1514479,0001514479,Graphic Designer - Nawala,Elcardo Industries (Pvt) Ltd,Please refer the vacancy,Fri Jul 03 2026,Fri Jul 03 2026,Nawala
+25,1514251,0001514251,Creative Designer (1),Sumathi Group,Please refer to the job advertisement.,Fri Jul 03 2026,Fri Jul 17 2026,
+26,1490475,0001490475,Expert -  ERP/Odoo Implementation (1),Sumathi Group,Please refer to the job advertisement.,Fri Jul 03 2026,Fri Jul 17 2026,
+27,1519363,0001519363,Executive ? Client Services (1),John Keells IT,Please refer the advert,Thu Jul 02 2026,Sun Aug 02 2026,Colombo 2
+28,1519297,0001519297,Business Analyst  (1),Jobfactory,Contract Basis,Thu Jul 02 2026,Thu Jul 09 2026,Colombo
+29,1519264,0001519264,IT Assistant,Colombo Young Men's Buddhist Association,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Colombo 8
+30,1519222,0001519222,AI - Frontend Tech Lead,HRC Labs,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Colombo 8
+31,1519221,0001519221,AI - Frontend Senior Software Engineer,HRC Labs,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Colombo 8
+32,1519220,0001519220,Functional Consultant Apparel Domain,Cilk Solutions (Pvt) Ltd,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Kandana
+33,1519218,0001519218,AI - Frontend Software Engineer,HRC Labs,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Colombo 8
+34,1519214,0001519214,Data Engineer,HRC Labs,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Colombo 8
+35,1519192,0001519192,UI/UX Designer,Dimensions IT (Pvt) Ltd,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Nittambuwa
+36,1519189,0001519189,Intern & Associate - Software Engineer,Muve Mobility (Pvt) Ltd,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Kandy
+37,1519180,0001519180,Web Developer (Wordpress),Designsolv (Pvt) Ltd,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Nawala
+38,1519162,0001519162,IT Assistant,Wycherley International School,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Colombo 7
+39,1519122,0001519122,OFFICE ASSISTANT (MALE) (1),Maritime Placements (Pvt) Ltd,"The selected candidate will be based in a Branch / Department and will be responsible of General office assistant / peon related work, assisting in documen ....",Thu Jul 02 2026,Fri Jul 03 2026,"Anuradhapura, Colombo 1, Colombo 2, Colombo 3, Colombo 7"
+40,1519088,0001519088,Google Ads Campaign Manager,Enliven Designers,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Colombo 6
+41,1519081,0001519081,Intern - IT - QA (1),Hirdaramani - H CONNECT (PVT) LIMITED,Please refer the Job Advert,Thu Jul 02 2026,Thu Jul 16 2026,
+42,1519074,0001519074,Graphic Designer - Ja-Ela,Malsha Digital Colour lab,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Ja-Ela
+43,1519060,0001519060,Project Manager,MISL Holdings (Pvt) Ltd,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Gampaha (Gampaha)
+44,1519042,0001519042,UX | UI Designer Intern (Full Time - Remote),Ventaz AI,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,All island
+45,1519031,0001519031,Senior QA Engineer (1),CMS (Pvt) Ltd,Please click on the advertisement to apply,Thu Jul 02 2026,Thu Jul 09 2026,Colombo 3
+46,1519023,0001519023,Intern - Fullstack Developer,Epic Lanka (Pvt) Ltd,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Battaramulla
+47,1518955,0001518955,Project Operations Coordinator | SEO - Search Engine Optimizer,iTechnology Pvt Ltd,Please refer the vacancy,Thu Jul 02 2026,Thu Jul 16 2026,Maharagama
+48,1518777,0001518777,Graphic Designer,Catlabs (Pvt) Ltd,Please refer the vacancy,Thu Jul 02 2026,Wed Jul 15 2026,Mount Lavinia
+49,1516380,0001516380,Data Analyst,Company Name Withheld,Please refer the vacancy,Thu Jul 02 2026,Wed Jul 08 2026,Mount Lavinia
+50,1515730,0001515730,Senior Snowflake Engineer (1),CMS (Pvt) Ltd,Please click on the job advertisement to apply,Thu Jul 02 2026,Thu Jul 09 2026,Colombo 3
+51,1420855,0001420855,Big Data Engineer (1),CMS (Pvt) Ltd,Please click on the advertisement to apply,Thu Jul 02 2026,Thu Jul 09 2026,Colombo 2
+52,1518771,0001518771,Graphic Designer,Negombo Printers (Pvt) Ltd,Please refer the vacancy,Wed Jul 01 2026,Wed Jul 15 2026,Negombo
+53,1518682,0001518682,Intern - HR Analytics (1),MAS Holdings,Click on advert to apply,Wed Jul 01 2026,Wed Jul 15 2026,Pelawatte (Battaramulla)
+54,1518675,0001518675,Graphic Designer (1),Hameedia,Please refer advertisement,Wed Jul 01 2026,Wed Jul 08 2026,"Rathmalana, Ratmalana"
+55,1518657,0001518657,Assistant Software Engineer | Software Developer,Fine Enterprises,Please refer the vacancy,Wed Jul 01 2026,Wed Jul 15 2026,Veyangoda
+56,1518629,0001518629,Solution Engineer Vacancies in Colombo,Manpower Sri Lanka,Solution Engineer Vacancies in Colombo,Wed Jul 01 2026,Wed Jul 15 2026,Colombo 4
+57,1518628,0001518628,Service Delivery & Monitoring Executive,Soundmouse Sri Lanka,Please refer the vacancy,Wed Jul 01 2026,Wed Jul 15 2026,Colombo 3
+58,1518553,0001518553,GenAI Engineer (Indian candidates only) (1),Mobizz Elite (Pvt) Ltd,Please refer the job post  (Indian candidates only),Wed Jul 01 2026,Wed Jul 15 2026,
+59,1518430,0001518430,Graphic Designer,International Intimates Inc,Please refer the vacancy,Wed Jul 01 2026,Wed Jul 15 2026,New York
+60,1518409,0001518409,SAP Master Data Associate,Eswaran Brothers Exports (Pvt) Ltd,Please refer the vacancy,Wed Jul 01 2026,Wed Jul 15 2026,Colombo 14
+61,1518387,0001518387,EDI System Analyst (US Calendar - US Shift) (1),H Connect International (Pvt) Ltd,Please refer to the job advert.,Tue Jun 30 2026,Fri Jul 03 2026,
+62,1518382,0001518382,Senior Associate - Data Analytics (Power BI & Microsoft Ecosystem) (US Calendar - US Shift) (1),H Connect International (Pvt) Ltd,Please refer to the job advert.,Tue Jun 30 2026,Fri Jul 03 2026,
+63,1518360,0001518360,Associate - Business Support (UK Calendar - UK Shift) (1),H Connect International (Pvt) Ltd,Please refer to the job advert.,Tue Jun 30 2026,Fri Jul 03 2026,
+64,1518229,0001518229,Marketing Design & Content Creator,Programus Ltd,Please refer the vacancy,Tue Jun 30 2026,Tue Jul 14 2026,Colombo 4
+65,1518218,0001518218,Senior Executive | Assistant Manager - Marketing,Programus Ltd,Please refer the vacancy,Tue Jun 30 2026,Tue Jul 14 2026,Colombo 4
+66,1518166,0001518166,Junior Trainee - Software Development & IOT,Hedanship Asia Pvt Ltd,Please refer the vacancy,Tue Jun 30 2026,Tue Jul 14 2026,Ja-Ela
+67,1518163,0001518163,Senior Prepress Executive | Senior Graphic Designer,Dasis Printers (Pvt) Ltd,Please refer the vacancy,Tue Jun 30 2026,Tue Jul 07 2026,Seeduwa
+68,1518068,0001518068,Senior Graphic Designer,One Group of Hotel,Please refer the vacancy,Tue Jun 30 2026,Tue Jul 14 2026,Bentota
+69,1518048,0001518048,Creative Designer,Christell Skin Clinic,Please refer the vacancy,Tue Jun 30 2026,Tue Jul 14 2026,Colombo 4
+70,1518013,0001518013,Business Analyst & Project Manager (1),Med Cube USA,Please refer the vacancy,Tue Jun 30 2026,Tue Jul 14 2026,New York
+71,1517967,0001517967,Associate Project Manager,Epic Lanka (Pvt) Ltd,Please refer the vacancy,Tue Jun 30 2026,Tue Jul 14 2026,Sri Jayawardanapura Kotte
+72,1517962,0001517962,Software Engineer | Senior Software Engineer,Innobot Health,Please refer the vacancy,Tue Jun 30 2026,Tue Jul 14 2026,Colombo 1
+73,1517927,0001517927,System Administrator  (1),Goodhope Asia Holdings Ltd,"Minimum 5 years' experience in a similar role. Bachelor's Degree in Information Technology, Networking, IT Security or equivalent. Product certifications f ....",Tue Jun 30 2026,Mon Jul 13 2026,Colombo 3
+74,1517495,0001517495,Associate - IT Audit  (1),Deloitte,Click on the advert to apply.,Tue Jun 30 2026,Tue Jul 07 2026,Colombo 2
+75,1517488,0001517488,Executive - IT Audit  (1),Deloitte,Click on the advert to apply.,Tue Jun 30 2026,Tue Jul 07 2026,Colombo 2
+76,1517475,0001517475,Senior Associate - IT Audit  (1),Deloitte,Click on the advert to apply.,Tue Jun 30 2026,Tue Jul 07 2026,Colombo 2
+77,1514358,0001514358,Intern - AI Product Engineer (1),Expolanka Holdings Limited,Please refer to the job advertisement,Sun Jun 28 2026,Sun Jul 12 2026,
+78,1517817,0001517817,Electronic Technician (Trainee) (1),Micronet Global Services (Pvt) Ltd,Urgent Hiring - Union Place,Sat Jun 27 2026,Sat Jul 04 2026,Colombo
+79,1517798,0001517798,Intern ? Cloud Solutions and Services (Security) (1),John Keells IT,Please refer the advert,Sat Jun 27 2026,Mon Jul 27 2026,Colombo 2
+80,1517791,0001517791,Intern - Project Management,Epic Lanka (Pvt) Ltd,Please refer the vacancy,Sat Jun 27 2026,Sat Jul 11 2026,Battaramulla
+81,1517757,0001517757,Graphic Designer,Velona,Please refer the vacancy,Sat Jun 27 2026,Sat Jul 11 2026,Moratuwa
+82,1514359,0001514359,Intern - AI QA Engineer (1),Expolanka Holdings Limited,Please refer to the job advertisement,Sat Jun 27 2026,Sat Jul 11 2026,
+83,1517686,0001517686,IT System & Support Specialist,Levein,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Colombo 5
+84,1517667,0001517667,Assistant Manager - Digital Transformation,JAT Holdings PLC,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Thalawathugoda
+85,1517610,0001517610,Business Analyst - Project Management Experience (1),Jobfactory,Please refer the advertisement,Fri Jun 26 2026,Fri Jul 03 2026,Colombo
+86,1517600,0001517600,IT Consultant,Generix Consortium (Pvt) Ltd,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Colombo 1
+87,1517591,0001517591,Software Engineer - Java,SP Solutions (Pvt) Ltd,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Colombo 3
+88,1517584,0001517584,Software Engineer (Python + Java),Invenza Digital Technologies (Pvt) Ltd,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Colombo 1
+89,1517556,0001517556,Software Engineer - Frontend,Lassana Group of Companies,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Nawala
+90,1517500,0001517500,Graphic Designer,ILMA International Girl's School,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Colombo 5
+91,1517476,0001517476,Creative Brand Executive (1),Senok Trade Combine Limited,Please refer to the job advertisement.,Fri Jun 26 2026,Fri Jul 03 2026,Colombo 4
+92,1517474,0001517474,Designer (Male),Visual Fast Print (Pvt) Ltd,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Wattala (Wattala)
+93,1517466,0001517466,Senior Full Stack Developer,Company Name Withheld,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Suva
+94,1517455,0001517455,Google Ads Specialist,BlinQ,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,All island
+95,1517448,0001517448,Senior Software Architecture,Company Name Withheld,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Colombo 8
+96,1517445,0001517445,QA Head,Company Name Withheld,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Colombo 8
+97,1517335,0001517335,Graphic Designer & Photographer (1),Hameedia,Please refer to the advertisement,Fri Jun 26 2026,Fri Jul 03 2026,
+98,1517308,0001517308,Graphic Designer,JC International Foreign Employment Agency - Ragama,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Ragama
+99,1517297,0001517297,IT Executive (1),Nawaloka Hospitals PLC,Please refer the advertisement.,Fri Jun 26 2026,Fri Jul 10 2026,
+100,1517272,0001517272,Senior Enterprise Applications Support,BOC IT Solutions (Pvt) Ltd,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Colombo 1
+101,1517250,0001517250,Graphic Designer,Regency Teas (Pvt) Ltd,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Kelaniya
+102,1517235,0001517235,IT Officer - Data & SQL Development,Singer Finance (Lanka) PLC,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Colombo 3
+103,1517200,0001517200,Product Engineer - AI & Automation (R&D),SFL Tech,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Colombo 15
+104,1517116,0001517116,Senior ICT | Software Engineer,Asian Logistics Solutions (Pvt) Ltd,Please refer the vacancy,Fri Jun 26 2026,Fri Jul 10 2026,Kadawata
+105,1505032,0001505032,Intern - Video Content Creation and Digital Marketing (1),Sumathi Group,Please refer to the job advertisement.,Fri Jun 26 2026,Fri Jul 10 2026,
+106,1517044,0001517044,Graphic Designer (1),Softlogic Holdings PLC,Please see the advert for more details,Thu Jun 25 2026,Mon Jul 06 2026,
+107,1517019,0001517019,Web Development Project Coordinator,Amber Business Solutions (Pvt) Ltd,Please refer the vacancy,Thu Jun 25 2026,Thu Jul 09 2026,Batticaloa
+108,1517011,0001517011,Senior UX | UI Engineer,TempServe (Pvt) Ltd,Please refer the vacancy,Thu Jun 25 2026,Thu Jul 09 2026,Colombo 8
+109,1517005,0001517005,Software Engineer (.Net & React),Daiki Group,Please refer the vacancy,Thu Jun 25 2026,Thu Jul 09 2026,Colombo 3
+110,1517003,0001517003,Junior Data Analyst (1),Nawaloka Hospitals PLC,Please refer the advertisement.,Thu Jun 25 2026,Thu Jul 09 2026,
+111,1516995,0001516995,Intern - IT - Business Solutions (1),Hirdaramani - H CONNECT (PVT) LIMITED,Please refer the Job advert,Thu Jun 25 2026,Fri Jul 03 2026,
+112,1516908,0001516908,Software Engineer (PHP),Helios Ventures (Pvt) Ltd,Please refer the vacancy,Thu Jun 25 2026,Thu Jul 09 2026,All island
+113,1516767,0001516767,Graphic Designer,Gamma Interpharm (Pvt) Ltd,Please refer the vacancy,Thu Jun 25 2026,Thu Jul 09 2026,Colombo 2
+114,1516739,0001516739,Graphic Designer,GTC Xpress Digital Print Shop,Please refer the vacancy,Thu Jun 25 2026,Thu Jul 09 2026,Battaramulla
+115,1516696,0001516696,Front End Developer,Inqbaytor Pte Ltd,"Be a part of the team that is reengineering, digitizing and revolutionizing the travel industry.",Thu Jun 25 2026,Thu Jul 09 2026,Colombo 8
+116,1516687,0001516687,Flutter Mobile Developer,Inqbaytor Pte Ltd,"Be a part of the team that is reengineering, digitizing and revolutionizing the travel industry. We are the largest online  travel tech company in Sri Lank ....",Thu Jun 25 2026,Thu Jul 09 2026,Colombo 8
+117,1516681,0001516681,Quality Assurance Trainee,Inqbaytor Pte Ltd,"Be a part of the team that is reengineering, digitizing and revolutionizing the travel industry. We are the largest online  travel tech company in Sri Lank ....",Thu Jun 25 2026,Thu Jul 09 2026,Colombo 8
+118,1516667,0001516667,RPA Support Analyst,Innobot,Please refer the vacancy,Thu Jun 25 2026,Thu Jul 09 2026,Kotte
+119,1516664,0001516664,Information Security Officer (1),Softlogic Finance PLC,Kindly refer to the job advertisement,Thu Jun 25 2026,Thu Jul 09 2026,Colombo 10
+120,1516660,0001516660,AI Training Data Intern,ServiceTeam Ltd,Please refer the vacancy,Thu Jun 25 2026,Thu Jul 09 2026,Battaramulla
+121,1516639,0001516639,Associate Full Stack Software Developer,Analytical Instruments (Pvt) Ltd,Please refer the vacancy,Thu Jun 25 2026,Thu Jul 09 2026,Colombo 8
+122,1516618,0001516618,"Consultant, Associate (1)",Infor,Please click apply,Wed Jun 24 2026,Fri Jul 31 2026,
+123,1516602,0001516602,Mobile Developer - iOS (1),DirectFN,Please refer the advert,Wed Jun 24 2026,Wed Jul 08 2026,
+124,1516567,0001516567,Creative Designer,Acorn Leisure (Pvt) Ltd,Please refer the vacancy,Wed Jun 24 2026,Wed Jul 08 2026,Colombo 1
+125,1516545,0001516545,Junior Executive - Business Intelligence (BI),Advice Lab,Please refer the vacancy,Wed Jun 24 2026,Wed Jul 08 2026,Colombo 14
+126,1516494,0001516494,Tech Lead - AI,ORYSYS Limited,Please refer the vacancy,Wed Jun 24 2026,Wed Jul 08 2026,Colombo 3
+127,1516490,0001516490,Senior Data Engineer,ORYSYS Limited,Please refer the vacancy,Wed Jun 24 2026,Wed Jul 08 2026,Colombo 3
+128,1516488,0001516488,Data Engineer,ORYSYS Limited,Please refer the vacancy,Wed Jun 24 2026,Wed Jul 08 2026,Colombo 3
+129,1516397,0001516397,Senior UI | UX Designer,The Permalinks Limited,Please refer the vacancy,Wed Jun 24 2026,Wed Jul 08 2026,All island
+130,1516366,0001516366,Automotive Technical Data Specialist,Gapstars,Please refer the vacancy,Wed Jun 24 2026,Wed Jul 08 2026,Sri Jayawardanapura Kotte
+131,1516308,0001516308,Full Stack Developer | Creative Designer | Web Developer,Stalione Lanka (Pvt) Ltd,Please refer the vacancy,Wed Jun 24 2026,Wed Jul 08 2026,Pitakotte
+132,1516280,0001516280,Low Code Development Specialist (1),Ceylon Cold Stores PLC,Please refer the advert.,Wed Jun 24 2026,Wed Jul 08 2026,
+133,1516221,0001516221,Mobile Developer - Android  (1),DirectFN,"1. 3-5 years of Android application development experience.
+2. Strong proficiency in Kotlin and Android SDK.
+3. Hands-on experience with Jetpack Compose  ....",Wed Jun 24 2026,Wed Jul 08 2026,
+134,1516197,0001516197,IT Support Assistant  (1),DirectFN,Please refer the advert,Wed Jun 24 2026,Wed Jul 08 2026,
+135,1516161,0001516161,Creative Graphic Designer,Venture Hotel Supplies (Pvt) Ltd,Please refer the vacancy,Wed Jun 24 2026,Wed Jul 08 2026,Kiribathgoda
+136,1514705,0001514705,Executive - Data Analytics (1),Deloitte,Please click on the advertisement to apply.,Wed Jun 24 2026,Fri Jul 03 2026,Colombo 2
+137,1516074,0001516074,Senior Project Manager,Acentura Pvt Ltd,Please refer the attachment,Tue Jun 23 2026,Tue Jul 07 2026,Colombo
+138,1516064,0001516064,AI - Backend Tech Lead,HRC Labs,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo 8
+139,1516061,0001516061,AI - Backend Senior Software Engineer,HRC Labs,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo 8
+140,1516056,0001516056,AI - Backend Engineer,HRC Labs,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo 8
+141,1516052,0001516052,Senior Full Stack Engineer (.Net & Angular),Med Cube USA,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo 3
+142,1516050,0001516050,Product Support Engineer,Med Cube USA,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo 3
+143,1515941,0001515941,QA Interns & QA Automation Interns,Winnipeg Technology (Pvt) Ltd,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,All island
+144,1515934,0001515934,Associate Operations Analyst,Synergen Health (Pvt) Ltd,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Nugegoda
+145,1515929,0001515929,Full Stack Engineer - Java & React,Acentura Pvt Ltd,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo 4
+146,1515923,0001515923,Intern - UI | UX Engineer,MintHRM,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo 6
+147,1515909,0001515909,Chief Information Security Officer,Abans Finance PLC,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo 3
+148,1515872,0001515872,Creative Graphic Designer,Impress Events,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Nugegoda
+149,1515867,0001515867,Intern Full Stack Engineer (.Net & Angular),Med Cube USA,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo 3
+150,1515825,0001515825,Executive - Designer,Hayleys Group,"Click on the flyer to apply. 
+Join the World of Hayleys.",Tue Jun 23 2026,Tue Jul 07 2026,
+151,1515810,0001515810,Technical Lead (Python | AI Engineering),Allion Technologies (Pvt) Ltd,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo 5
+152,1515725,0001515725,Mobile QA Engineer,Company Name Withheld,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo
+153,1515720,0001515720,Nest JS Backend Developer,Company Name Withheld,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo
+154,1515678,0001515678,Senior Quality Assurance Engineer,Acentura (Pvt) Ltd,Please refer the vacancy,Tue Jun 23 2026,Tue Jul 07 2026,Colombo
+155,1515532,0001515532,Flutter Developer,Fortunaglobal (Pvt) Limited,Please refer the vacancy,Mon Jun 22 2026,Mon Jul 06 2026,Colombo 3
+156,1515529,0001515529,Java Developers,Fortunaglobal (Pvt) Limited,Please refer the vacancy,Mon Jun 22 2026,Mon Jul 06 2026,Colombo 3
+157,1515523,0001515523,Web Developer (Wordpress),Travelco Holidays,Please refer the vacancy,Mon Jun 22 2026,Mon Jul 06 2026,Colombo 7
+158,1515351,0001515351,IT Business Analyst,Oonewoo Tech (Pvt) Ltd,Please refer the vacancy,Mon Jun 22 2026,Mon Jul 06 2026,Kaduwela (Kaduwela)
+159,1515249,0001515249,Trainee IT Technician (1),Micronet Global Services (Pvt) Ltd,Urgent,Mon Jun 22 2026,Mon Jul 06 2026,Colombo 2
+160,1515247,0001515247,Graphic Designer & AI Video Creator | Editor,Emerging Media (Pvt) Ltd,Please refer the vacancy,Mon Jun 22 2026,Mon Jul 06 2026,Colombo 1
+161,1515157,0001515157,QA Engineer - AI Testing & Automation,HealthRecon Connect,Please refer the vacancy,Mon Jun 22 2026,Mon Jul 06 2026,Colombo 8
+162,1515105,0001515105,Project Management Internship,Enliven Designers,Please refer the vacancy,Mon Jun 22 2026,Mon Jul 06 2026,Colombo 1
+163,1515037,0001515037,Data & AI Solutions Engineer (1),Ceylon Cold Stores PLC,Please refer the advertisement.,Sat Jun 20 2026,Sat Jul 04 2026,
+164,1515017,0001515017,Graphic Designer & Video Editor,Asia Plus,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,
+165,1514991,0001514991,Intern - Creative Graphic Design (1),MAS Holdings,Click on advert to apply,Fri Jun 19 2026,Fri Jul 03 2026,Pelawatte (Battaramulla)
+166,1514891,0001514891,Interns - AI | C++ | Quantitative Research (QR),Talent Edge Global,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,
+167,1514852,0001514852,Graphic Designer,Bubble Mania,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Malabe
+168,1514848,0001514848,Intern Project Management,OXO Technologies (Pvt) Ltd,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 8
+169,1514715,0001514715,Full Stack Web/Core PHP Developer,Cohere,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,
+170,1514704,0001514704,Senior AI Solutions Engineer,Blue Chip Technical Services (Pvt) Ltd,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Nugegoda
+171,1514699,0001514699,Intern - Data Analytics  (1),Deloitte,Please click on the advertisement to apply.,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 2
+172,1514627,0001514627,Graphic Designer / Web Developer / Software Engineer,Alora International (Pvt) Ltd,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,"Colombo 3, Pitakotte"
+173,1514612,0001514612,Software Engineer,Windsor Gaming Company (Pvt) Ltd,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 3
+174,1514588,0001514588,QA Engineer,RomeoHR,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 6
+175,1514586,0001514586,Technical Analyst,RomeoHR,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 6
+176,1514579,0001514579,Graphic Designer,Ultra Foils & Labels,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Digana
+177,1514518,0001514518,Junior GRC (Goverance | Risk & Compliance) Specialist,Connex Information Technologies Pte Ltd,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 4
+178,1514515,0001514515,Junior SOC Analyst,Connex Information Technologies Pte Ltd,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 3
+179,1514512,0001514512,Senior GRC (Goverance | Risk & Compliance) Specialist,Connex Information Technologies Pte Ltd,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 3
+180,1514509,0001514509,Senior SOC Analyst,Connex Information Technologies Pte Ltd,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 3
+181,1514504,0001514504,SOC Manager,Connex Information Technologies Pte Ltd,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 3
+182,1514498,0001514498,Intern GRC (Goverance | Risk & Compliance) Specialist,Connex Information Technologies Pte Ltd,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 3
+183,1514151,0001514151,Assistant Director | Software Engineering,Sri Lanka Tourism Development Authority,Please refer the vacancy,Fri Jun 19 2026,Fri Jul 03 2026,Colombo 3
+184,1514210,0001514210,Data Engineer - Python,Asiawise Lanka (Pvt) Ltd,Please refer the vacancy,Thu Jun 18 2026,Sat Jul 18 2026,All island
+185,1514166,0001514166,Cloud Engineer (1),John Keells IT,Please refer the advert,Thu Jun 18 2026,Sat Jul 18 2026,Colombo 2
+186,1513576,0001513576,Data Analyst (1),Hirdaramani - H CONNECT (PVT) LIMITED,Please refer the Job advert,Wed Jun 17 2026,Fri Jul 03 2026,
+187,1512476,0001512476,Intern ? Cloud Solutions and Services (Data & AI) (1),John Keells IT,Please refer the advert.,Mon Jun 15 2026,Wed Jul 15 2026,Colombo 2
+188,1511751,0001511751,Digital Operations Executive,Bright Achievers Migration Consultant,Please refer the vacancy,Fri Jun 12 2026,Sun Jul 12 2026,"Ja-Ela, Nittambuwa"
+189,1511095,0001511095,Senior Software Engineer ? Angular & .NET (1),John Keells IT,Please refer the advert,Thu Jun 11 2026,Sat Jul 11 2026,Colombo 2
+190,1510858,0001510858,Intern ? Cloud Solutions & Services (Modern Work Place) (1),John Keells IT,Please refer the advert,Wed Jun 10 2026,Fri Jul 10 2026,Colombo 2
+191,1510842,0001510842,Associate Tech Lead (1),John Keells IT,Please refer the advert,Wed Jun 10 2026,Fri Jul 10 2026,Colombo 2
+192,1506912,0001506912,Quality Assurance Engineer (1),Browns Group Of Companies,Quality Assurance Engineer,Mon Jun 01 2026,Fri Aug 28 2026,
+193,1500379,0001500379,SOFTWARE ENGINEER / ABAP DEVELOPER - COLOMBO 5 (3),Maritime International Limited,We are sourcing on behalf of our client  unequivocally the largest tile manufacturer in the country. Please refer the below advertisement for details.,Thu May 14 2026,Fri Jul 03 2026,Colombo 5
+194,1497679,0001497679,Trainee Field Engineer- Browns IT (1),Browns Group Of Companies,Trainee Field Engineer- Browns IT,Thu May 07 2026,Tue Jul 14 2026,

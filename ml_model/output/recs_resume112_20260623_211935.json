@@ -1,0 +1,936 @@
+{
+  "resume_id": 112,
+  "candidate": "Senuth De Silva",
+  "pipeline": "TF-IDF + Word2Vec + Skill Gap + Career Role Prediction",
+  "recommendations": [
+    {
+      "job_id": 1005,
+      "title": "Delivery Manager (1)",
+      "company": "DirectFN",
+      "location": "",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001482177",
+      "source": "topjobs",
+      "tfidf_score": 0.1997,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5438,
+      "tfidf_score_pct": 20.0,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "project management"
+      ],
+      "matched_skills": [
+        "project management"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 54.4,
+      "rank": 1,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1557,
+      "title": "Planning Engineer",
+      "company": "SwiftCore",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001492189",
+      "source": "topjobs",
+      "tfidf_score": 0.0757,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5193,
+      "tfidf_score_pct": 7.6,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "planning"
+      ],
+      "matched_skills": [
+        "planning"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 51.9,
+      "rank": 2,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1606,
+      "title": "Senior Cloud & Infrastructure Engineer (Microsoft & Azure)",
+      "company": "Gardner Smith Information Technology (Pvt) Ltd",
+      "location": "Kaduwela (Kaduwela)",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001490572",
+      "source": "topjobs",
+      "tfidf_score": 0.0705,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5166,
+      "tfidf_score_pct": 7.1,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "azure"
+      ],
+      "matched_skills": [
+        "azure"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 51.7,
+      "rank": 3,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1703,
+      "title": "DevOps Engineer (Embedded Software) | Senior DevOps Engineer (Embedded Software) | DevOps Tech Lead (Embedded Software)",
+      "company": "Invenza Digital Technologies (Pvt) Ltd",
+      "location": "Colombo 1",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001500096",
+      "source": "topjobs",
+      "tfidf_score": 0.0332,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4969,
+      "tfidf_score_pct": 3.3,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "devops"
+      ],
+      "matched_skills": [
+        "devops"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "ml_score": 0.9982,
+      "ml_score_pct": 99.8,
+      "hybrid_score_pct": 49.7,
+      "rank": 4,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1652,
+      "title": "DevOps Engineer (1)",
+      "company": "DirectFN",
+      "location": "",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001501492",
+      "source": "topjobs",
+      "tfidf_score": 0.0275,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4928,
+      "tfidf_score_pct": 2.7,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "devops"
+      ],
+      "matched_skills": [
+        "devops"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "ml_score": 0.9926,
+      "ml_score_pct": 99.3,
+      "hybrid_score_pct": 49.3,
+      "rank": 5,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1455,
+      "title": "Software Engineer (Python) | Senior Software Engineer (Python)",
+      "company": "Innobot Health",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001494580",
+      "source": "topjobs",
+      "tfidf_score": 0.0256,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4921,
+      "tfidf_score_pct": 2.6,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "ml_score": 0.9943,
+      "ml_score_pct": 99.4,
+      "hybrid_score_pct": 49.2,
+      "rank": 6,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1120,
+      "title": "DevOps Engineer",
+      "company": "eBEYONDS",
+      "location": "Pannipitiya",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001479814",
+      "source": "topjobs",
+      "tfidf_score": 0.0224,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4914,
+      "tfidf_score_pct": 2.2,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "devops"
+      ],
+      "matched_skills": [
+        "devops"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "ml_score": 0.9984,
+      "ml_score_pct": 99.8,
+      "hybrid_score_pct": 49.1,
+      "rank": 7,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1164,
+      "title": "DevOps Engineer",
+      "company": "Ideahub (Pvt) Ltd",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001478655",
+      "source": "topjobs",
+      "tfidf_score": 0.0221,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4911,
+      "tfidf_score_pct": 2.2,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "devops"
+      ],
+      "matched_skills": [
+        "devops"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "ml_score": 0.9983,
+      "ml_score_pct": 99.8,
+      "hybrid_score_pct": 49.1,
+      "rank": 8,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1206,
+      "title": "DevOps Engineer",
+      "company": "Seren IT Services",
+      "location": "Colombo 4",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001477256",
+      "source": "topjobs",
+      "tfidf_score": 0.0207,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4904,
+      "tfidf_score_pct": 2.1,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "devops"
+      ],
+      "matched_skills": [
+        "devops"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "ml_score": 0.9984,
+      "ml_score_pct": 99.8,
+      "hybrid_score_pct": 49.0,
+      "rank": 9,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1720,
+      "title": "Senior Software Engineer - Python",
+      "company": "Insync Technologies",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001499587",
+      "source": "topjobs",
+      "tfidf_score": 0.0206,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4904,
+      "tfidf_score_pct": 2.1,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "ml_score": 0.9986,
+      "ml_score_pct": 99.9,
+      "hybrid_score_pct": 49.0,
+      "rank": 10,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1229,
+      "title": "IT Intern",
+      "company": "Dilmah Ceylon Tea Company",
+      "location": "Peliyagoda, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/511246",
+      "source": "rooster",
+      "tfidf_score": 0.3011,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4181,
+      "tfidf_score_pct": 30.1,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 2,
+      "job_skills": [
+        "communication",
+        "problem-solving"
+      ],
+      "matched_skills": [
+        "communication",
+        "problem-solving"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 41.8,
+      "rank": 11,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1227,
+      "title": "Intern Business Analyst",
+      "company": "Twist Digital",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 15,000 - 20,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/516208",
+      "source": "rooster",
+      "tfidf_score": 0.2536,
+      "word2vec_score": 0.0,
+      "skill_score": 0.5294,
+      "hybrid_score": 0.3546,
+      "tfidf_score_pct": 25.4,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 53,
+      "job_skills_count": 17,
+      "job_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "business analysis",
+        "collaboration",
+        "communication",
+        "documentation",
+        "excel",
+        "jira",
+        "motivated",
+        "passionate",
+        "planning",
+        "proactive",
+        "problem-solving",
+        "project management",
+        "research",
+        "stakeholder",
+        "verbal communication"
+      ],
+      "matched_skills": [
+        "collaboration",
+        "communication",
+        "documentation",
+        "jira",
+        "motivated",
+        "passionate",
+        "planning",
+        "problem-solving",
+        "project management"
+      ],
+      "missing_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "business analysis",
+        "excel",
+        "proactive",
+        "research",
+        "stakeholder",
+        "verbal communication"
+      ],
+      "role_match": false,
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 35.5,
+      "rank": 12,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1248,
+      "title": "Community Management & Partnerships Intern",
+      "company": "Metana",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 40,000 - 45,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514285",
+      "source": "rooster",
+      "tfidf_score": 0.0911,
+      "word2vec_score": 0.0,
+      "skill_score": 0.7143,
+      "hybrid_score": 0.3478,
+      "tfidf_score_pct": 9.1,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 71,
+      "job_skills_count": 7,
+      "job_skills": [
+        "collaboration",
+        "communication",
+        "creativity",
+        "documentation",
+        "passionate",
+        "problem-solving",
+        "spark"
+      ],
+      "matched_skills": [
+        "collaboration",
+        "communication",
+        "documentation",
+        "passionate",
+        "problem-solving"
+      ],
+      "missing_skills": [
+        "creativity",
+        "spark"
+      ],
+      "role_match": false,
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 34.8,
+      "rank": 13,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1260,
+      "title": "Intern - Software Engineer",
+      "company": "Twist Digital",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 15,000 - 25,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/508375",
+      "source": "rooster",
+      "tfidf_score": 0.1299,
+      "word2vec_score": 0.0,
+      "skill_score": 0.4286,
+      "hybrid_score": 0.3469,
+      "tfidf_score_pct": 13.0,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 43,
+      "job_skills_count": 14,
+      "job_skills": [
+        "attention to detail",
+        "communication",
+        "dedicated",
+        "express",
+        "git",
+        "github",
+        "javascript",
+        "mongodb",
+        "motivated",
+        "node.js",
+        "passionate",
+        "planning",
+        "problem-solving",
+        "reactjs"
+      ],
+      "matched_skills": [
+        "communication",
+        "github",
+        "motivated",
+        "passionate",
+        "planning",
+        "problem-solving"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "dedicated",
+        "express",
+        "git",
+        "javascript",
+        "mongodb",
+        "node.js",
+        "reactjs"
+      ],
+      "role_match": true,
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 34.7,
+      "rank": 14,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1255,
+      "title": "Planter Trainees",
+      "company": "Kahawatte Plantations PLC",
+      "location": "Kahawatta, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/512580",
+      "source": "rooster",
+      "tfidf_score": 0.0413,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.3428,
+      "tfidf_score_pct": 4.1,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 3,
+      "job_skills": [
+        "leadership",
+        "motivated",
+        "passionate"
+      ],
+      "matched_skills": [
+        "leadership",
+        "motivated",
+        "passionate"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "ml_score": 0.9947,
+      "ml_score_pct": 99.5,
+      "hybrid_score_pct": 34.3,
+      "rank": 15,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1258,
+      "title": "Internship - Software Engineer Full Stack",
+      "company": "Axceera (Pvt) Ltd",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/509006",
+      "source": "rooster",
+      "tfidf_score": 0.1202,
+      "word2vec_score": 0.0,
+      "skill_score": 0.4,
+      "hybrid_score": 0.3395,
+      "tfidf_score_pct": 12.0,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 40,
+      "job_skills_count": 15,
+      "job_skills": [
+        "aws",
+        "collaboration",
+        "communication",
+        "dynamodb",
+        "express",
+        "javascript",
+        "mongodb",
+        "motivated",
+        "mysql",
+        "node.js",
+        "passionate",
+        "postgresql",
+        "react",
+        "sql",
+        "team player"
+      ],
+      "matched_skills": [
+        "aws",
+        "collaboration",
+        "communication",
+        "motivated",
+        "passionate",
+        "team player"
+      ],
+      "missing_skills": [
+        "dynamodb",
+        "express",
+        "javascript",
+        "mongodb",
+        "mysql",
+        "node.js",
+        "postgresql",
+        "react",
+        "sql"
+      ],
+      "role_match": true,
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 33.9,
+      "rank": 16,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1236,
+      "title": "Intern - Software Engineering",
+      "company": "Zegates International Private Limited",
+      "location": "Colombo 05, Colombo, Sri Lanka",
+      "salary": "LKR 25,000 - 40,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514242",
+      "source": "rooster",
+      "tfidf_score": 0.0997,
+      "word2vec_score": 0.0,
+      "skill_score": 0.4286,
+      "hybrid_score": 0.3395,
+      "tfidf_score_pct": 10.0,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 43,
+      "job_skills_count": 14,
+      "job_skills": [
+        "communication",
+        "creativity",
+        "flutter",
+        "golang",
+        "leadership",
+        "logical thinking",
+        "motivated",
+        "node.js",
+        "passionate",
+        "problem-solving",
+        "python",
+        "react",
+        "react native",
+        "solid"
+      ],
+      "matched_skills": [
+        "communication",
+        "leadership",
+        "motivated",
+        "passionate",
+        "problem-solving",
+        "python"
+      ],
+      "missing_skills": [
+        "creativity",
+        "flutter",
+        "golang",
+        "logical thinking",
+        "node.js",
+        "react",
+        "react native",
+        "solid"
+      ],
+      "role_match": true,
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 34.0,
+      "rank": 17,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1233,
+      "title": "Intern UI/UX Engineer (Hybrid)",
+      "company": "Twist Digital",
+      "location": "Colombo, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514716",
+      "source": "rooster",
+      "tfidf_score": 0.0991,
+      "word2vec_score": 0.0,
+      "skill_score": 0.4286,
+      "hybrid_score": 0.3394,
+      "tfidf_score_pct": 9.9,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 43,
+      "job_skills_count": 7,
+      "job_skills": [
+        "attention to detail",
+        "collaboration",
+        "communication",
+        "css",
+        "html",
+        "problem-solving",
+        "research"
+      ],
+      "matched_skills": [
+        "collaboration",
+        "communication",
+        "problem-solving"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "css",
+        "html",
+        "research"
+      ],
+      "role_match": true,
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 33.9,
+      "rank": 18,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1262,
+      "title": "Intern/Junior Quality Assurance Engineer",
+      "company": "Twist Digital",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/507857",
+      "source": "rooster",
+      "tfidf_score": 0.1303,
+      "word2vec_score": 0.0,
+      "skill_score": 0.3636,
+      "hybrid_score": 0.3355,
+      "tfidf_score_pct": 13.0,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 36,
+      "job_skills_count": 11,
+      "job_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "communication",
+        "css",
+        "html",
+        "javascript",
+        "jira",
+        "passionate",
+        "postman",
+        "project management",
+        "selenium"
+      ],
+      "matched_skills": [
+        "communication",
+        "jira",
+        "passionate",
+        "project management"
+      ],
+      "missing_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "css",
+        "html",
+        "javascript",
+        "postman",
+        "selenium"
+      ],
+      "role_match": true,
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 33.5,
+      "rank": 19,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1276,
+      "title": "Academic Internships / Stages Académiques - Douala",
+      "company": "Glotelho",
+      "location": "Douala, Cameroon",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/2614",
+      "source": "rooster",
+      "tfidf_score": 0.0097,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.3345,
+      "tfidf_score_pct": 1.0,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "documentation"
+      ],
+      "matched_skills": [
+        "documentation"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "ml_score": 0.9983,
+      "ml_score_pct": 99.8,
+      "hybrid_score_pct": 33.4,
+      "rank": 20,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    }
+  ]
+}

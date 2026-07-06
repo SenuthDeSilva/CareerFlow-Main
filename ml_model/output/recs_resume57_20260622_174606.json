@@ -1,0 +1,1086 @@
+{
+  "resume_id": 57,
+  "candidate": "Rathnavel Sutheshika",
+  "pipeline": "TF-IDF + Word2Vec + Skill Gap + Career Role Prediction",
+  "recommendations": [
+    {
+      "job_id": 1017,
+      "title": "Senior Front end Developer (1)",
+      "company": "DirectFN",
+      "location": "Rajagiriya",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001480722",
+      "source": "topjobs",
+      "tfidf_score": 0.1012,
+      "word2vec_score": 0.3962,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5235,
+      "tfidf_score_pct": 10.1,
+      "word2vec_score_pct": 39.6,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "javascript"
+      ],
+      "matched_skills": [
+        "javascript"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Senior Front end Developer (1) ?\tBachelor?s degree in Software Engineering, Computer Science, or related field.\n?\t2+ years of experience in web development using modern JavaScript frame .... DirectFN Rajagiriya",
+      "ml_score": 0.9977,
+      "ml_score_pct": 99.8,
+      "hybrid_score_pct": 52.4,
+      "rank": 1,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1150,
+      "title": "Mid-Level Backend Developer (Python)",
+      "company": "Seren IT Services",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001477264",
+      "source": "topjobs",
+      "tfidf_score": 0.057,
+      "word2vec_score": 0.289,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4952,
+      "tfidf_score_pct": 5.7,
+      "word2vec_score_pct": 28.9,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Mid-Level Backend Developer (Python) Please refer the vacancy Seren IT Services Colombo",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 49.5,
+      "rank": 2,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1029,
+      "title": "Technical Lead (Python) (1)",
+      "company": "Mobizz Elite (Pvt) Ltd",
+      "location": "",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001480472",
+      "source": "topjobs",
+      "tfidf_score": 0.0533,
+      "word2vec_score": 0.2865,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4906,
+      "tfidf_score_pct": 5.3,
+      "word2vec_score_pct": 28.6,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Technical Lead (Python) (1) please find the Job advert Mobizz Elite (Pvt) Ltd",
+      "ml_score": 0.9849,
+      "ml_score_pct": 98.5,
+      "hybrid_score_pct": 49.1,
+      "rank": 3,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1174,
+      "title": "Data Engineer - Python",
+      "company": "Asiawise Lanka (Pvt) Ltd",
+      "location": "All island",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001473674",
+      "source": "topjobs",
+      "tfidf_score": 0.1015,
+      "word2vec_score": 0.2361,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4832,
+      "tfidf_score_pct": 10.2,
+      "word2vec_score_pct": 23.6,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Data Engineer - Python Please refer the vacancy Asiawise Lanka (Pvt) Ltd All island",
+      "ml_score": 0.8915,
+      "ml_score_pct": 89.1,
+      "hybrid_score_pct": 48.3,
+      "rank": 4,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1038,
+      "title": "Senior Java Backend Developer (Remote - Sri Lanka)",
+      "company": "Cloofd Solutions Inc",
+      "location": "All island",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001480261",
+      "source": "topjobs",
+      "tfidf_score": 0.0198,
+      "word2vec_score": 0.3015,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4498,
+      "tfidf_score_pct": 2.0,
+      "word2vec_score_pct": 30.1,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "java"
+      ],
+      "matched_skills": [
+        "java"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Senior Java Backend Developer (Remote - Sri Lanka) Please refer the vacancy Cloofd Solutions Inc All island",
+      "ml_score": 0.8322,
+      "ml_score_pct": 83.2,
+      "hybrid_score_pct": 45.0,
+      "rank": 5,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 978,
+      "title": "Senior Software Engineer - Java",
+      "company": "Hitachi Digital Payment Solutions Limited",
+      "location": "Colombo 6",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001481515",
+      "source": "topjobs",
+      "tfidf_score": 0.0225,
+      "word2vec_score": 0.2365,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4239,
+      "tfidf_score_pct": 2.2,
+      "word2vec_score_pct": 23.6,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "java"
+      ],
+      "matched_skills": [
+        "java"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Senior Software Engineer - Java Please refer the vacancy Hitachi Digital Payment Solutions Limited Colombo 6",
+      "ml_score": 0.7373,
+      "ml_score_pct": 73.7,
+      "hybrid_score_pct": 42.4,
+      "rank": 6,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1117,
+      "title": "Python Architect (1)",
+      "company": "George Bernard (Pvt) Ltd",
+      "location": "",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001478455",
+      "source": "topjobs",
+      "tfidf_score": 0.0453,
+      "word2vec_score": 0.1703,
+      "skill_score": 1.0,
+      "hybrid_score": 0.4203,
+      "tfidf_score_pct": 4.5,
+      "word2vec_score_pct": 17.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Python Architect (1) Please refer to the job description. George Bernard (Pvt) Ltd",
+      "ml_score": 0.7177,
+      "ml_score_pct": 71.8,
+      "hybrid_score_pct": 42.0,
+      "rank": 7,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1027,
+      "title": "Senior SQL Developer (1)",
+      "company": "CMS (Pvt) Ltd",
+      "location": "Colombo 2",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001421034",
+      "source": "topjobs",
+      "tfidf_score": 0.0155,
+      "word2vec_score": 0.2106,
+      "skill_score": 1.0,
+      "hybrid_score": 0.3864,
+      "tfidf_score_pct": 1.6,
+      "word2vec_score_pct": 21.1,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "sql"
+      ],
+      "matched_skills": [
+        "sql"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Senior SQL Developer (1) Please click on the advertisement to apply CMS (Pvt) Ltd Colombo 2",
+      "ml_score": 0.5778,
+      "ml_score_pct": 57.8,
+      "hybrid_score_pct": 38.6,
+      "rank": 8,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 973,
+      "title": "Full-Stack Tech Lead (Bubble.io, Python, AWS, AI/ML Experience a Plus)",
+      "company": "Efficient Frontiers International",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001481537",
+      "source": "topjobs",
+      "tfidf_score": 0.0865,
+      "word2vec_score": 0.2998,
+      "skill_score": 0.5,
+      "hybrid_score": 0.3831,
+      "tfidf_score_pct": 8.6,
+      "word2vec_score_pct": 30.0,
+      "skill_score_pct": 50,
+      "job_skills_count": 2,
+      "job_skills": [
+        "aws",
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [
+        "aws"
+      ],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Full-Stack Tech Lead (Bubble.io, Python, AWS, AI/ML Experience a Plus) Please refer the vacancy Efficient Frontiers International Colombo",
+      "ml_score": 0.9798,
+      "ml_score_pct": 98.0,
+      "hybrid_score_pct": 38.3,
+      "rank": 9,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 986,
+      "title": "Intern - Data Science & Analytics (1)",
+      "company": "MAS Holdings",
+      "location": "Biyagama",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001481333",
+      "source": "topjobs",
+      "tfidf_score": 0.0761,
+      "word2vec_score": 0.3756,
+      "skill_score": 1.0,
+      "hybrid_score": 0.3714,
+      "tfidf_score_pct": 7.6,
+      "word2vec_score_pct": 37.6,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "data science"
+      ],
+      "matched_skills": [
+        "data science"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Intern - Data Science & Analytics (1) Click on the advert to apply. MAS Holdings Biyagama",
+      "ml_score": 0.9979,
+      "ml_score_pct": 99.8,
+      "hybrid_score_pct": 37.1,
+      "rank": 10,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1216,
+      "title": "Student Success Instructor - Intern",
+      "company": "Metana",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 45,000 - 50,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/512774",
+      "source": "rooster",
+      "tfidf_score": 0.1393,
+      "word2vec_score": 0.4,
+      "skill_score": 0.5455,
+      "hybrid_score": 0.3526,
+      "tfidf_score_pct": 13.9,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 55,
+      "job_skills_count": 11,
+      "job_skills": [
+        "collaboration",
+        "communication",
+        "java",
+        "leadership",
+        "mentoring",
+        "oop",
+        "passionate",
+        "postgresql",
+        "problem solving",
+        "spring",
+        "spring boot"
+      ],
+      "matched_skills": [
+        "collaboration",
+        "communication",
+        "java",
+        "leadership",
+        "passionate",
+        "problem solving"
+      ],
+      "missing_skills": [
+        "mentoring",
+        "oop",
+        "postgresql",
+        "spring",
+        "spring boot"
+      ],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Student Success Instructor - Intern About the Role:\nAs a Student Success Instructor Intern at Metana, you’ll play a dual role - part mentor, part developer. You’ll guide aspiring engineers through the fundamentals of Java, Object-Oriented Programming (OOP), and System Design, while also contributing directly to the Metana Platform, our in-house software that powers thousands of learners globally.\nThis isn’t just a teaching opportunity - it’s a chance to work on production-level systems, understand real architectural trade-offs, and help students grasp those same principles through hands-on examples and projects.\nStudent Mentorship & Technical Guidance\nEngage with Development\nLearning Experience Enhancement\nProgress Tracking & Feedback\nCommunity Building\nSkills:\nExperience:\nMindset:\nReal-World Engineering Experience:Work alongside experienced developers, working with modern backend tools and frameworks.\nDeeper Technical Mastery:Reinforce your own expertise in Java and System Design by teaching and applying it simultaneously.\nMentorship & Communication Skills:Develop the ability to explain complex concepts clearly - a skill highly valued in engineering leadership roles.\nCareer Acceleration:Get exposure to production-grade systems, developer collaboration workflows, and the startup culture behind Metana’s global bootcamps.\n- Support students through coreJava, OOP, and System Designconcepts including scalability, concurrency, and data structures.\n- Provide one-on-one mentorship, helping learners debug, structure, and optimize their code for real-world systems.\n- Collaborate with the engineering team on contributing to new features, bug fixes, and improvements.\n- Gain hands-on experience inFullstack development,Spring Boot, andmicroservice-oriented architecture.\n- Co-design learning content, examples, and exercises that make complex topics clear and engaging.\n- Test and implement new teaching and automation strategies to improve the learning journey.\n- Track student progress, identify knowledge gaps, and provide constructive technical feedback.\n- Engage with learners via Slack and Discord, fostering a collaborative, growth-driven learning environment.\n- Strong proficiency inJavaScript,Java,OOP, andSystem Designconcepts.\n- Familiarity withAWS,PostgreSQL, andRESTful APIs.\n- Excellent communication skills and a genuine passion for mentoring.\n- Currently pursuing or recently completed a degree inComputer Science,Software Engineering, or a related discipline.\n- Prior teaching, tutoring, or mentoring experience is an advantage but not mandatory.\n- Passionate about both software development and education.\n- Adaptable, collaborative, and eager to learn through hands-on problem solving. Metana Colombo, Sri Lanka",
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 35.3,
+      "rank": 11,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1222,
+      "title": "Intern - Digital Marketing",
+      "company": "Twist Digital",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 15,000 - 30,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/508630",
+      "source": "rooster",
+      "tfidf_score": 0.0715,
+      "word2vec_score": 0.3984,
+      "skill_score": 0.6,
+      "hybrid_score": 0.3516,
+      "tfidf_score_pct": 7.1,
+      "word2vec_score_pct": 39.8,
+      "skill_score_pct": 60,
+      "job_skills_count": 5,
+      "job_skills": [
+        "attention to detail",
+        "collaboration",
+        "communication",
+        "passionate",
+        "proactive"
+      ],
+      "matched_skills": [
+        "collaboration",
+        "communication",
+        "passionate"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "proactive"
+      ],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Intern - Digital Marketing Twist Digital is seeking a proactive and detail-orientedDigital Marketing Internto join our growing team. This is a fantastic opportunity for someone looking to gain hands-on experience in the world of digital marketing. As an intern, you’ll assist in creating and managing ad accounts, setting up campaigns, tracking performance, and supporting the execution of various digital strategies.\nIf you're passionate about marketing, eager to learn, and ready to dive into real-world projects, we'd love to hear from you!\nJoin Us!This is your chance to kickstart your marketing career and gain hands-on experience across multiple domains! At Twist Digital, we empower our team to learn, grow, and contribute meaningfully to impactful campaigns. If you are a driven and enthusiastic individual ready to explore the dynamic world of digital marketing, this is the place for you.\n- Assist insetting up ad accountsandcreating campaignson platforms such asMeta (Facebook/Instagram) AdsandGoogle Ads.\n- Support the team inmonitoring campaign performance, analyzing key metrics, and reporting on results.\n- Help track and interpret data using tools likeMeta Pixel,Google Analytics, and other tracking platforms.\n- Collaborate with the team tobrainstorm and plan campaigns, and ensure timely execution of deliverables.\n- Contribute to identifying opportunities tooptimize ad performance and targeting.\n- Support in preparing performancereports and presentationswith actionable insights.\n- Stay up to date withdigital marketing trends, tools, and platform updates.\n- Work closely with content and design teams to ensure brand consistency across campaigns.\n- Basic understanding or interest inMeta AdsandGoogle Adsplatforms.\n- Strong attention to detail and an eagerness to learn in a fast-paced environment.\n- Familiarity with tools likeGoogle Analytics,Meta Business Suite, or any ad tracking tools is a plus (training will be provided).\n- Good communication and collaboration skills.\n- Comfortable working with data and performance metrics.\n- Ability to manage multiple tasks and meet deadlines.\n- Currently pursuing or recently completed a degree inMarketing,Business,Communications, or a related field. Twist Digital Colombo, Sri Lanka",
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 35.2,
+      "rank": 12,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1197,
+      "title": "AI Training Specialist – Intern / Trainee",
+      "company": "eBirth Business Academy (PVT) Ltd",
+      "location": "Kegalle Town, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/515400",
+      "source": "rooster",
+      "tfidf_score": 0.2556,
+      "word2vec_score": 0.4,
+      "skill_score": 0.4,
+      "hybrid_score": 0.3447,
+      "tfidf_score_pct": 25.6,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 40,
+      "job_skills_count": 10,
+      "job_skills": [
+        "attention to detail",
+        "data science",
+        "documentation",
+        "gemini",
+        "machine learning",
+        "motivated",
+        "passionate",
+        "prompt engineering",
+        "python",
+        "research"
+      ],
+      "matched_skills": [
+        "data science",
+        "machine learning",
+        "passionate",
+        "python"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "documentation",
+        "gemini",
+        "motivated",
+        "prompt engineering",
+        "research"
+      ],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "AI Training Specialist – Intern / Trainee eBirth Business Academy is seeking a motivated and enthusiastic AI Training Specialist (Intern/Trainee) to join our growing team. This is an exciting opportunity for individuals passionate about Artificial Intelligence, technology, and education to gain hands-on experience in the rapidly evolving AI landscape.\nAI trainers in Sri Lanka annotate datasets, review AI outputs, and refine prompts for language models, often in niches like South Asian linguistics and regional technology. With growing demand from BPO hubs and offshore AI firms, this role places you at the forefront of one of the most in-demand career paths in the country.\nPosition :AI Training Specialist – Intern / Trainee\nDepartment :AI & Productivity / Data & Technology\nLocation :eBirth Business Academy – Kegalle, Sri Lanka\nEmployment Type :Internship / Traineeship (Full-time)\nDuration :6 Months (with potential for extension)\nWorking Hours :8.30 AM to 5.30 PM\nKey Responsibilities\nData Annotation & AI Quality Assurance:\n• Annotate datasets and label training data for AI and machine learning models\n• Review and evaluate AI-generated outputs for accuracy, relevance, and quality\n• Perform quality checks on AI content with emphasis on cultural relevance for South Asian and Sri Lankan contexts\nPrompt Engineering & Optimization:\n• Refine and optimize prompts for large language models (LLMs) to improve output quality\n• Develop, test, and document effective prompting strategies and frameworks\n• Create localized prompts in English and Sinhala/Tamil for region-specific AI projects\nAI Research & Evaluation:\n• Test and evaluate AI tools and platforms for text generation, image creation, research, and productivity\n• Conduct comparative analysis across AI platforms for performance, accuracy, and bias\n• Stay up to date with emerging AI trends, tools, and industry developments\nContent & Documentation:\n• Assist in creating AI-related training materials, guides, and documentation\n• Support content development for educational and business applications of AI\n• Maintain organized records of workflows, best practices, and troubleshooting procedures\nRequirements\nEssential:\n• Currently pursuing or recently completed a degree/diploma in IT, Computer Science, Data Science, Education, Business, or a related field\n• Proficiency in English (written and spoken); Sinhala language skills are a strong advantage for localized projects\n• Basic computing skills and familiarity with tools like Google Sheets, Microsoft Office, or similar productivity software\n• Strong interest in Artificial Intelligence and emerging technologies\n• Reliable internet connection and ability to work flexible hours (including for US/EU client time zones if required)\n• Attention to detail and a willingness to learn\nDesirable (Not Mandatory):\n• Prior experience with any AI tools (ChatGPT, Claude, Gemini, Perplexity, etc.)\n• Basic understanding of prompt engineering or content creation workflows\n• Familiarity with basic Python or any programming language\n• Experience in data entry, QA, call centers, or BPO environments\n• Background in social media content creation, graphic design, or video editing eBirth Business Academy (PVT) Ltd Kegalle Town, Sri Lanka",
+      "ml_score": 0.9985,
+      "ml_score_pct": 99.9,
+      "hybrid_score_pct": 34.5,
+      "rank": 13,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1218,
+      "title": "Planter Trainees",
+      "company": "Kahawatte Plantations PLC",
+      "location": "Kahawatta, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/512580",
+      "source": "rooster",
+      "tfidf_score": 0.0565,
+      "word2vec_score": 0.4,
+      "skill_score": 0.6667,
+      "hybrid_score": 0.3331,
+      "tfidf_score_pct": 5.7,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 67,
+      "job_skills_count": 3,
+      "job_skills": [
+        "leadership",
+        "motivated",
+        "passionate"
+      ],
+      "matched_skills": [
+        "leadership",
+        "passionate"
+      ],
+      "missing_skills": [
+        "motivated"
+      ],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Planter Trainees We are inviting passionate and driven individuals to embark on a rewarding career journey as Planter Trainees in the Nawalapitiya and Kahawatte regions. Kahawatte Plantations PLC, a leading regional plantation company and proud subsidiary of the MJF Group, globally recognized for the Dilmah tea brand and its unwavering commitment to quality and sustainability, offers aspiring trainees the opportunity to gain hands-on experience in the plantation sector while cultivating their professional growth.\nThe Ideal Candidate Should Possess\nWe provide comprehensive training in agricultural practices, estate operations, and management, offering you the chance to contribute to the success of a prestigious Sri Lankan company. If you are a motivated, results-driven individual with a passion for agriculture and leadership, we invite you to apply.\n- Passed GCE Advanced Level examination in Agri / Bio Science or Mathematics streams\n- Plantation related diploma or any other qualification will be added advantage\n- Fluency in English is a must and Tamil will be added advantage\n- Age between 19 – 25 Years\n- Possessstrong extracurricular achievements, withsports competencybeing essential Kahawatte Plantations PLC Kahawatta, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 33.3,
+      "rank": 14,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1211,
+      "title": "Community Management & Partnerships Intern",
+      "company": "Metana",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 40,000 - 45,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514285",
+      "source": "rooster",
+      "tfidf_score": 0.074,
+      "word2vec_score": 0.3988,
+      "skill_score": 0.4286,
+      "hybrid_score": 0.3219,
+      "tfidf_score_pct": 7.4,
+      "word2vec_score_pct": 39.9,
+      "skill_score_pct": 43,
+      "job_skills_count": 7,
+      "job_skills": [
+        "collaboration",
+        "communication",
+        "creativity",
+        "documentation",
+        "passionate",
+        "problem-solving",
+        "spark"
+      ],
+      "matched_skills": [
+        "collaboration",
+        "communication",
+        "passionate"
+      ],
+      "missing_skills": [
+        "creativity",
+        "documentation",
+        "problem-solving",
+        "spark"
+      ],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Community Management & Partnerships Intern This isn’t your average internship—it’s a crash course in making things happen.\nAs a Community Management Intern, you’ll be at the heart of our community, moderating discussions, running events, and collaborating with Web3 founders, influencers, and partners. One day, you’ll be sparking conversations on Discord, and the next, you’ll be organizing hackathons or AMAs.\nIf you’re passionate about Web3, have an interest in tech and love building communities, and thrive in fast-paced environments, this role is for you. Apply now and help us create a community that drives the future of decentralized technology!\nCommunity Engagement & Growth\nEvent Management\nCommunity Building\nPartnerships\n⠀Skills\nExperience\n- Be the glue that keeps conversations going across platforms like Discord, Twitter, and Telegram.\n- Spark discussions, answer questions, and support community members to foster engagement.\n- Find ways to optimize community interactions, making them smoother, smarter, and more valuable.\n- Work with our community team to organize and run events such as AMAs, coding challenges, and hackathons.\n- Collaborate with Web3 founders, influencers, and partners to create impactful activations.\n- Moderate discussions and maintain a positive, professional tone across all platforms.\n- Identify opportunities to grow the community and enhance member experiences.\n- Assist our partnerships team in following up on important discussions and ensuring all proper documentation and collaboration plans are in place.\n- Contributing towards the ideation of long-term partnership strategies (in terms of educational/training partnerships, community partnerships, strategic partnerships etc)\n- Create marketing, social & content plans to assist in co-marketing and brand building.\n- A natural community builder with the ability to keep online spaces active and engaging.\n- Strong communication skills, both written and verbal, for moderating discussions and interacting with members.\n- Social media-savvy, with a deep understanding of platforms like Discord, Twitter, and Telegram.\n- Creative problem-solving skills to turn challenges into opportunities.\n- Passion for Web3 and technology, with an understanding of the developer and builder mindset.\n- Previous experience in community management, social media, or event coordination is a plus but not required.\n- Real-World Experience:Hands-on involvement in managing and growing an active Web3 community.\n- Professional Development:Opportunities to collaborate with industry leaders and enhance your skills in community building and event management.\n- Impact:Play a key role in shaping a vibrant, engaged community that drives innovation in Web3.\n- Collaborative Environment:Work in a dynamic, fast-paced team that values creativity, problem-solving, and community-driven growth.\n- First-hand experiencein being a part of high-ticket, international partnership conversations, strategy development and relationship management. Metana Colombo, Sri Lanka",
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 32.2,
+      "rank": 15,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1199,
+      "title": "Intern - Project Manager",
+      "company": "Zegates International Private Limited",
+      "location": "Colombo 05, Colombo, Sri Lanka",
+      "salary": "LKR 20,000 - 30,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/513766",
+      "source": "rooster",
+      "tfidf_score": 0.0949,
+      "word2vec_score": 0.4,
+      "skill_score": 0.5,
+      "hybrid_score": 0.3179,
+      "tfidf_score_pct": 9.5,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 50,
+      "job_skills_count": 4,
+      "job_skills": [
+        "agile",
+        "collaboration",
+        "leadership",
+        "organizational skills"
+      ],
+      "matched_skills": [
+        "collaboration",
+        "leadership"
+      ],
+      "missing_skills": [
+        "agile",
+        "organizational skills"
+      ],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Intern - Project Manager Become an integral part of a high-performing team by:\nWe’re looking for individuals with:\nShape the future of technology and team success—step into your role as a key player today! 🌟\n- Leading and managing development teams using Agile principles.\n- Assessing project requirements and delivering optimal outcomes for teams and stakeholders.\n- Driving collaboration, innovation, and productivity within the team.\n- in Computer Engineering, Management, or a related field.AB.Sc. Degree\n- Strong leadership and organizational skills.\n- The ability to inspire and guide teams toward achieving exceptional results.\n- Progress rapidly with leadership opportunities.Accelerated Career Growth\n- Competitive compensation packages and modern, inspiring workplaces.Attractive Benefits\n- Work in an environment that values and supports its employees.People-Centric Culture\n- Engage in cutting-edge technologies and continuously grow your skill set through creative challenges.Innovation-Driven Opportunities Zegates International Private Limited Colombo 05, Colombo, Sri Lanka",
+      "ml_score": 0.9998,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 31.8,
+      "rank": 16,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1224,
+      "title": "Machine Learning Engineer (Intern)",
+      "company": "Metana",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 45,000 - 50,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/508253",
+      "source": "rooster",
+      "tfidf_score": 0.233,
+      "word2vec_score": 0.4,
+      "skill_score": 0.1667,
+      "hybrid_score": 0.3176,
+      "tfidf_score_pct": 23.3,
+      "word2vec_score_pct": 40.0,
+      "skill_score_pct": 17,
+      "job_skills_count": 6,
+      "job_skills": [
+        "huggingface",
+        "llm",
+        "machine learning",
+        "openai",
+        "playwright",
+        "prompt engineering"
+      ],
+      "matched_skills": [
+        "machine learning"
+      ],
+      "missing_skills": [
+        "huggingface",
+        "llm",
+        "openai",
+        "playwright",
+        "prompt engineering"
+      ],
+      "role_match": true,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Machine Learning Engineer (Intern) We’re looking for a motivatedMachine Learning Engineering Internto support the development of our intelligent task execution engine. You’ll be working at the intersection of backend engineering and applied machine learning, helping us test and optimize how our system performs across hundreds of real-world tasks.\n- A current student or recent graduate inComputer Science, AI, or related field.\n- Comfortable working withPythonand tools like Jupyter, REST APIs, and basic CLI scripting.\n- Curious about howLLMs, agentic workflows, and backend systemsinteract.\n- Organized and detail-oriented, especially when handling repetitive test cases.\n- Eager to learn from experienced engineers and contribute to an ambitious AI product.\n- Familiarity with tools likeLangChain, Playwright, HuggingFace, or OpenAI APIs.\n- Experience with task automation or browser scripting.\n- Knowledge of prompt engineering or LLM evaluation techniques.\n- Deep exposure tohow AI agents work in production.\n- Mentorship from senior engineers\n- Experience with real-worldtask automation, ML evaluation, and product building.\n- Opportunity to grow into a long-term role if there's a fit.\n- Letter of recommendation and resume support upon successful completion. Metana Colombo, Sri Lanka",
+      "ml_score": 0.8858,
+      "ml_score_pct": 88.6,
+      "hybrid_score_pct": 31.8,
+      "rank": 17,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1228,
+      "title": "Community Management – Internship",
+      "company": "Metana",
+      "location": "Colombo, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/506222",
+      "source": "rooster",
+      "tfidf_score": 0.073,
+      "word2vec_score": 0.3987,
+      "skill_score": 0.4,
+      "hybrid_score": 0.3167,
+      "tfidf_score_pct": 7.3,
+      "word2vec_score_pct": 39.9,
+      "skill_score_pct": 40,
+      "job_skills_count": 5,
+      "job_skills": [
+        "communication",
+        "creativity",
+        "passionate",
+        "problem-solving",
+        "spark"
+      ],
+      "matched_skills": [
+        "communication",
+        "passionate"
+      ],
+      "missing_skills": [
+        "creativity",
+        "problem-solving",
+        "spark"
+      ],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Community Management – Internship This isn’t your average internship—it’s a crash course in making things happen.\nAs a Community Management Intern, you’ll be at the heart of our community, moderating discussions, running events, and collaborating with Web3 founders, influencers, and partners. One day, you’ll be sparking conversations on Discord, and the next, you’ll be organizing hackathons or AMAs.\nIf you’re passionate about Web3, love building communities, and thrive in fast-paced environments, this role is for you. Apply now and help us create a community that drives the future of decentralized technology!\n⠀\n⠀\nCommunity Engagement & Growth\nEvent Management\nCommunity Building\n⠀\n⠀\nSkills\nExperience\n⠀\n⠀\n- Be the glue that keeps conversations going across platforms like Discord, Twitter, and Telegram.\n- Spark discussions, answer questions, and support community members to foster engagement.\n- Find ways to optimize community interactions, making them smoother, smarter, and more valuable.\n- Organize and run events such as AMAs, coding challenges, and hackathons.\n- Collaborate with Web3 founders, influencers, and partners to create impactful activations.\n- Moderate discussions and maintain a positive, professional tone across all platforms.\n- Identify opportunities to grow the community and enhance member experiences.\n- A natural community builder with the ability to keep online spaces active and engaging.\n- Strong communication skills, both written and verbal, for moderating discussions and interacting with members.\n- Social media-savvy, with a deep understanding of platforms like Discord, Twitter, and Telegram.\n- Creative problem-solving skills to turn challenges into opportunities.\n- Passion for Web3 and technology, with an understanding of the developer and builder mindset.\n- Previous experience in community management, social media, or event coordination is a plus but not required.\n- Real-World Experience:Hands-on involvement in managing and growing an active Web3 community.\n- Professional Development:Opportunities to collaborate with industry leaders and enhance your skills in community building and event management.\n- Impact:Play a key role in shaping a vibrant, engaged community that drives innovation in Web3.\n- Collaborative Environment:Work in a dynamic, fast-paced team that values creativity, problem-solving, and community-driven growth. Metana Colombo, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 31.7,
+      "rank": 18,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1219,
+      "title": "Intern - Social Media Management (Community Management)",
+      "company": "Outright Play",
+      "location": "Thimbirigasyaya, Colombo, Sri Lanka",
+      "salary": "LKR 20,000 - 40,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/506378",
+      "source": "rooster",
+      "tfidf_score": 0.0987,
+      "word2vec_score": 0.3985,
+      "skill_score": 0.375,
+      "hybrid_score": 0.3159,
+      "tfidf_score_pct": 9.9,
+      "word2vec_score_pct": 39.9,
+      "skill_score_pct": 38,
+      "job_skills_count": 8,
+      "job_skills": [
+        "attention to detail",
+        "canva",
+        "collaboration",
+        "communication",
+        "leadership",
+        "photoshop",
+        "planning",
+        "teamwork"
+      ],
+      "matched_skills": [
+        "collaboration",
+        "communication",
+        "leadership"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "canva",
+        "photoshop",
+        "planning",
+        "teamwork"
+      ],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Intern - Social Media Management (Community Management) At Outright Play, we are building a music label and entertainment company with one mission:turn artists into extraordinary icons.Our vision is bold:take culture to the world.\nThis internship is not about “helping out” or fetching coffee. It is afull-time, hands-on rolewhere you will manage the digital presence ofone artist or brand. You will plan, post, and engage on social media every day — while learning how a professional community is built and run.\nWe live by our values:\nThis role is designed for someone who wants to learn the craft of community management from the ground up. You will be trained, guided, and given ownership. The pace is fast, the expectations are high, and the learning is intense.\nOutright Play is a Sri Lankan music label and entertainment company with one mission:turn artists into extraordinary icons.Our vision is bold:take culture to the world.\nWe work across music, events, publishing, and collaborations. We manage artists, produce content, build brands, and connect with audiences. Every project is a step toward raising the standard of entertainment in Sri Lanka to match the world stage.\nWe are asmall, founder-led teamwith the focus and determination to create something rare in this industry. That means interns here don’t just observe — they contribute directly. You will learn by being part of real campaigns, events, and artist releases.\nOur work is creative, fast-moving, and global in ambition. From social media campaigns to live performances, from music videos to brand partnerships, we bring artists and culture into the spotlight.\nAt Outright Play, you’ll be part of a team that demands commitment, but also offers unmatched learning. What you gain here, you won’t find in a typical internship.\nOur Values\nAs a Digital Content & Community Intern, you will take ownership of the online presence ofone artist or brandunder Outright Play. This means you won’t just be observing or supporting — you will manage a real digital community from end to end.\nYou will plan content, publish across platforms, and engage with followers every day. You’ll also learn how to maintain content pillars, organize media, and ensure posts meet professional standards. This internship isfull-time, and the learning is hands-on.\nWhat you can expect:\nThis is a learning role — but it is also a role with real responsibility. You’ll get guidance and feedback, but the results will depend on your discipline and commitment.\nWe are looking foryoung people who want to learn, can focus for long hours at a screen, and are serious about building a career in digital media and entertainment.\nThis internship is demanding, but it gives you something rare: the chance to gainpractical, ground-floor experiencein Sri Lanka’s only focused music label with global ambition.\nAs an intern, you will be assignedone artist or brandto manage. This will be your responsibility during the internship — you will learn how to run a digital presence from start to finish.\nPlatforms you may manage include:Instagram, Facebook, TikTok, YouTube, LinkedIn, Twitter/X, and in some cases Spotify and Apple Music (for music artists).\nYour scope will include:\n1. Content Pillars & Planning\n2. Content Preparation\n3. Quality Checks\n4. Publishing & Engagement\n5. Reporting & Feedback\nThis scope gives youfull responsibility for one entity— a smaller slice of the work, but still complete ownership. By the end of the internship, you’ll know how to manage the full digital cycle of a brand or artist.\nAs a Digital Content & Community Intern, you will be responsible for managing the online presence ofone assigned artist or brand.Your responsibilities will include:\n1. Content Planning & Posting\n2. Content Preparation\n3. Engagement\n4. Quality & Brand Alignment\n5. Reporting & Improvement\nThis internship isfull-time and hands-on. You will learn how to manage a brand’s digital presence end to end, while being guided and supported by the team.\nAt Outright Play, internships are not for observation. They arefull-time, hands-on roleswhere you learn by doing.\nTraining\nProbation\nWork Environment\nJoining as an intern here means you’ll experience the reality of how a music label runs its digital world. It will be intense, but what you learn here will set you apart.\nWe are not looking for experience. We are looking formindset, discipline, and the willingness to learn.\nMindset\nCore Skills\nQualities That Stand Out\nThis internship is not about past experience. It is about showing that you canfocus, commit, and grow.If you bring the right attitude, we will teach you the rest.\nOutright Play is not a big corporation. We are asmall, founder-led teamwith the ambition to take Sri Lankan culture to the world. That means the way we work is intense, direct, and hands-on.\nWhat to Expect as an Intern\nHow We Work\nThe Payoff\nThis culture is not easy. It requires focus, commitment, and resilience. But if you give your best, it will prepare you for a career in music, media, or digital content like no other place in Sri Lanka.\nThis is not a token internship. It is afull-time, hands-on rolewhere you manage the digital presence of a real brand or artist. That means the growth opportunities are just as real.\nWhat You’ll Gain\nYour Path Forward\nThis internship is demanding. But if you commit, it will give you the kind of learning and exposure that no classroom or traditional internship can match.\nWe don’t offer the perks of a big corporation. What we offer isreal work, real learning, and real growth.\nOpportunities\nGrowth\nEnvironment\nFuture\nIf this internship feels right for you, we want to hear from you.\nTo apply:\nNo experience is required. What we value most iscommitment, focus, and the willingness to learn.\n- No Excuses.Only results matter.\n- No Lying.Integrity above everything.\n- Focus on People.We win together as a team.\n- No Excuses.Only results matter.\n- No Lying. Integrity above everything.We are honest with each other, our artists, and our audience.\n- Focus on People. We win together as a team.We succeed when we support each other.\n- Manage the digital presence of one assigned entity.\n- Plan and execute posts across multiple platforms.\n- Work with the team to capture and prepare content.\n- Learn how to organize files, manage approvals, and follow brand guidelines.\n- Monitor and engage with followers in a professional, timely way.\n- Understand the brand’s identity and content categories (e.g., music releases, behind-the-scenes, lifestyle, events).\n- Help build a simple content calendar.\n- Identify opportunities for posts based on the artist’s activities or events.\n- Work with the team to capture photos and short videos.\n- Help organize files into the right folders for easy access.\n- Assist in editing or creating simple designs using tools like Canva.\n- Ensure posts look professional, with correct formatting, captions, and hashtags.\n- Learn how to benchmark content against international standards.\n- Schedule and publish posts across platforms.\n- Monitor comments, messages, and mentions.\n- Engage with followers in a professional, brand-aligned tone.\n- Track engagement and reach for posts.\n- Share weekly updates with the team.\n- Apply feedback to improve week by week.\n- Build and maintain a simple content calendar.\n- Publish posts consistently across all assigned platforms.\n- Write captions, apply hashtags, and tailor posts for each platform.\n- Assist in capturing photos and videos for posts.\n- Organize files and keep content libraries up to date.\n- Support in creating simple designs or edits when needed.\n- Monitor comments, direct messages, and mentions.\n- Respond and engage with the community in a professional, brand-aligned tone.\n- Identify and highlight active fans or audience trends.\n- Ensure posts meet basic professional standards (clear visuals, correct formatting, accurate captions).\n- Follow brand voice and maintain consistency.\n- Track basic engagement metrics (likes, comments, shares, reach).\n- Share weekly updates on performance.\n- Apply feedback from the team to improve week by week.\n- There is no formal training program.\n- You will learn directly on the job, guided by the founder and the team.\n- Expect things to move fast, change often, and sometimes feel chaotic.\n- You will learn step by step by managing one brand, while being coached and corrected along the way.\n- Every intern goes through athree-month probation period.\n- During this time, we evaluate your ability to adapt, learn, and deliver results.\n- If you perform well, the internship continues and can open the door to full-time opportunities.\n- We are asmall, founder-led business.That means you will work closely with leadership and artists, not hidden in layers of management.\n- The pace is fast and the workload is real — you will be responsible for your brand from day one.\n- This role is best suited for someone who iscomfortable spending long hours at a screen, enjoys detail-oriented work, and can stay disciplined without constant supervision.\n- Flexibility is expected — artist schedules and events don’t always follow 9 to 6 hours.\n- Curious and eager to learn about music, entertainment, and digital media.\n- Comfortable spending long hours at a screen doing focused, detail-oriented work.\n- Disciplined, reliable, and able to stay consistent without constant reminders.\n- Open to feedback and willing to improve quickly.\n- Committed to results — not just effort.\n- Basic familiarity with social media platforms (Instagram, TikTok, YouTube, Facebook, LinkedIn, Twitter/X).\n- Good English communication skills (Sinhala or Tamil is a plus).\n- Comfortable with using a computer and learning new digital tools.\n- Basic design or editing skills (Canva, Photoshop, or simple video apps) are a plus but not required.\n- Pays attention to detail — double-checks captions, formatting, and visuals.\n- Keeps organized — files, folders, and schedules are neat and easy to follow.\n- Enjoys working independently and doesn’t need constant supervision.\n- Takes responsibility for outcomes, not excuses.\n- High responsibility.You will manage one brand or artist from day one.\n- Fast pace.Work moves quickly, priorities shift, and you’ll need to adapt.\n- Learning by doing.There’s no classroom training — you’ll learn by working on real posts, campaigns, and events.\n- Flexibility.Artist schedules don’t always follow office hours, so you may need to adjust.\n- Close collaboration.You’ll work directly with the founder and team.\n- Multiple hats.You might be scheduling posts one day, preparing files the next, and covering a live event after that.\n- No excuses.Results matter more than effort. We value accountability.\n- Team-first.Everyone supports each other, and everyone contributes.\n- You will learn more here in a few months than in years at a traditional internship.\n- Your work will be visible, meaningful, and directly tied to real outcomes.\n- You will gain the confidence and skills to manage a digital community independently.\n- Practical experience.You will learn how to manage a brand’s social media from start to finish.\n- Professional standards.You’ll see how content is planned, produced, and published to global benchmarks.\n- Confidence.By the end of your internship, you’ll be able to handle a digital community independently.\n- Exposure.You’ll work with artists, campaigns, and events that reach real audiences.\n- Successful interns may be offeredfull-time positionsat Outright Play after the internship.\n- The skills you gain here will prepare you for roles in digital media, entertainment, or brand management anywhere.\n- You will build a foundation that can grow into senior roles in community management, digital strategy, or artist management.\n- Work directly with a real artist or brand from day one.\n- Be part of campaigns, releases, and events that reach thousands of people.\n- Learn professional practices in digital content and community management.\n- Gain hands-on experience that no classroom or theory can match.\n- Learn directly from the founder and team, with feedback that pushes you forward.\n- Build a portfolio of work that proves your ability to manage a digital community.\n- A fast-paced, creative, and ambitious workplace.\n- A team where your work is visible and valued.\n- A culture built on accountability, honesty, and teamwork.\n- Strong interns may be offered full-time roles after the internship.\n- The skills you build here will prepare you for careers in music, media, or digital content — in Sri Lanka and beyond.\n- Send us your CV.\n- Write a short note telling uswhy you want to build a career in music, entertainment, or digital media— and what makes you the right fit for this internship. Outright Play Thimbirigasyaya, Colombo, Sri Lanka",
+      "ml_score": 0.9982,
+      "ml_score_pct": 99.8,
+      "hybrid_score_pct": 31.6,
+      "rank": 19,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    },
+    {
+      "job_id": 1200,
+      "title": "Marketing Intern",
+      "company": "INFINITE BUSINESS VENTURES (Pvt) Ltd",
+      "location": "Dehiwala, Dehiwala-Mount Lavinia, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/515282",
+      "source": "rooster",
+      "tfidf_score": 0.0646,
+      "word2vec_score": 0.3981,
+      "skill_score": 0.5,
+      "hybrid_score": 0.3124,
+      "tfidf_score_pct": 6.5,
+      "word2vec_score_pct": 39.8,
+      "skill_score_pct": 50,
+      "job_skills_count": 4,
+      "job_skills": [
+        "communication",
+        "passionate",
+        "planning",
+        "proactive"
+      ],
+      "matched_skills": [
+        "communication",
+        "passionate"
+      ],
+      "missing_skills": [
+        "planning",
+        "proactive"
+      ],
+      "role_match": false,
+      "user_skills_raw": "AI/ML Engineer Rathnavel Sutheshika 0772770454 sutheshikasuthe@ gmail.com LinkedIn GitHub Aspiring AI/ML Engineer with hands-on experience in developing intelligent systems, predictive models, and computer vision applications. Experienced in Computer Vision, Machine Learning, Deep Learning, and Data Preprocessing. Passionate about leveraging AI technologies and data-driven insights to solve real-world problems and continuously expand technical expertise in a dynamic internship environment. Education Institute of technology University of Moratuwa Jun 2023 - present National diploma in technology in Information technology Kandy Girls High School GCE Advanced level - Feb 2022 Physical science stream GCE Ordinary level - Passed with 9As Dec 2019 Technologies and Languages Programming Language Python, Java, SQL, JavaScript, Dart Frameworks Libraries OpenCV, TensorFlow, Keras , Scikit-learn, NumPy, Pandas AI Expertise Machine Learning, Deep Learning, Computer Vision, Artificial Neural Networks (ANN), Natural Language Processing (NLP) Data science Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization Foundation Statistics, Linear Algebra Projects Attendance system with Face recognition GitHub Repository Developed a Python-based attendance system leveraging OpenCV and Deep Learning. Implemented Haar cascade face detection and OpenFace embeddings for accurate face recognition. Automated attendance recording by storing recognized faces in a CSV database with real-time updates. Diabetes Prediction Using Neural Networks GitHub Repository Developed a machine learning model using Keras and TensorFlow to predict diabetes based on patient health parameters. The model was trained on the Pima Indians Diabetes Dataset, achieving high accuracy through a multi-layer neural network. Implemented model serialization to save and reload trained models for future predictions. Real-time Motion detector using computer vision GitHub Repository Developed a Python application using OpenCV and Imutils to detect and highlight moving objects from a live webcam feed. Implemented frame differencing and contour detection techniques for motion tracking, useful for surveillance and activity monitoring. Email Spam Detection using NLP GitHub Repository Developed an NLP-based email spam detection system using Python and machine learning. Applied text preprocessing, tokenization, and TF-IDF for feature extraction and trained classification models. Evaluated performance using accuracy, precision, and recall for reliable spam classification. Skills Problem solving Analytical thinking System thinking Collaboration Communication Time management AI Big data fluency Leadership Extracurricular Activity Member of the Zero plastic club of NDT Member of Nature club of university of Moratuwa Community Outreach Volunteer Visited remote schools to distribute educational supplies (books, pens, pencils) and conducted educational seminars for students, participated in animal welfare activities, including rescuing and providing care for street dogs and cats. Additional Information Languages English (fluent), Tamil (Native), Sinhala (fluent) Availability Immediate availability for internship opportunities References 1. Mrs.A.U.P.Athukorala Head of Division, Information Technology Institute of technology, University of Moratuwa Email uthpalap@itum.mrt.ac.lk Phone 0112124000 2. Ms. Sithara Madhubhashini Lecturer (Probationary ), Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna Email sithara.m@eie.ruh.ac.lk Phone 0717055905 .",
+      "job_description_raw": "Marketing Intern The Marketing Intern – Content & Creative will support the marketing team in creating engaging digital content, managing social media platforms, and contributing to creative marketing campaigns across multiple brands within the Infinite Group. This role is designed as a hands-on learning opportunity, allowing the intern to gain real-world marketing experience while working closely with an experienced marketing lead.\nAssist in creating marketing content including videos, visuals, captions, and basic copy using modern tools (including AI-assisted tools where appropriate).\nEdit and optimize content for social media platforms such as Instagram, TikTok, Facebook, LinkedIn, and YouTube.\nAdapt content styles to match different brand identities within the group.\nSupport daily social media activities including content scheduling and posting.\nMonitor engagement metrics and help identify content trends and performance insights.\nAssist in maintaining consistent brand presence across platforms.\nContribute ideas for creative marketing campaigns and promotional concepts.\nAssist in planning and executing digital campaigns for product launches and brand initiatives.\nCollaborate with the marketing team on storytelling and creative direction.\nParticipate in product photoshoots and video shoots (planning, on-site support, and post-production assistance).\nHelp develop brand stories and campaign narratives for different products and industries.\nLearn directly from an experienced marketing lead through mentorship and practical exposure.\nGain experience working on real product campaigns across 5 different brands and industries within the Infinite Group.\nDevelop skills in content creation, digital marketing, branding, and campaign execution.\nExposure to modern marketing tools, workflows, and AI-powered content creation methods.\nCurrently enrolled in or recently completed a degree/diploma in Marketing, Media, Business, Communication, or a related field.\nStrong interest in content creation, social media, and creative marketing.\nBasic knowledge of social media platforms and digital trends.\nWillingness to learn, experiment creatively, and take feedback positively.\nBasic familiarity with content creation or editing tools (experience with AI tools is an advantage).\nThe internship will include regular performance feedback and evaluations.\nOpportunity for permanent employment within the Infinite Group based on performance, commitment, and business requirements.\nCreative, proactive, and detail-oriented.\nComfortable working in a fast-paced, multi-brand environment.\nPassionate about storytelling, branding, and digital marketing.\nAPPLY NOW! INFINITE BUSINESS VENTURES (Pvt) Ltd Dehiwala, Dehiwala-Mount Lavinia, Sri Lanka",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 31.2,
+      "rank": 20,
+      "predicted_role": "AI/ML Engineer",
+      "role_confidence": 79.8,
+      "role_top_predictions": [
+        {
+          "role": "AI/ML Engineer",
+          "confidence": 79.8
+        },
+        {
+          "role": "Software Engineer",
+          "confidence": 14.1
+        },
+        {
+          "role": "IT Operations",
+          "confidence": 3.7
+        }
+      ]
+    }
+  ]
+}

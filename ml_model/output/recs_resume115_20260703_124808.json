@@ -1,0 +1,1073 @@
+{
+  "resume_id": 115,
+  "candidate": "Technical Skills",
+  "pipeline": "TF-IDF + Word2Vec + Skill Gap + Career Role Prediction",
+  "recommendations": [
+    {
+      "job_id": 1706,
+      "title": "Tech Lead / Senior Backend Engineer (SQL + Node.js) (1)",
+      "company": "Mobizz Elite (Pvt) Ltd",
+      "location": "",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001499951",
+      "source": "topjobs",
+      "tfidf_score": 0.1141,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5394,
+      "tfidf_score_pct": 11.4,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 2,
+      "job_skills": [
+        "node.js",
+        "sql"
+      ],
+      "matched_skills": [
+        "node.js",
+        "sql"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Tech Lead / Senior Backend Engineer (SQL + Node.js) (1) Kindly refer the job advert Mobizz Elite (Pvt) Ltd",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 53.9,
+      "rank": 1,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1258,
+      "title": "Internship - Software Engineer Full Stack",
+      "company": "Axceera (Pvt) Ltd",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/509006",
+      "source": "rooster",
+      "tfidf_score": 0.2427,
+      "word2vec_score": 0.0,
+      "skill_score": 0.6,
+      "hybrid_score": 0.5387,
+      "tfidf_score_pct": 24.3,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 60,
+      "job_skills_count": 15,
+      "job_skills": [
+        "aws",
+        "collaboration",
+        "communication",
+        "dynamodb",
+        "express",
+        "javascript",
+        "mongodb",
+        "motivated",
+        "mysql",
+        "node.js",
+        "passionate",
+        "postgresql",
+        "react",
+        "sql",
+        "team player"
+      ],
+      "matched_skills": [
+        "aws",
+        "express",
+        "javascript",
+        "mongodb",
+        "mysql",
+        "node.js",
+        "postgresql",
+        "react",
+        "sql"
+      ],
+      "missing_skills": [
+        "collaboration",
+        "communication",
+        "dynamodb",
+        "motivated",
+        "passionate",
+        "team player"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Internship - Software Engineer Full Stack Internship Opportunity at Axceera – Full-Stack JavaScript Developer (Intern)\nAxceera is on the lookout for motivated and results-driven undergraduates or fresh graduates to join our growing team as Full-Stack Software Engineer - Interns. If you’re passionate about building modern web applications using the latest technologies, we want to hear from you!\nJoin us and gain hands-on experience working on real-world projects while building your career in full-stack development.\n- Location:Work from home (Must have a reliable internet connection and personal computer)\n- Contract Duration:12 Months\n- Hands-on experience with JavaScript (ES6+)\n- Familiarity with React.js for frontend development\n- Knowledge of Node.js and Express.js for backend services\n- Exposure to AWS services (e.g., Lambda, S3, EC2, DynamoDB) is a strong plus\n- Understanding of RESTful API integration\n- Experience or understanding of databases – SQL (MySQL, PostgreSQL) and/or NoSQL (MongoDB)\n- Currently pursuing or completed a Diploma/Degree in IT, Computer Science, or related field\n- Strong communication skills in English\n- Eagerness to learn, adapt, and grow in a fast-paced environment\n- A team player with strong collaboration skills Axceera (Pvt) Ltd Remote",
+      "ml_score": 0.9994,
+      "ml_score_pct": 99.9,
+      "hybrid_score_pct": 53.9,
+      "rank": 2,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1971,
+      "title": "Full Stack Engineer - Java & React",
+      "company": "Acentura Pvt Ltd",
+      "location": "Colombo 4",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001515929",
+      "source": "topjobs",
+      "tfidf_score": 0.0644,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5128,
+      "tfidf_score_pct": 6.4,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 2,
+      "job_skills": [
+        "java",
+        "react"
+      ],
+      "matched_skills": [
+        "java",
+        "react"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Full Stack Engineer - Java & React Please refer the vacancy Acentura Pvt Ltd Colombo 4",
+      "ml_score": 0.9968,
+      "ml_score_pct": 99.7,
+      "hybrid_score_pct": 51.3,
+      "rank": 3,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1977,
+      "title": "Technical Lead (Python | AI Engineering)",
+      "company": "Allion Technologies (Pvt) Ltd",
+      "location": "Colombo 5",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001515810",
+      "source": "topjobs",
+      "tfidf_score": 0.0636,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5124,
+      "tfidf_score_pct": 6.4,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Technical Lead (Python | AI Engineering) Please refer the vacancy Allion Technologies (Pvt) Ltd Colombo 5",
+      "ml_score": 0.9967,
+      "ml_score_pct": 99.7,
+      "hybrid_score_pct": 51.2,
+      "rank": 4,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1005,
+      "title": "Delivery Manager (1)",
+      "company": "DirectFN",
+      "location": "",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001482177",
+      "source": "topjobs",
+      "tfidf_score": 0.1368,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5111,
+      "tfidf_score_pct": 13.7,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "project management"
+      ],
+      "matched_skills": [
+        "project management"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Delivery Manager (1) ? Bachelor's degree in computer science, IT, Business Administration, or related field.\n? PMP or relevant project management certification.\n? 10+ years o .... DirectFN",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 51.1,
+      "rank": 5,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1903,
+      "title": "Business Analyst - Project Management Experience (1)",
+      "company": "Jobfactory",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001517610",
+      "source": "topjobs",
+      "tfidf_score": 0.1329,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5091,
+      "tfidf_score_pct": 13.3,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "project management"
+      ],
+      "matched_skills": [
+        "project management"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Business Analyst - Project Management Experience (1) Please refer the advertisement Jobfactory Colombo",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 50.9,
+      "rank": 6,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1327,
+      "title": "Full Stack Developer - React & .Net",
+      "company": "Ateam Software ( Pvt ) Ltd",
+      "location": "All island",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001489136",
+      "source": "topjobs",
+      "tfidf_score": 0.0515,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5066,
+      "tfidf_score_pct": 5.2,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "react"
+      ],
+      "matched_skills": [
+        "react"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Full Stack Developer - React & .Net Please refer the vacancy Ateam Software ( Pvt ) Ltd All island",
+      "ml_score": 0.9988,
+      "ml_score_pct": 99.9,
+      "hybrid_score_pct": 50.7,
+      "rank": 7,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1606,
+      "title": "Senior Cloud & Infrastructure Engineer (Microsoft & Azure)",
+      "company": "Gardner Smith Information Technology (Pvt) Ltd",
+      "location": "Kaduwela (Kaduwela)",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001490572",
+      "source": "topjobs",
+      "tfidf_score": 0.052,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5055,
+      "tfidf_score_pct": 5.2,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "azure"
+      ],
+      "matched_skills": [
+        "azure"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Senior Cloud & Infrastructure Engineer (Microsoft & Azure) Please refer the vacancy Gardner Smith Information Technology (Pvt) Ltd Kaduwela (Kaduwela)",
+      "ml_score": 0.9921,
+      "ml_score_pct": 99.2,
+      "hybrid_score_pct": 50.5,
+      "rank": 8,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1906,
+      "title": "Software Engineer (Python + Java)",
+      "company": "Invenza Digital Technologies (Pvt) Ltd",
+      "location": "Colombo 1",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001517584",
+      "source": "topjobs",
+      "tfidf_score": 0.049,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5055,
+      "tfidf_score_pct": 4.9,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 2,
+      "job_skills": [
+        "java",
+        "python"
+      ],
+      "matched_skills": [
+        "java",
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Software Engineer (Python + Java) Please refer the vacancy Invenza Digital Technologies (Pvt) Ltd Colombo 1",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 50.6,
+      "rank": 9,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1455,
+      "title": "Software Engineer (Python) | Senior Software Engineer (Python)",
+      "company": "Innobot Health",
+      "location": "Colombo",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001494580",
+      "source": "topjobs",
+      "tfidf_score": 0.0503,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5047,
+      "tfidf_score_pct": 5.0,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "python"
+      ],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Software Engineer (Python) | Senior Software Engineer (Python) Please refer the vacancy Innobot Health Colombo",
+      "ml_score": 0.9925,
+      "ml_score_pct": 99.2,
+      "hybrid_score_pct": 50.5,
+      "rank": 10,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1994,
+      "title": "Intern Project Management",
+      "company": "OXO Technologies (Pvt) Ltd",
+      "location": "Colombo 8",
+      "salary": "",
+      "job_type": "",
+      "job_url": "https://www.topjobs.lk/applicant/JobAdvertisment.jsp?JC=0001514848",
+      "source": "topjobs",
+      "tfidf_score": 0.1232,
+      "word2vec_score": 0.0,
+      "skill_score": 1.0,
+      "hybrid_score": 0.5041,
+      "tfidf_score_pct": 12.3,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 100,
+      "job_skills_count": 1,
+      "job_skills": [
+        "project management"
+      ],
+      "matched_skills": [
+        "project management"
+      ],
+      "missing_skills": [],
+      "role_match": false,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Intern Project Management Please refer the vacancy OXO Technologies (Pvt) Ltd Colombo 8",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 50.4,
+      "rank": 11,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1268,
+      "title": "Web development (Internship)",
+      "company": "falconet ltd",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/449735",
+      "source": "rooster",
+      "tfidf_score": 0.2104,
+      "word2vec_score": 0.0,
+      "skill_score": 0.5333,
+      "hybrid_score": 0.4631,
+      "tfidf_score_pct": 21.0,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 53,
+      "job_skills_count": 15,
+      "job_skills": [
+        "communication",
+        "css",
+        "express",
+        "github",
+        "html",
+        "innovative",
+        "javascript",
+        "laravel",
+        "next.js",
+        "node.js",
+        "passionate",
+        "problem-solving",
+        "quick learner",
+        "react",
+        "team player"
+      ],
+      "matched_skills": [
+        "css",
+        "express",
+        "github",
+        "html",
+        "javascript",
+        "next.js",
+        "node.js",
+        "react"
+      ],
+      "missing_skills": [
+        "communication",
+        "innovative",
+        "laravel",
+        "passionate",
+        "problem-solving",
+        "quick learner",
+        "team player"
+      ],
+      "role_match": false,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Web development (Internship) Are you passionate about web development? We're excited to offer an internship where you can work on real projects, enhance your skills, and grow in a professional and creative environment!\n✅ Hands-on Experience – Work on real-world projects to refine your skills. ✅ Premium Learning Resources – Access multiple learning platforms and premium courses for free. ✅ Personalized Feedback – Receive individual guidance and constructive reviews. ✅ Professional Mentorship – Collaborate with experienced developers. ✅ Creative & Supportive Work Environment – Be part of an innovative and growth-oriented team. ✅ Portfolio Building – Gain practical experience and build a strong portfolio with real projects.\nIf you're ready to take your web development skills to the next level, we’d love to hear from you! 🌐💻🚀\n- Proficiency in React, Laravel, Node.js, Express, Next.js.\n- Strong understanding of HTML, CSS, and JavaScript.\n- Familiarity with GitHub and version control workflows.\n- Adherence to coding best practices and clean code principles.\n- Effective communication skills and ability to collaborate in a team.\n- Problem-solving mindset and willingness to learn.\n- Be a quick learner and adapt to new technologies.\n- Manage time efficiently to complete assigned tasks.\n- Be a team player with a positive attitude. falconet ltd Remote",
+      "ml_score": 0.9994,
+      "ml_score_pct": 99.9,
+      "hybrid_score_pct": 46.3,
+      "rank": 12,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1260,
+      "title": "Intern - Software Engineer",
+      "company": "Twist Digital",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 15,000 - 25,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/508375",
+      "source": "rooster",
+      "tfidf_score": 0.1901,
+      "word2vec_score": 0.0,
+      "skill_score": 0.3571,
+      "hybrid_score": 0.4373,
+      "tfidf_score_pct": 19.0,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 36,
+      "job_skills_count": 14,
+      "job_skills": [
+        "attention to detail",
+        "communication",
+        "dedicated",
+        "express",
+        "git",
+        "github",
+        "javascript",
+        "mongodb",
+        "motivated",
+        "node.js",
+        "passionate",
+        "planning",
+        "problem-solving",
+        "reactjs"
+      ],
+      "matched_skills": [
+        "express",
+        "github",
+        "javascript",
+        "mongodb",
+        "node.js"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "communication",
+        "dedicated",
+        "git",
+        "motivated",
+        "passionate",
+        "planning",
+        "problem-solving",
+        "reactjs"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Intern - Software Engineer Welcome toTwist Digital, where our brand essence revolves around the belief in the transformative power of twisting the fate of businesses. At the core of our values, we are dedicated to unlocking the hidden potential within enterprises and delivering results that bring about positive change.\nOur commitment lies in providing a comprehensive digital suite tailored to businesses, empowering them to thrive in the ever-evolving digital landscape. We specialize in unraveling new possibilities, reshaping strategies, and guiding brands toward unprecedented success.\nWe are seeking a motivated and detail-orientedIntern Software Engineerto join our growing team. The ideal candidate will have a passion for full-stack web development, a strong foundation in modern JavaScript frameworks and libraries (especially ReactJS, NextJS, Node.js, and MongoDB), and a willingness to learn and grow in a fast-paced environment.\nJoin us in our mission to revolutionize the way businesses approach their digital journey. Whether you are an innovator, a creative mind, or someone passionate about transformative results, Twist Digital is the place for you. Embrace the power of change, unlock your potential, and shape the future with us.\nAre you ready to become a Twister? Apply now and be a part of the transformation!\n- Assist in developing, maintaining, and optimizing web applications using ReactJS/NextJS (frontend) and Node.js/Express (backend).\n- Work with MongoDB to manage and query data for dynamic applications.\n- Collaborate with design and development teams to create scalable and responsive user interfaces.\n- Troubleshoot and debug application issues to ensure optimal performance and user experience.\n- Support in building and integrating RESTful APIs and third-party services.\n- Participate in code reviews, team discussions, and sprint planning.\n- Stay updated with the latest industry trends, tools, and best practices in web development.\n- Basic experience or academic exposure to ReactJS, NextJS, Node.js, Express, and MongoDB.\n- Understanding of JavaScript fundamentals, HTML5, and CSS3.\n- Familiarity with version control tools such as Git and collaborative platforms like GitHub.\n- Strong problem-solving skills and attention to detail.\n- Ability to work both independently and in a team environment.\n- Excellent communication skills and a collaborative mindset.\n- Passion for learning new technologies and continuously improving development skills. Twist Digital Colombo, Sri Lanka",
+      "ml_score": 0.997,
+      "ml_score_pct": 99.7,
+      "hybrid_score_pct": 43.7,
+      "rank": 13,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1261,
+      "title": "Machine Learning Engineer (Intern)",
+      "company": "Metana",
+      "location": "Colombo, Sri Lanka",
+      "salary": "LKR 45,000 - 50,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/508253",
+      "source": "rooster",
+      "tfidf_score": 0.1882,
+      "word2vec_score": 0.0,
+      "skill_score": 0.3333,
+      "hybrid_score": 0.4288,
+      "tfidf_score_pct": 18.8,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 33,
+      "job_skills_count": 6,
+      "job_skills": [
+        "huggingface",
+        "llm",
+        "machine learning",
+        "openai",
+        "playwright",
+        "prompt engineering"
+      ],
+      "matched_skills": [
+        "machine learning",
+        "openai"
+      ],
+      "missing_skills": [
+        "huggingface",
+        "llm",
+        "playwright",
+        "prompt engineering"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Machine Learning Engineer (Intern) We’re looking for a motivatedMachine Learning Engineering Internto support the development of our intelligent task execution engine. You’ll be working at the intersection of backend engineering and applied machine learning, helping us test and optimize how our system performs across hundreds of real-world tasks.\n- A current student or recent graduate inComputer Science, AI, or related field.\n- Comfortable working withPythonand tools like Jupyter, REST APIs, and basic CLI scripting.\n- Curious about howLLMs, agentic workflows, and backend systemsinteract.\n- Organized and detail-oriented, especially when handling repetitive test cases.\n- Eager to learn from experienced engineers and contribute to an ambitious AI product.\n- Familiarity with tools likeLangChain, Playwright, HuggingFace, or OpenAI APIs.\n- Experience with task automation or browser scripting.\n- Knowledge of prompt engineering or LLM evaluation techniques.\n- Deep exposure tohow AI agents work in production.\n- Mentorship from senior engineers\n- Experience with real-worldtask automation, ML evaluation, and product building.\n- Opportunity to grow into a long-term role if there's a fit.\n- Letter of recommendation and resume support upon successful completion. Metana Colombo, Sri Lanka",
+      "ml_score": 0.9967,
+      "ml_score_pct": 99.7,
+      "hybrid_score_pct": 42.9,
+      "rank": 14,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 2034,
+      "title": "Pera Industry Day 2026 - Software Engineering Intern",
+      "company": "Creative Software",
+      "location": "Colombo, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/518178",
+      "source": "rooster",
+      "tfidf_score": 0.1365,
+      "word2vec_score": 0.0,
+      "skill_score": 0.3333,
+      "hybrid_score": 0.4061,
+      "tfidf_score_pct": 13.6,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 33,
+      "job_skills_count": 21,
+      "job_skills": [
+        "agile",
+        "analytical thinking",
+        "angular",
+        "aws",
+        "azure",
+        "ci/cd",
+        "communication",
+        "dedicated",
+        "gcp",
+        "golang",
+        "java",
+        "motivated",
+        "passionate",
+        "postgresql",
+        "python",
+        "react",
+        "research",
+        "scrum",
+        "sql",
+        "sql server",
+        "vue"
+      ],
+      "matched_skills": [
+        "aws",
+        "azure",
+        "java",
+        "postgresql",
+        "python",
+        "react",
+        "sql"
+      ],
+      "missing_skills": [
+        "agile",
+        "analytical thinking",
+        "angular",
+        "ci/cd",
+        "communication",
+        "dedicated",
+        "gcp",
+        "golang",
+        "motivated",
+        "passionate",
+        "research",
+        "scrum",
+        "sql server",
+        "vue"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Pera Industry Day 2026 - Software Engineering Intern About Creative Software:\nFounded in 1999, Creative Software is a global technology enabler and pioneer in Sri Lanka’s tech industry. We manage teams of high-performing, dedicated software engineers for our global clientele, providing them with end-to-end software development and maintenance services through team augmentation. We are looking for a passionate and motivated Software Engineering Intern to join our development teams. As an intern, you will gain hands-on experience working on full-stack applications using modern frontend and backend technologies in a professional software engineering environment.\nWhat you can look forward to:\n• Work closely with cross-functional engineering teams to develop products, platforms or services\n• Collaborate in a scrum team environment adhering to agile software development practices\n• Contribute towards solving technical problems and take part in user-story discussions\n• Demonstrate analytical thinking and carry out technical research and feasibility study\n• Follow Software development best practices and standards\n• Gain domain knowledge related to product development\nYou should have:\n• Passion for developing and delivering working software\n• Very good understanding of the basic software design principles\n• Familiarity with one or more frontend frameworks such as React, Angular, or Vue\n• Familiarity with technologies like .NET Core, GoLang, Java, or Python\n• Understanding of REST APIs, databases (e.g., SQL Server, PostgreSQL), and CI/CD pipelines\n• Exposure to cloud platforms like Azure, AWS, or GCP is highly desirable\n• Good foundation in data structures, algorithms, and software engineering principles\n• Eagerness to learn new technologies and contribute to real-world projects\n• Good communication skills and ability to work collaboratively in a team\nWhat We Offer:\nA Creative career offers a flexible working environment, attractive remuneration, and a place to grow and flourish. You will be amongst peers at the top of their game, allowing you to sharpen your skills in an inclusive culture. Our work environment includes a recreation zone and gym to support your mental and physical wellbeing. Creative Software Colombo, Sri Lanka",
+      "ml_score": 0.9967,
+      "ml_score_pct": 99.7,
+      "hybrid_score_pct": 40.6,
+      "rank": 15,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 2041,
+      "title": "Intern - Software Engineer AI",
+      "company": "Swivel Group",
+      "location": "Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/508917",
+      "source": "rooster",
+      "tfidf_score": 0.1908,
+      "word2vec_score": 0.0,
+      "skill_score": 0.2353,
+      "hybrid_score": 0.3987,
+      "tfidf_score_pct": 19.1,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 24,
+      "job_skills_count": 17,
+      "job_skills": [
+        "aws",
+        "azure",
+        "collaboration",
+        "communication",
+        "documentation",
+        "flutter",
+        "google cloud",
+        "initiative",
+        "integration testing",
+        "machine learning",
+        "motivated",
+        "passionate",
+        "planning",
+        "problem-solving",
+        "react",
+        "react native",
+        "unit testing"
+      ],
+      "matched_skills": [
+        "aws",
+        "azure",
+        "machine learning",
+        "react"
+      ],
+      "missing_skills": [
+        "collaboration",
+        "communication",
+        "documentation",
+        "flutter",
+        "google cloud",
+        "initiative",
+        "integration testing",
+        "motivated",
+        "passionate",
+        "planning",
+        "problem-solving",
+        "react native",
+        "unit testing"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Intern - Software Engineer AI Swivel Groupheadquartered in Australia is best known for building and implementing custom solutions for businesses to enable them to innovate, scale and compete at a global standard. We've been around since 2019, with a team growing beyond 160+ employees that help us challenge and innovate for our partners across the software, digital, and finance landscapes.\nOur Brands: Swivel Tech, Swivel Finance, Swivel Talent, and Swivel Foundation.\nRole Description:We are looking for a motivated and curious undergraduate student who is passionate about Artificial Intelligence and Machine Learning to join our AI team as an intern. This is an excellent opportunity to gain hands-on experience in real-world AI applications, contribute to ongoing projects, and learn from industry experts.\nKey Responsibilities :\nMandatory Skills:\n• Knowledge of core software programming concepts such as object-oriented design, algorithm design and data structures\nNice to Have:\nRequired Attributes:\nEngagement\n• Internship\nWork model\n• Hybrid\nBenefits\nWhat We Can Offer You:\nWork Culture\nSwivel promotes a culture of positivity, openness, growth, collaboration, and fairness within our work environment. Individual development matters to us. We put in a sincere effort to help our team grow on professional and personal levels.\nSwivel Values\nTrust :A confident relationship in our staff, that would adhere to transparency and honesty in our dealings\nInnovation :Initiative, collaboration, challenging the industry and continuously evolving\nPremium:Top talent, going above and beyond and treating your workplace as your own business\nRespect:Everyone matters and so do their ideas\nTeam:Be supportive, welcoming, community, family-oriented and as strong as our weakest\nOur Channels\nWebsite -https://swiveltech.io\nInstagram -https://www.instagram.com/swivel.group/\nFacebook -https://www.facebook.com/swivelgroupau\nLinkedIn -https://www.linkedin.com/company/swivelgroupau/\n- Collaborate with the development team to design, develop, test and maintain software applications.\n- Collaborate with team members to gather and analyze requirements. • Debug and troubleshoot software issues.\n- Participate in team meetings and sprint planning meetings.\n- Work on assigned tasks and projects under the guidance of senior engineers.\n- Write clean, maintainable, efficient, and testable code following best practices.\n- Write and conduct unit testing, integration testing, and end-to-end testing to ensure application reliability.\n- Stay up-to-date with latest industry trends and technologies.\n- Contribute to produce technical documentation.\n- Effective interpersonal and communication skills.\n- React JS\n- Next JS\n- React Native\n- Node JS\n- Flutter\n- Knowledge on Artificial intelligence (AI) and Machine learning (ML)\n- Knowledge on Gen AI\n- Exposure in Google Cloud, AWS or Azure\n- Strong interest in learning and ability to adapt to new technologies.\n- Analytical and problem-solving skills\n- Excellent communication skills\n- Actively participate in company training opportunities to further develop skills applicable to the team.\n- A dynamic and supportive working environment\n- Full medical benefits\n- Training & Development\n- Flexible and hybrid working arrangements\n- Attractive remuneration Swivel Group Sri Lanka",
+      "ml_score": 0.997,
+      "ml_score_pct": 99.7,
+      "hybrid_score_pct": 39.9,
+      "rank": 16,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1262,
+      "title": "Intern/Junior Quality Assurance Engineer",
+      "company": "Twist Digital",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/507857",
+      "source": "rooster",
+      "tfidf_score": 0.0942,
+      "word2vec_score": 0.0,
+      "skill_score": 0.3636,
+      "hybrid_score": 0.3978,
+      "tfidf_score_pct": 9.4,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 36,
+      "job_skills_count": 11,
+      "job_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "communication",
+        "css",
+        "html",
+        "javascript",
+        "jira",
+        "passionate",
+        "postman",
+        "project management",
+        "selenium"
+      ],
+      "matched_skills": [
+        "css",
+        "html",
+        "javascript",
+        "project management"
+      ],
+      "missing_skills": [
+        "analytical thinking",
+        "attention to detail",
+        "communication",
+        "jira",
+        "passionate",
+        "postman",
+        "selenium"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Intern/Junior Quality Assurance Engineer Position: Intern/Junior Quality Assurance Engineer\nResponsibilities:\nRequirements:\nSoft Skills:\nSalary: 20,000 LKR - 40000 LKR\nJoin us in our mission to revolutionize the way businesses approach their digital journey. Whether you are an innovator, a creative mind, or someone passionate about transformative results, Twist Digital is the place for you. Embrace the power of change, unlock your potential, and shape the future with us.\nAre you ready to become a Twister? Apply now and be a part of the transformation!\n- Assist in creating and executingtest plans, test cases, and test scriptsfor web and mobile applications.\n- Perform manual testing to identify bugs, usability issues, and performance bottlenecks.\n- Collaborate with developers and designers to ensure consistent quality across features and releases.\n- Document and track defects using project management or bug tracking tools like ClickUp or Jira.\n- Support in regression testing, cross-browser testing, and user acceptance testing (UAT).\n- Contribute to process improvements and QA best practices.\n- Stay updated on QA methodologies, tools, and industry trends.\n- Help ensure product quality by proactively identifying edge cases and inconsistencies.\n- Basic understanding ofsoftware development life cycle (SDLC) and QA methodologies.\n- Familiarity with web technologies likePython, HTML, CSS, JavaScript, and browser dev tools.\n- Experience with bug tracking and project management tools (e.g.,ClickUp, Jira, Trello).\n- Exposure to testing on various devices, browsers, and operating systems. Knowledge of basic database concepts andAPI testingis a plus.\n- Understanding of automation tools or scripting (e.g.,Selenium, Postman) is a bonus.\n- Analytical Thinking:Ability to spot patterns, bugs, and anomalies in complex systems.\n- Clear Communication:Report bugs and feedback concisely and collaborate effectively.\n- Curiosity & Learning:Eagerness to learn new tools, systems, and testing techniques.\n- Attention to Detail:Ensure thorough testing to minimize missed bugs.\n- Accountability:Take ownership of assigned tasks and deliver quality output. Twist Digital Remote",
+      "ml_score": 1.0,
+      "ml_score_pct": 100.0,
+      "hybrid_score_pct": 39.8,
+      "rank": 17,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1233,
+      "title": "Intern UI/UX Engineer (Hybrid)",
+      "company": "Twist Digital",
+      "location": "Colombo, Sri Lanka",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514716",
+      "source": "rooster",
+      "tfidf_score": 0.1104,
+      "word2vec_score": 0.0,
+      "skill_score": 0.2857,
+      "hybrid_score": 0.3799,
+      "tfidf_score_pct": 11.0,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 29,
+      "job_skills_count": 7,
+      "job_skills": [
+        "attention to detail",
+        "collaboration",
+        "communication",
+        "css",
+        "html",
+        "problem-solving",
+        "research"
+      ],
+      "matched_skills": [
+        "css",
+        "html"
+      ],
+      "missing_skills": [
+        "attention to detail",
+        "collaboration",
+        "communication",
+        "problem-solving",
+        "research"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Intern UI/UX Engineer (Hybrid) We are looking for a creative, detail-orientedUI/UX Engineer/Designer – Internto join the Twist Digital team. This role is perfect for someone who loves crafting clean, modern interfaces and designing user experiences that feel smooth, smart, and enjoyable.\nAs a UI/UX intern, you’ll work closely with product owners, developers, and marketers to design digital products that are not only visually strong—but also user-first, conversion-driven, and built for real-world business outcomes.\nJoin us in our mission to revolutionize the way businesses approach their digital journey through intelligent automation and AI-driven innovation. Whether you’re an aspiring AI engineer, a curious learner, or someone excited about shaping the future with technology,Twist Digital is the place for you.\nAre you ready to become a Twister?Apply now and be a part of the transformation. 🚀\n- Assist in designing user interfaces for web and mobile applications.\n- Create wireframes, user flows, and prototypes for product features and improvements.\n- Support the team in conducting basic user research, collecting feedback, and understanding user behavior.\n- Work on UI components, design systems, typography, layout, and spacing consistency.\n- Collaborate with developers to ensure designs are implemented accurately and efficiently.\n- Contribute to improving user journeys to increase engagement, retention, and conversions.\n- Design assets for product landing pages, dashboards, internal tools, or marketing experiences when needed.\n- Document design decisions and maintain updated design files for team collaboration.\n- Participate in brainstorming sessions and contribute fresh ideas to product and feature design.\n- Stay updated with modern UI/UX trends, tools, and best practices.\n- Currently pursuing or recently completed a degree/diploma inUI/UX Design, Graphic Design, HCI, Software Engineering, IT, or a related field.\n- Familiarity with tools likeFigma, Adobe XD, Sketch, or similar.\n- Basic understanding of UX principles such asusability, accessibility, user journeys, and interaction design.\n- Ability to create clean and modern UI designs with attention to detail.\n- Understanding of responsive design concepts for mobile and desktop layouts.\n- Good communication and collaboration skills, and openness to feedback.\n- Strong problem-solving mindset and curiosity to learn and improve quickly.\n- A portfolio (even small projects, concepts, redesigns) is a plus.\n- Experience with basic UX research (surveys, interviews, usability testing).\n- Familiarity with design systems and component-based UI thinking.\n- Knowledge of motion/interaction design (micro-animations, transitions).\n- Basic understanding of how developers work (HTML/CSS concepts are a plus).\n- Interest in AI-driven product experiences or intelligent UI patterns. Twist Digital Colombo, Sri Lanka",
+      "ml_score": 0.9994,
+      "ml_score_pct": 99.9,
+      "hybrid_score_pct": 38.0,
+      "rank": 18,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1236,
+      "title": "Intern - Software Engineering",
+      "company": "Zegates International Private Limited",
+      "location": "Colombo 05, Colombo, Sri Lanka",
+      "salary": "LKR 25,000 - 40,000/month",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/514242",
+      "source": "rooster",
+      "tfidf_score": 0.1565,
+      "word2vec_score": 0.0,
+      "skill_score": 0.2143,
+      "hybrid_score": 0.3768,
+      "tfidf_score_pct": 15.7,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 21,
+      "job_skills_count": 14,
+      "job_skills": [
+        "communication",
+        "creativity",
+        "flutter",
+        "golang",
+        "leadership",
+        "logical thinking",
+        "motivated",
+        "node.js",
+        "passionate",
+        "problem-solving",
+        "python",
+        "react",
+        "react native",
+        "solid"
+      ],
+      "matched_skills": [
+        "node.js",
+        "python",
+        "react"
+      ],
+      "missing_skills": [
+        "communication",
+        "creativity",
+        "flutter",
+        "golang",
+        "leadership",
+        "logical thinking",
+        "motivated",
+        "passionate",
+        "problem-solving",
+        "react native",
+        "solid"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Intern - Software Engineering We are seeking passionate and motivated individuals with the following skills and qualities:\nJoin us to shape the future of technology and grow alongside a team that values your contributions! 🌟\n- Tech Stack Expertise: Proficiency in React.js, React Native, Flutter, Node.js, Python, and Golang.\n- Problem-Solving Prowess: Strong analytical and logical thinking skills with a solid grasp of Data Structures and Algorithms.\n- Web Development Knowledge: Hands-on experience in web-based application development and architecture.\n- Exceptional Communication: Clear and effective communication skills to collaborate within and beyond the team.\n- Open Source Enthusiast: Experience contributing to and collaborating on open-source projects is a bonus!\n- Accelerated Career Growth: Fast-track your career with opportunities to step into leadership roles.\n- Attractive Perks: Competitive compensation and inspiring work environments.\n- Employee-Centric Culture: Be part of a unique, team-focused organization that values your growth and well-being.\n- Innovation at Its Core: Work on cutting-edge technologies and continuously expand your skills through innovation and creativity. Zegates International Private Limited Colombo 05, Colombo, Sri Lanka",
+      "ml_score": 0.9969,
+      "ml_score_pct": 99.7,
+      "hybrid_score_pct": 37.7,
+      "rank": 19,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": 1245,
+      "title": "Software Engineer - Intern (Web Scraping & Automation)",
+      "company": "Zyner.io",
+      "location": "Remote",
+      "salary": "",
+      "job_type": "Internship",
+      "job_url": "https://rooster.jobs/jobs/508859",
+      "source": "rooster",
+      "tfidf_score": 0.1045,
+      "word2vec_score": 0.0,
+      "skill_score": 0.2667,
+      "hybrid_score": 0.3706,
+      "tfidf_score_pct": 10.4,
+      "word2vec_score_pct": 0.0,
+      "skill_score_pct": 27,
+      "job_skills_count": 15,
+      "job_skills": [
+        "collaboration",
+        "communication",
+        "css",
+        "data analysis",
+        "documentation",
+        "excel",
+        "github",
+        "mongodb",
+        "pandas",
+        "playwright",
+        "problem-solving",
+        "research",
+        "selenium",
+        "sql",
+        "verbal communication"
+      ],
+      "matched_skills": [
+        "css",
+        "github",
+        "mongodb",
+        "sql"
+      ],
+      "missing_skills": [
+        "collaboration",
+        "communication",
+        "data analysis",
+        "documentation",
+        "excel",
+        "pandas",
+        "playwright",
+        "problem-solving",
+        "research",
+        "selenium",
+        "verbal communication"
+      ],
+      "role_match": true,
+      "user_skills_raw": "Senuth De Silva Computer Science Undergraduate senuthdesilva43@gmail.com +94 71 980 8282 LinkedIn GitHub Portfolio Education Informatics Institute of Technology (IIT) Bsc in Computer Science bambalapitiya, Srilanka Foundation Higher Education in Informatics Institute Of Technology PROjECTs Career Recommendation System for Undergraduate IT Students Machine Learning Full-Stack Project Feb 2025 Built a real-time job recommendation system that matches student CVs with live job listings using TF-IDF, Word2Vec, and supervised machine learning models. Implemented Explainable AI (XAI) techniques to provide transparent recommendations and improve user trust. Developed a skill gap analysis module to deliver personalized, actionable career guidance for IT undergraduates. Mind forge fullstack Full-Stack Development Team Project Contributed to the development of a full-stack e-learning platform enabling users to learn web development, earn certifications, and publish technical blogs. Implemented secure authentication and session management using JWT, bcrypt, and cookie-parser. Designed and developed a gamified quiz system (in progress) allowing instructors to create interactive quizzes with real- time student participation and ranking. Project GitHub Repo Project Link Forever(E-Commerce website) Frontend Frontend Development Developed a responsive e-commerce frontend for a clothing platform using React.js and Tailwind CSS. Integrated UI components and optimized user experience for product browsing and interaction. Live Project Project Link Cat vs Dog Image Classification System Deep Learning Python (Jupyter Notebook, PyCharm) Jan 2025 Designed and trained Convolutional Neural Networks (CNNs) for image classification with advanced preprocessing and data augmentation techniques. Achieved 92.98 accuracy and 90.66 classification performance through model optimization and evaluation metrics. Westminster University Shopping System Object-Oriented Programming (Java) Jan 2025 Developed a shopping system applying core OOP principles such as encapsulation, inheritance, and polymorphism. Designed modular and scalable components for product management and user interaction. TECHNICAL SKILLS Languages Python, JavaScript, HTML, CSS3, SQL Web Technologies React.js, Next.js, Three.js, Tailwind CSS, Node.js, Express.js Cloud DevOps AWS (EC2, S3, Lambda),GitHub Actions, Backend Frameworks REST Framework Databases PostgreSQL, MySQL, MongoDB, AI/ML TensorFlow, PyTorch, scikit-learn, OpenAI GPT CERTIFICATIONS Foundation Certificate in Higher Education in Informatics Institute Of Technology IIT The Complete Full-Stack Web Development Bootcamp Udemy Microsoft Azure Machine Learning Fundamentals Linkdin DevOps Beginners to Advanced with Projects Udemy Project Management Simplified Project Management Institute Python Programming Online course Linkdin",
+      "job_description_raw": "Software Engineer - Intern (Web Scraping & Automation) About the Role:\nWe’re on the hunt for a curious and skilled Software Engineering Intern who canscrape structured and unstructured datafrom any website we provide. This role is ideal for someone who enjoys solving technical puzzles, digging into the web, and automating repetitive tasks.\nAs an intern, you’ll be an essential part of our tech team—building and maintaining scraping tools, cleaning and structuring datasets, and helping us extract insights that drive real business decisions. You’ll work closely with our team to support internal research, lead generation, and more.\nKey Responsibilities:\nRequirements:\nGood to Have (Not Required):\nThink you’ve got what it takes to outsmart the web?Apply now and help us turn the internet into structured data gold.\n- Web Scraping:Build and maintain custom scrapers to collect data from various websites—public directories, e-commerce listings, social platforms, and more.\n- Automation:Set up tools/scripts to clean and structure scraped data for easy use and analysis.\n- Monitoring & Maintenance:Ensure scrapers remain functional despite site layout or structure changes.\n- Collaboration:Work with product, research, and business teams to understand data needs and deliver clean outputs.\n- Documentation:Clearly document scraping processes, scripts, and any workarounds used.\n- Proficient inPythonand libraries likeBeautifulSoup, Selenium, Scrapy, or Playwright.\n- Understanding ofHTML, CSS, and JavaScriptto navigate dynamic websites.\n- Experience working withAPIs,JSON, anddata storage(CSV, MongoDB, or SQL).\n- Familiarity withanti-bot mechanismsand how to bypass CAPTCHAs, rate limits, or blocked IPs (bonus).\n- Fluent in English with clear written and verbal communication.\n- Self-starter mindset with strong problem-solving skills.\n- GitHub experience and comfortable with collaborative coding workflows.\n- Experience with headless browsers (e.g., Puppeteer or Playwright).\n- Knowledge of proxy management and rotating user agents.\n- Basic data analysis or visualization skills (e.g., Pandas, Jupyter, or Excel). Zyner.io Remote",
+      "ml_score": 0.9967,
+      "ml_score_pct": 99.7,
+      "hybrid_score_pct": 37.1,
+      "rank": 20,
+      "predicted_role": "Software Engineer",
+      "role_confidence": 0.0,
+      "role_top_predictions": [
+        {
+          "role": "Software Engineer",
+          "confidence": 0.0
+        }
+      ]
+    }
+  ]
+}

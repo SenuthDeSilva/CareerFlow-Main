@@ -1,0 +1,42 @@
+# ── Web Scraping ──────────────────────────────────────────────
+selenium
+beautifulsoup4
+requests
+lxml
+
+# ── Database ──────────────────────────────────────────────────
+psycopg2-binary
+SQLAlchemy
+python-dotenv
+APScheduler
+
+# ── API ───────────────────────────────────────────────────────
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# ── Resume Parsing ────────────────────────────────────────────
+PyPDF2
+pdfplumber
+python-docx
+spacy
+
+# ── ML / Training ─────────────────────────────────────────────
+scikit-learn
+pandas
+numpy
+joblib
+imbalanced-learn
+
+# ── NLP / Recommendations ─────────────────────────────────────
+gensim
+sentence-transformers
+
+# ── XAI ───────────────────────────────────────────────────────
+shap
+
+# ── Notebook / Visualization ──────────────────────────────────
+matplotlib
+seaborn
+ipykernel
